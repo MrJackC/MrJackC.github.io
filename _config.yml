@@ -228,19 +228,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: MrJackC
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: MrJackC
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 6a4828d563c019328e27
+        client_secret: f326d1503be64e3af016631e28015e7f24906650
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: MrJackC
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 6a4828d563c019328e27
+    clientSecret: f326d1503be64e3af016631e28015e7f24906650
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
