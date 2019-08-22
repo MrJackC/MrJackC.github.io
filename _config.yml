@@ -122,6 +122,10 @@ navs:
       -
         subHref: /java.html
         subLabel: Jvm 系列文章
+
+      -
+        subHref: /algorithm.html
+        subLabel: 算法问题  
         
       -
         subHref: http://www.justdojava.com
