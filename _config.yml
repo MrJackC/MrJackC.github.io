@@ -125,7 +125,7 @@ navs:
 
       -
         subHref: /algorithm.html
-        subLabel: 算法问题  
+        subLabel: Java 算法问题  
         
       -
         subHref: http://www.justdojava.com

@@ -27,7 +27,7 @@ keywords: algorithm,算法,学习,面试
 <!-- GFM-TOC -->
 
 
-# 595. Big Countries
+## 595. Big Countries
 
 https://leetcode.com/problems/big-countries/description/
 
@@ -87,7 +87,7 @@ WHERE
     OR population > 25000000;
 ```
 
-# 627. Swap Salary
+## 627. Swap Salary
 
 https://leetcode.com/problems/swap-salary/description/
 
@@ -204,7 +204,7 @@ ORDER BY
     rating DESC;
 ```
 
-# 596. Classes More Than 5 Students
+## 596. Classes More Than 5 Students
 
 https://leetcode.com/problems/classes-more-than-5-students/description/
 
@@ -271,7 +271,7 @@ HAVING
     count( DISTINCT student ) >= 5;
 ```
 
-# 182. Duplicate Emails
+## 182. Duplicate Emails
 
 https://leetcode.com/problems/duplicate-emails/description/
 
@@ -328,7 +328,7 @@ HAVING
     COUNT( * ) >= 2;
 ```
 
-# 196. Delete Duplicate Emails
+## 196. Delete Duplicate Emails
 
 https://leetcode.com/problems/delete-duplicate-emails/description/
 
@@ -399,7 +399,7 @@ WHERE
 
 参考：[pMySQL Error 1093 - Can't specify target table for update in FROM clause](https://stackoverflow.com/questions/45494/mysql-error-1093-cant-specify-target-table-for-update-in-from-clause)
 
-# 175. Combine Two Tables
+## 175. Combine Two Tables
 
 https://leetcode.com/problems/combine-two-tables/description/
 
@@ -517,7 +517,7 @@ FROM
     AND E1.Salary > E2.Salary;
 ```
 
-# 183. Customers Who Never Order
+## 183. Customers Who Never Order
 
 https://leetcode.com/problems/customers-who-never-order/description/
 
@@ -607,7 +607,7 @@ WHERE
     Id NOT IN ( SELECT CustomerId FROM Orders );
 ```
 
-# 184. Department Highest Salary
+## 184. Department Highest Salary
 
 https://leetcode.com/problems/department-highest-salary/description/
 
@@ -688,7 +688,7 @@ WHERE
     AND E.Salary = M.Salary;
 ```
 
-# 176. Second Highest Salary
+## 176. Second Highest Salary
 
 https://leetcode.com/problems/second-highest-salary/description/
 
@@ -739,7 +739,7 @@ SELECT
     ( SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1, 1 ) SecondHighestSalary;
 ```
 
-# 177. Nth Highest Salary
+## 177. Nth Highest Salary
 
 ## Description
 
@@ -760,7 +760,7 @@ RETURN ( SELECT ( SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMI
 END
 ```
 
-# 178. Rank Scores
+## 178. Rank Scores
 
 https://leetcode.com/problems/rank-scores/description/
 
@@ -862,7 +862,7 @@ ORDER BY
     S1.score DESC;
 ```
 
-# 180. Consecutive Numbers
+## 180. Consecutive Numbers
 
 https://leetcode.com/problems/consecutive-numbers/description/
 
@@ -927,7 +927,7 @@ WHERE L1.id = l2.id - 1
     AND l2.num = l3.num;
 ```
 
-# 626. Exchange Seats
+## 626. Exchange Seats
 
 https://leetcode.com/problems/exchange-seats/description/
 
