@@ -7,8 +7,8 @@ copyright: mrjason
 keywords: docker,入门,教程
 ---
 
-# Docker Mac 下的安装
-#### 1、百度Docker 进入Docker官网
+## Docker Mac 下的安装
+## 1、百度Docker 进入Docker官网
 ![image-20190506113113291](http://ws4.sinaimg.cn/large/006tNc79ly1g2v2hca38nj30md0brgnk.jpg)
 
 ![image-20190506113225844](http://ws4.sinaimg.cn/large/006tNc79ly1g2v2helo15j312w0hjq5a.jpg)
@@ -36,11 +36,11 @@ keywords: docker,入门,教程
 ![image-20190506114748557](http://ws1.sinaimg.cn/large/006tNc79ly1g2v2hdplupj30ij02ijrn.jpg)
 
 
-# Docker 下安装服务器所需服务
+## Docker 下安装服务器所需服务
 
-###  一、Docker 安装MySQL服务
+##  一、Docker 安装MySQL服务
 
-#### 1、MYSQL
+## 1、MYSQL
 
 查找Docker Hub上的mysql镜像
 
@@ -64,9 +64,9 @@ keywords: docker,入门,教程
 
 ![image-20190506115833001](http://upload-images.jianshu.io/upload_images/16014890-f913e796a824bbd3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 二、Docker 安装Nginx服务
+## 二、Docker 安装Nginx服务
 
-####2、Nginx
+## 2、Nginx
 
 查找Docker Hub上的Nginx镜像
 
@@ -84,9 +84,9 @@ keywords: docker,入门,教程
 
 ![image-20190506143237853](http://upload-images.jianshu.io/upload_images/16014890-81c3fc5c12461001.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 三、Docker 安装Tomcat服务
+## 三、Docker 安装Tomcat服务
 
-#### 3、Tomcat
+## 3、Tomcat
 
 查找Docker Hub上的tomcat镜像
 
@@ -108,7 +108,7 @@ keywords: docker,入门,教程
 
 ## 四、 Docker 安装Redis服务
 
-#### 4、Redis
+## 4、Redis
 
 查找Docker Hub上的redis镜像
 
@@ -128,9 +128,9 @@ keywords: docker,入门,教程
 
 ![image-20190506154614188](http://upload-images.jianshu.io/upload_images/16014890-f0616ff24694e417.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#五 、Docker 安装Java服务
+##五 、Docker 安装Java服务
 
-####5、Java
+## 5、Java
 
 查找Docker Hub上的Java镜像
 
