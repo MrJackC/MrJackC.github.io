@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker(一)：Docker在Mac平台下的安装
+title: Docker(二)：Docker在Mac平台下的安装
 category: docker
 tags: [docker]
 copyright: mrjason
