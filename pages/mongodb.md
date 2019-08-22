@@ -2,8 +2,8 @@
 layout: page
 title: 数据库系列文章
 titlebar: MongoDB
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB,MYSQL 系列文章
-menu: sql
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB,MySQL 系列文章
+menu: MySQL
 css: ['blog-page.css']
 permalink: /mongodb
 keywords: MySQL,MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程

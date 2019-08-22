@@ -3,6 +3,7 @@ layout: post
 title: mongodb集群监控和运维
 category: mongodb
 tags: [mongodb]
+keywords: mongodb
 ---
 
 这篇文件介绍如何动态的添加、下架mongod分片和副本集，以及如何监控和运维mongodb。
