@@ -108,6 +108,6 @@ tags: [life]
 
 
 -------------
-**作者：纯洁的微笑**  
+<!-- **作者：纯洁的微笑**  
 **出处：[http://www.ityouknow.com/](http://www.ityouknow.com/life/2017/05/19/Limitations-of-thinking.html)**      
-**版权归作者所有，转载请注明出处** 
+**版权归作者所有，转载请注明出处**  -->

@@ -164,6 +164,6 @@ delete | 当有分支或标签被删除时触发
 **[示例代码-码云](https://gitee.com/ityouknow/spring-cloud-examples)**
 
 -------------
-**作者：纯洁的微笑**  
+<!-- **作者：纯洁的微笑**  
 **出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/23/springcloud-config-svn-refresh.html)**      
-**版权归作者所有，转载请注明出处** 
+**版权归作者所有，转载请注明出处**  -->

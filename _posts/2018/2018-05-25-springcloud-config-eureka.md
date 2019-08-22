@@ -194,6 +194,6 @@ public class ConfigClientApplication {
 **[示例代码-码云](https://gitee.com/ityouknow/spring-cloud-examples)**
 
 -------------
-**作者：纯洁的微笑**  
+<!-- **作者：纯洁的微笑**  
 **出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/25/springcloud-config-eureka.html)**      
-**版权归作者所有，转载请注明出处** 
+**版权归作者所有，转载请注明出处**  -->

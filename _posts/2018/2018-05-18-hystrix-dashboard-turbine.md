@@ -233,6 +233,6 @@ data: {"reportingHostsLast10Seconds":1,"name":"meta","type":"meta","timestamp":1
 
 
 -------------
-**作者：纯洁的微笑**  
+<!-- **作者：纯洁的微笑**  
 **出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/18/hystrix-dashboard-turbine.html)**      
-**版权归作者所有，转载请注明出处** 
+**版权归作者所有，转载请注明出处**  -->
