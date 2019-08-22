@@ -108,9 +108,19 @@ navs:
         subLabel: Spring Cloud
 
   -
-    href: /spring-cloud.html
-    label: Spring Cloud
+    href: /arch.html
+    label: 架构师
     target: _self
+    subnav:
+
+      -
+        subHref: /server.html
+        subLabel: 服务器
+
+      -
+        subHref: /mongodb.html
+        subLabel: 数据库
+
 
   -
     
