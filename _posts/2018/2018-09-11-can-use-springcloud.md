@@ -2,7 +2,6 @@
 layout: post
 title: Spring Cloud在国内中小型公司能用起来吗？
 category: springcloud
-copyright: mrjason
 tags: [springcloud]
 keywords: 微服务,Spring Cloud,中小企业,架构
 ---
