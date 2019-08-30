@@ -64,6 +64,15 @@ keywords: docker,入门,教程
 
 ![image-20190506115833001](http://upload-images.jianshu.io/upload_images/16014890-f913e796a824bbd3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+启动mysql镜像
+> docker run --name mysql -p3306:3306 -e MYSQL_ROOT_PASSWORD=525252 -d mysql:5.7
+
+-name:容器名称mysql
+
+-p：将端口号映射到主机
+
+最后设置密码525252
+
 ## 二、Docker 安装Nginx服务
 
 ## 2、Nginx
@@ -128,7 +137,10 @@ keywords: docker,入门,教程
 
 ![image-20190506154614188](http://upload-images.jianshu.io/upload_images/16014890-f0616ff24694e417.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##五 、Docker 安装Java服务
+运行镜像
+> docker run -p 6379:6379 -d redis:3.2 redis-server
+
+## 五 、Docker 安装Java服务
 
 ## 5、Java
 
@@ -151,3 +163,12 @@ keywords: docker,入门,教程
 ![image-20190506161518098](http://upload-images.jianshu.io/upload_images/16014890-5418a3882505d9cf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 切换为Java8 版本。
+
+## 六 、Docker 安装ES服务
+
+> docker search elasticsearch
+
+> docker pull elasticsearch:6.8.2
+
+运行镜像
+> docker run -d --name elasticsearch --net somenetwork -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elasticsearch:6.8.2
