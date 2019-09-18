@@ -165,10 +165,28 @@ keywords: docker,入门,教程
 切换为Java8 版本。
 
 ## 六 、Docker 安装ES服务
-
+## 6、elasticsearch
 > docker search elasticsearch
 
 > docker pull elasticsearch:6.8.2
 
 运行镜像
 > docker run -d --name elasticsearch --net somenetwork -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" elasticsearch:6.8.2
+
+## 安装最新的elasticsearch
+1.	下载ES镜像问题
+docker pull elasticsearch
+2.	运行ES
+docker run -it --name elasticsearch -d -p 9200:9200 -p 9300:9300 -p 5601:5601 elasticsearch
+3.	测试运行结果
+http://192.168.1.30:9200/
+
+
+> 注意：-p 5601:5601 是kibana的端口地址 (我这里kibana的container共用elasticsearch的网络，所以这样设置
+## 七、Docker安装Kibana
+## 7、安装Kibana
+
+> docker run -it -d -e ELASTICSEARCH_URL=http://127.0.0.1:9200 --name kibana --network=container:elasticsearch kibana
+
+测试运行结果
+> http://192.168.1.30:5601/app/kibana
