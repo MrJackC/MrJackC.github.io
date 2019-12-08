@@ -2,7 +2,6 @@
 layout: page
 title: Java 笔记
 titlebar: java
-subtitle: <span class="mega-octicon octicon-clippy"></span> &nbsp;&nbsp; Java 人的精神家园。>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="http://www.justdojava.com/" target="_blank" ><font color="#EB9439">点我直达</font></a>
 menu: java
 css: ['blog-page.css']
 permalink: /javanoto
@@ -14,7 +13,7 @@ permalink: /javanoto
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='java' or post.category=='jvm' or post.keywords contains 'java' %}
+                {% if post.category=='java' or post.category=='javanoto' or post.keywords contains 'javanoto' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
