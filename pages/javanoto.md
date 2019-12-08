@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java 笔记
-titlebar: java
+titlebar: javanoto
 menu: java
 css: ['blog-page.css']
 permalink: /javanoto
@@ -13,7 +13,7 @@ permalink: /javanoto
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='java' or post.category=='javanoto' or post.keywords contains 'javanoto' %}
+                {% if post.category=='javanoto' or post.category=='javanoto' or post.keywords contains 'javanoto' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
