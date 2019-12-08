@@ -128,7 +128,7 @@ navs:
 
       -
         subHref: /javanoto.html
-        subLabel: Java笔记
+        subLabel: Java 笔记
 
       -
         subHref: /java.html
