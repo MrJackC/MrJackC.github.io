@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Collection、泛型笔记
-category: Javanoto
-tags: [Javanoto]
+category: javanoto
+tags: [javanoto]
 keywords: 泛型、集合
 ---
 
