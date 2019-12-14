@@ -3,6 +3,7 @@ layout: post
 title: Collection、泛型笔记
 category: javanoto
 tags: [javanoto]
+copyright: mrjason
 keywords: 泛型、集合
 ---
 

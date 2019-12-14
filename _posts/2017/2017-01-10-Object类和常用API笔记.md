@@ -3,6 +3,7 @@ layout: post
 title: Object类、常用API笔记
 category: javanoto
 tags: [javanoto]
+copyright: mrjason
 keywords: Object类、常用API
 ---
 

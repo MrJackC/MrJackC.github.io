@@ -3,6 +3,7 @@ layout: post
 title: Cookie、Session
 category: javanoto
 tags: [javanoto]
+copyright: mrjason
 keywords: Cookie、Session
 ---
 

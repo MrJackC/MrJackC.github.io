@@ -3,6 +3,7 @@ layout: post
 title: JavaScript基础
 category: javanoto
 tags: [javanoto]
+copyright: mrjason
 keywords: JavaScript基础
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: 数据库连接池、Spring JDBC
 category: javanoto
 tags: [javanoto]
+copyright: mrjason
 keywords: 数据库连接池、Spring JDBC
 ---
 
