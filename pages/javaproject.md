@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Java 笔记
-titlebar: javanoto
+title: Java 项目
+titlebar: javaproject
 menu: java
 css: ['blog-page.css']
-permalink: /javanoto
+permalink: /javaproject
 ---
 
 <div class="row">
