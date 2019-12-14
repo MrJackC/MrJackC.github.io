@@ -129,7 +129,9 @@ navs:
       -
         subHref: /javanoto.html
         subLabel: Java 笔记
-
+      -
+        subHref: /javaproject.html
+        subLabel: Java 项目
       -
         subHref: /java.html
         subLabel: Jvm 系列文章

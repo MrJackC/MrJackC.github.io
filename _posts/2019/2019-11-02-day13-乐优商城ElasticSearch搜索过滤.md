@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第十三天-乐优商城商品查询ElasticSearch搜索过滤
-category: springcloud
+category: javaproject
 tags: [springcloud]
 copyright: mrjason
 keywords: 乐优商城 , Spring Boot ,Spring Cloud 

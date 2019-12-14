@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一天-乐优商城Spring Boot知识串讲
-category: springcloud
+category: javaproject
 tags: [springcloud]
 copyright: mrjason
 keywords: 乐优商城 , Spring Boot ,Spring Cloud
