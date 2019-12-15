@@ -123,33 +123,33 @@ This may also be found at: /root/.jenkins/secrets/initialAdminPassword
 访问
 浏览器访问：```http://localhost:8080/```
 
-![](http://www.itmind.net/assets/images/2017/jenkins/1.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x91icvf7j20rk0k5aaw.jpg)
 
 输入：0cca37389e6540c08ce6e4c96f46da0f
 
 
 进入用户自定义插件界面，建议选择安装官方推荐插件，因为安装后自己也得安装:
 
-![](http://www.itmind.net/assets/images/2017/jenkins/2.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x92a8pdqj20k50dwaea.jpg)
 
 接下来是进入插件安装进度界面:
 
-![](http://www.itmind.net/assets/images/2017/jenkins/3.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x92kgrtqj20rm0kcwfp.jpg)
 
 
 插件一次可能不会完全安装成功，可以点击Retry再次安装。直到全部安装成功
 
-![](http://www.itmind.net/assets/images/2017/jenkins/32.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x92xisnqj20rp0kc40e.jpg)
 
 等待一段时间之后，插件安装完成，配置用户名密码:
 
-![](http://www.itmind.net/assets/images/2017/jenkins/4.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x933zg99j20rk0kcjrr.jpg)
 
 输入：admin/admin
 
 系统管理-》全局工具配置  jdk路径，
 
-![](http://www.itmind.net/assets/images/2017/jenkins/5.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x93aj8ghj20un0h2mxj.jpg)
 
 
 ## 第二步，插件安装和配置
@@ -158,7 +158,7 @@ This may also be found at: /root/.jenkins/secrets/initialAdminPassword
 
 插件安装：系统管理 > 插件管理 > 可选插件,勾选需要安装的插件，点击直接安装或者下载重启后安装
 
-![](http://www.itmind.net/assets/images/2017/jenkins/6.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x93jibofj212k0lf0u2.jpg)
 
 ### 配置全局变量
 
@@ -168,13 +168,13 @@ This may also be found at: /root/.jenkins/secrets/initialAdminPassword
 
 配置本地JDK的路径，去掉勾选自动安装
 
-![](http://www.itmind.net/assets/images/2017/jenkins/7.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x93uqqg6j20tb08taa1.jpg)
 
 **Maven**
 
 配置本地maven的路径，去掉勾选自动安装
 
-![](http://www.itmind.net/assets/images/2017/jenkins/8.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x940cdgdj20t507z749.jpg)
 
 其它内容可以根据自己的情况选择安装。
 
@@ -218,6 +218,17 @@ service sshd restart
 
 最后，如果可以SSH IP 免密登录成功说明SSH公钥认证成功。
 
+上面这种方式比较复杂，其实在 Jenkins 后台直接添加操作即可，参考下面方式
+
+使用用户名+密码方式登录目标发布服务器
+(1)点击”高级”展开配置
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x96f1y77j20qo06mmxd.jpg)
+
+(2)配置SSH的登陆密码
+
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x96ko138j20r90emdgi.jpg)
+
+配置完成后可点击“Test Configuration”测试到目标主机的连接，出现”success“则成功连接，如果有多台应用服务器，可以点击”增加“，配置多个“SSH Servers” 点击“保存”以保存配置。
 
 ## 第三步，Push SSH 
 
@@ -225,7 +236,7 @@ service sshd restart
 
 选择 Publish over SSH
 
-![](http://www.itmind.net/assets/images/2017/jenkins/9.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x96v7plcj20u20imdgc.jpg)
 
 Passphrase 不用设置
 Path to key 写上生成的ssh路径：```/root/.ssh/id_rsa```
@@ -243,23 +254,23 @@ Remote Directory 不填
 
 首页点击**新建**：输入项目名称
 
-![](http://www.itmind.net/assets/images/2017/jenkins/10.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x976ccj5j211d0kd769.jpg)
 
 下方选择构建一个maven项目，点击确定。
 
 勾选**丢弃旧的构建**，选择是否备份被替换的旧包。我这里选择备份最近的10个
 
-![](http://www.itmind.net/assets/images/2017/jenkins/12.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x98920ouj20vo0j7wf6.jpg)
 
 源码管理,选择svn,配置SVN相关信息，点击add可以输入svn的账户和密码
 
-![](http://www.itmind.net/assets/images/2017/jenkins/11.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x98n2xygj20wf0kkmy6.jpg)
 
 svn地址：http://192.168.0.xx/svn/xxx@HEAD,```@HEAD```意思取最新版本
 
 构建环境中勾选“Add timestamps to the Console Output”，代码构建的过程中会将日志打印出来
 
-![](http://www.itmind.net/assets/images/2017/jenkins/13.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x98ttlzuj20sf07xaa9.jpg)
 
 在Build中输入打包前的mvn命令，如：
 
@@ -269,19 +280,19 @@ clean install -Dmaven.test.skip=true -Ptest
 
 意思是：排除测试的包内容，使用后缀为test的配置文件。
 
-![](http://www.itmind.net/assets/images/2017/jenkins/14.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9937t5ij20rv04ra9z.jpg)
 
 Post Steps 选择 Run only if build succeeds 
 
-![](http://www.itmind.net/assets/images/2017/jenkins/15.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x998u7hcj20r004uglj.jpg)
 
 点击**Add post-build step**，选择 Send files or execute commands over SSH
 
-![](http://www.itmind.net/assets/images/2017/jenkins/16.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x99dhs8wj210h0k4gmd.jpg)
 
 Name选择上面配置的Push SSH
 
-![](http://www.itmind.net/assets/images/2017/jenkins/17.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x99i6xbpj20sk0jgq3t.jpg)
 
 Source files配置:target/xxx-0.0.1-SNAPSHOT.jar 项目jar包名
 Remove prefix:target/

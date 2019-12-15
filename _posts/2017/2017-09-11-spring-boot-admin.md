@@ -65,7 +65,7 @@ public class AdminServerApplication {
 
 完成上面三步之后，启动服务端，浏览器访问`http://localhost:8000`可以看到以下界面：
 
-![](http://www.itmind.net/assets/images/2018/springboot/admin1.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9ex48vvj213s06ht8q.jpg)
 
 
 **[示例代码](https://github.com/ityouknow/spring-boot-examples)**
@@ -110,11 +110,11 @@ public class AdminClientApplication {
 
 配置完成之后，启动Client端服务，再次访问服务：`http://localhost:8000`可以看到客户端的相关信息。
 
-![](http://www.itmind.net/assets/images/2018/springboot/admin2.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9f4jwhkj212v09rjrh.jpg)
 
 首页会展示被监控的各个服务，点击详情可以查看某个服务的具体监控信息
 
-![](http://www.itmind.net/assets/images/2018/springboot/admin3.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9fdv5ljj21g70n9jsq.jpg)
 
 通过上图可以看出，Spring Boot Admin以图形化的形式展示了应用的各项信息，这些信息大多都来自于Spring Boot Actuator提供的接口。
 

@@ -72,7 +72,7 @@ public class FileUploadWebApplication {
 
 tomcatEmbedded这段代码是为了解决，上传文件大于10M出现连接重置的问题。此异常内容GlobalException也捕获不到。
 
-![](http://www.itmind.net/assets/images/2018/springboot/connect_rest.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9aijxaxj20el0cdgln.jpg)
 
 详细内容参考：[Tomcat large file upload connection reset](http://www.mkyong.com/spring/spring-file-upload-and-connection-reset-issue/)
 
@@ -95,7 +95,7 @@ tomcatEmbedded这段代码是为了解决，上传文件大于10M出现连接重
 
 非常简单的一个Post请求，一个选择框选择文件，一个提交按钮，效果如下：
 
-![](http://www.itmind.net/assets/images/2018/springboot/upload_submit.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9as2gb0j20fj041aa0.jpg)
 
 上传结果展示页面：
 
@@ -113,7 +113,7 @@ tomcatEmbedded这段代码是为了解决，上传文件大于10M出现连接重
 
 效果图如下：
 
-![](http://www.itmind.net/assets/images/2018/springboot/uploadstatus.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9axr943j20d304v0sp.jpg)
 
 
 ## 4、编写上传控制类
@@ -167,7 +167,7 @@ public String singleFileUpload(@RequestParam("file") MultipartFile file,
 
 最常用的是最后两个配置内容，限制文件上传大小，上传时超过大小会抛出异常：
 
-![](http://www.itmind.net/assets/images/2018/springboot/uploadmax.png)
+![undefined](http://ww1.sinaimg.cn/large/9d229b41ly1g9x9b7tm9jj211l03x3yw.jpg)
 
 
 更多配置信息参考这里：[Common application properties](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties)
