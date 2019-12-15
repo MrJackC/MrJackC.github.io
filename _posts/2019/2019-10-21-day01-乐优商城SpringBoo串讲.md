@@ -342,7 +342,7 @@ public class TestApplication {
 
 我们跟进该注解的源码，并没有看到什么特殊的地方。我们查看注释：
 
-![1527818066552](/assets/1527818066552.png)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xdg907z7j30x70ggmzh.jpg)
 
 大概的意思：
 
