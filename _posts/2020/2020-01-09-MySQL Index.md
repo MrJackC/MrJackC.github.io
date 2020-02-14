@@ -4,7 +4,7 @@ title: MySQL数据库基础篇
 category: MySQL
 tags: [MySQL]
 copyright: mrjason
-keywords: MySQL,数据库,存储,大型架构模式
+keywords: interview,MySQL,数据库,存储,大型架构模式
 ---
 # 思维导图-索引篇
 
