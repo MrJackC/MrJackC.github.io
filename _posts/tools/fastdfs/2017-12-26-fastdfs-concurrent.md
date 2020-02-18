@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 一次FastDFS并发问题的排查经历
-category: FastDFS
+category: tools
 tags: [FastDFS]
 excerpt: 一次FastDFS并发问题的排查经历
-keywords: FastDFS,并发,架构
+keywords: FastDFS
+copyright: mrjason
 ---
 
 ![](http://www.itmind.net/assets/images/2017/life/router.jpg)  

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Blog With Jekyll
-category: other
+title:  Blog With Jekyll
+category: tools
 tags: [other]
+copyright: mrjason
+keywords: other
 ---
 
 ## Create a blog site

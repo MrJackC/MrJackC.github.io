@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Docker(一)：Docker介绍
-category: docker
+category: tools
 tags: [docker]
 copyright: mrjason
-keywords: docker,入门,教程
+keywords: docker
 ---
 
 

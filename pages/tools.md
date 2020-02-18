@@ -15,7 +15,7 @@ keywords: 工具箱,学习,开发工具,辅助工具,tools
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='tools'  or post.keywords contains '工具箱' or post.keywords contains 'tools' %}
+                {% if post.category=='tools'  or post.keywords contains '工具箱'  %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

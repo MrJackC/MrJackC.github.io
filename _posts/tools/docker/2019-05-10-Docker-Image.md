@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Docker(三)：Docker 镜像等操作
-category: docker
+category: tools
 tags: [docker]
 copyright: mrjason
-keywords: docker,镜像,教程
+keywords: docker
 ---
 
 镜像作为 Docker 三大核心概念中，最重要的一个关键词，它有很多操作，是您想学习容器技术不得不掌握的。本文将带您一步一步，图文并重，上手操作来学习它。

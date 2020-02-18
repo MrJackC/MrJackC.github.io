@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 发送邮件那些事
-category: other
+title:  发送邮件那些事
+category: tools
 tags: [other]
-no-post-nav: true
-excerpt: 邮件发送历史和有趣的事情，邮件发送协议、原理解析。
-keywords: 邮件发送, Mail，协议，原理
+copyright: mrjason
+keywords: other
 ---
 
 ## 邮件历史

@@ -15,7 +15,7 @@ keywords: Docker,DockerFile,Swarm,docker-machine,MCompose,Docker 学习,服务�
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='docker'  or post.keywords contains 'docker' or post.keywords contains 'Docker' %}
+                {% if post.category=='docker'  or post.keywords contains 'docker'  %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

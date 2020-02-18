@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 关于第三方支付，看这篇文章就够了！
-category: payment
-tags: [payment]
-keywords: 第三分支付，支付，牌照，跨境支付
+category: tools
+tags: [pay]
+copyright: mrjason
+keywords: pay
 ---
+
 
 万字长文为您介绍第三方支付:起源、发展与趋势
 

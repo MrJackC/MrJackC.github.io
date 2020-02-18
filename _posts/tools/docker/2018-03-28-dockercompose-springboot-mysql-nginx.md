@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Spring Boot 2 (五)：Docker Compose + Spring Boot + Nginx + Mysql 实践
-category: springboot
+category: tools
 tags: [springboot]
-keywords: Spring Boot,Docker,Compose,Nginx,Mysql,docker
+keywords: docker
+copyright: mrjason
 excerpt: 感受 Docker 魅力，排解决多应用部署之疼，Docker Compose + Spring Boot + Nginx + Mysql 实践
 ---
 

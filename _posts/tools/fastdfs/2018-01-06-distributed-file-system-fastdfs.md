@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 分布式文件系统FastDFS详解
-category: FastDFS
+category: tools
 tags: [FastDFS]
 excerpt: 分布式文件系统FastDFS快速入门、设计、原理、实践
-keywords: FastDFS, 分布式文件系统、图片服务器
+keywords: FastDFS
+copyright: mrjason
 ---
 
 上一篇文章《[一次FastDFS并发问题的排查经历](http://mp.weixin.qq.com/s/EFsK3yOtb7maDNqgaHjQow)》介绍了一次生产排查并发问题的经历，可能有些人对FastDFS不是特别的了解，因此计划写几篇文章完整的介绍一下这个软件。

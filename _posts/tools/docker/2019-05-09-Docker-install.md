@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Docker(二)：Docker在Mac平台下的安装
-category: docker
+category: tools
 tags: [docker]
 copyright: mrjason
-keywords: docker,入门,教程
+keywords: docker
 ---
 
 ## Docker Mac 下的安装

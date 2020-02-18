@@ -1,8 +1,10 @@
 ---
 layout: post
 title: FastDFS 集群 安装 配置
-category: FastDFS
+category: tools
 tags: [FastDFS]
+keywords: FastDFS
+copyright: mrjason
 ---
 
 这篇文章介绍如何搭建FastDFS 集群

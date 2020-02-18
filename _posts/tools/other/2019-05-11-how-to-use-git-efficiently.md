@@ -2,11 +2,10 @@
 layout: post
 title: 如何高效的使用Git
 category: tools
-tags: [tools]
+tags: [other]
 copyright: mrjason
-keywords: tools,工具箱,Git,
+keywords: other
 ---
-
 
 # 【译】如何高效的使用 Git
 

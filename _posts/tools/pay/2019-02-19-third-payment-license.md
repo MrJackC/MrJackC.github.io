@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 揭秘第三方支付包含哪些业务 | 牌照角色篇
-category: payment
-tags: [payment]
-keywords: 第三分支付，支付宝，牌照，网络支付，PayPal
+category: tools
+tags: [pay]
+copyright: mrjason
+keywords: pay
 ---
+
 
 这篇文章为大家介绍第三方支付都包含哪些业务，以及第三方支付的各方玩家都是谁？
 

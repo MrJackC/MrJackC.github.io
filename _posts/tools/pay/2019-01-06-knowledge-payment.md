@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 谈谈 IT 行业的知识付费
-no-post-nav: true
-category: it
-tags: [it]
-keywords: 知识付费，Gitchat，慕课网，极客时间，掘金小册
+category: tools
+tags: [pay]
+copyright: mrjason
+keywords: pay
 ---
 
 随着罗振宇的跨年演讲的刷屏，一条颇有争议的话在互联网上流行：罗振宇不断在贩卖焦虑，从而引导大家进行知识付费。进而发展到很多人问知识付费是不是骗人的？

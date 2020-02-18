@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      技术人如何搭建自己的技术博客
-no-post-nav: true
-category: other
+layout: post
+title:  技术人如何搭建自己的技术博客
+category: tools
 tags: [other]
-excerpt: 每个程序员都想拥有一个博客
+copyright: mrjason
+keywords: other
 ---
 
 上次有人留言说，技术博客是程序员的标配，但据我所知绝大部分技术同学到现在仍然没有自己的技术博客。原因有很多，有的是懒的写，有的是怕写不好，还有的是一直想憋个大招，幻想做到完美再发出来，结果一直胎死腹中。但其实更多程序员是不知道如何去搭建一个博客，其实如今搭建一个个人技术博客非常简单，其中最简单搭建方式莫属使用 GitHub Pages + Jekyll 了，我的博客就是使用这种技术。

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 互联网代表着未来
-titlebar: it
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 互联网那些事
-menu: it
+title: Ps系列文章
+titlebar: payment
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Ps系列文章
+menu: Ps
 css: ['blog-page.css']
-permalink: /it
+permalink: /ps
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /it
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='it' %}
+                {% if post.category=='Ps'  or post.keywords contains 'Ps' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

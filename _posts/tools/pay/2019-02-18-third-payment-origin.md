@@ -1,9 +1,10 @@
 ---
 layout: post
 title: PayPal、支付宝诞生的故事 | 概述起源篇
-category: payment
-tags: [payment]
-keywords: 第三分支付，支付宝，快捷支付，第三方支付概述，PayPal
+category: tools
+tags: [pay]
+copyright: mrjason
+keywords: pay
 ---
 
 你知道第三方支付是如何诞生的吗？

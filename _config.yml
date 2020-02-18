@@ -160,7 +160,27 @@ navs:
         subHref: /algorithms.html
         subLabel: 算法
 
-
+  -
+    href: /tools.html
+    label: 工具
+    target: _self
+    subnav:  
+          
+      -
+        subHref: /docker.html
+        subLabel: Docker
+      -
+        subHref: /fastdfs.html
+        subLabel: FastDFS        
+      -
+        subHref: /pay.html
+        subLabel: 支付 
+      -
+        subHref: /ps.html
+        subLabel: Ps   
+      -
+        subHref: /other.html
+        subLabel: 程序员小工具         
   -
     href: /archives.html
     label: Archives
@@ -183,11 +203,6 @@ labels:
   -
     href: /fastdfs.html
     label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
     target: _blank
 
   -

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Markdown实用技巧－编辑器(Typora)
+title:  Markdown实用技巧－编辑器(Typora)
 category: tools
-tags: [tools]
+tags: [other]
 copyright: mrjason
-keywords: tools,工具箱,Typora
+keywords: other
 ---
+
 # Markdown实用技巧－编辑器(Typora)
 
 本次的安利对象是一个 Markdown 编辑器，也是最近才开始使用md写文档，感觉Typora是编辑器中最优雅的编辑器，先来看一下它的界面吧：
