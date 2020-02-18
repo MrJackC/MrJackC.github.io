@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Java 笔记
-titlebar: java
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Java基础系列文章
-menu: java
+title: Java jdk
+titlebar: Java jdk
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; JDK系列文章
+menu: Java jdk
 css: ['blog-page.css']
-permalink: /java
+permalink: /jdk
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /java
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='java' or post.keywords contains 'java' %}
+                {% if post.category=='jdk' or post.keywords contains 'jdk' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

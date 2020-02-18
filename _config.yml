@@ -89,36 +89,47 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring Boot
+    href: /java.html
+    label: java
     target: _self
     subnav:
+
+      -
+        subHref: /basic.html
+        subLabel: Java 基础
+
+      -
+        subHref: /jvm.html
+        subLabel: Java 虚拟机
+      -
+        subHref: /jdk.html
+        subLabel: Java JDK 新特性
+
+  -
+    href: /system-design.html
+    label: 系统设计
+    target: _self
+    subnav:
+
+      -
+        subHref: /mybatis.html
+        subLabel: MyBatis
+
+      -
+        subHref: /spring.html
+        subLabel: Spring
 
       -
         subHref: /spring-boot.html
-        subLabel: Spring Boot
-
+        subLabel: 分布式
+      
       -
         subHref: /spring-cloud.html
-        subLabel: Spring Cloud
-
-  -
-    href: /arch.html
-    label: 架构师
-    target: _self
-    subnav:
+        subLabel: 微服务 
 
       -
-        subHref: /server.html
-        subLabel: 服务器
-
-      -
-        subHref: /mongodb.html
-        subLabel: 数据库
-
-      -
-        subHref: /network.html
-        subLabel: 网络相关
+        subHref: /data.html
+        subLabel: 数据传输   
   -
     
     href: http://www.justdojava.com

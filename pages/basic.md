@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Java 笔记
-titlebar: java
+title: Java 基础笔记
+titlebar: java 基础笔记
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Java基础系列文章
-menu: java
+menu: java 基础
 css: ['blog-page.css']
-permalink: /java
+permalink: /basic
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /java
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='java' or post.keywords contains 'java' %}
+                {% if post.category=='basic' or post.keywords contains '基础' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
