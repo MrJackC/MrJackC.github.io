@@ -130,11 +130,12 @@ navs:
       -
         subHref: /data.html
         subLabel: 数据传输   
+
   -
-  href: /database.html
-  label: 数据库
-  target: _self
-  subnav:  
+    href: /database.html
+    label: 数据库
+    target: _self
+    subnav:  
  
       -
         subHref: /mysql.html
@@ -147,10 +148,10 @@ navs:
         subLabel: Redis
         
   -
-  href: /dataStructures-algorithms.html
-  label: 数据结构与算法
-  target: _self
-  subnav:  
+    href: /dataStructures-algorithms.html
+    label: 数据结构与算法
+    target: _self
+    subnav:  
     
       -
         subHref: /dataStructures.html
@@ -159,7 +160,7 @@ navs:
         subHref: /algorithms.html
         subLabel: 算法
 
-        
+
   -
     href: /archives.html
     label: Archives
