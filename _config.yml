@@ -137,28 +137,29 @@ navs:
   subnav:  
  
       -
-        subHref: /javanoto.html
-        subLabel: Java 笔记
+        subHref: /mysql.html
+        subLabel: MySQL
       -
-        subHref: /javaproject.html
-        subLabel: Java 项目
+        subHref: /mongodb.html
+        subLabel: MongoDB
       -
-        subHref: /java.html
-        subLabel: Jvm 系列文章
-
-      -
-        subHref: /algorithm.html
-        subLabel: Java 算法问题  
+        subHref: /redis.html
+        subLabel: Redis
         
+  -
+  href: /dataStructures-algorithms.html
+  label: 数据结构与算法
+  target: _self
+  subnav:  
+    
       -
-        subHref: /interview.html
-        subLabel: Java 面试问题  
-          
+        subHref: /dataStructures.html
+        subLabel: 数据结构
       -
-        subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
-        target: _blank
+        subHref: /algorithms.html
+        subLabel: 算法
 
+        
   -
     href: /archives.html
     label: Archives
