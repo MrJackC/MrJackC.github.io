@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (二)：Spring Boot 2 尝鲜-动态 Banner
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

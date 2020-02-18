@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mybatis 常见面试问题
-category: mybatis
+category: system-design
 tags: [mybatis]
 copyright: mrjason
 keywords: mybatis

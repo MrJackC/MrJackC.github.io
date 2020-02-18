@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(四)：thymeleaf使用详解
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

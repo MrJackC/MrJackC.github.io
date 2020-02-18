@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一文读懂 Spring Boot、微服务架构和大数据治理三者之间的故事
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

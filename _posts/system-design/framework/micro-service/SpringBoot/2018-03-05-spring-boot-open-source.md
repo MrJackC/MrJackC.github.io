@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (三)：Spring Boot 开源软件都有哪些？
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

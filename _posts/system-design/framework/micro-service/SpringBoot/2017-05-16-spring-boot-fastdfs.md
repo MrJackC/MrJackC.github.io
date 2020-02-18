@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十八)：使用Spring Boot集成FastDFS
-category: springboot
+category: system-design
 tags: [springboot]
 excerpt: 分布式文件系统FastDFS和Spring Boot的故事。
 copyright: mrjason

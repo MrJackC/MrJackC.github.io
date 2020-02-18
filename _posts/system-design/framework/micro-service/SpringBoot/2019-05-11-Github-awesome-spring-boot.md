@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Github上搜集的spring-boot好的开源项目
-category: tools
-tags: [tools]
+category: system-design
+tags: [springboot]
 copyright: mrjason
 keywords: 分布式
 ---

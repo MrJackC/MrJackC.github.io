@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(六)：如何优雅的使用mybatis
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

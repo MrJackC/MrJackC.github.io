@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (四)：使用 Docker 部署 Spring Boot
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

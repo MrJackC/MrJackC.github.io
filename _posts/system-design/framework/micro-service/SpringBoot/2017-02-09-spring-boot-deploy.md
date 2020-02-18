@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十二)：springboot如何测试打包部署
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

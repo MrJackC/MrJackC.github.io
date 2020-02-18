@@ -19,7 +19,7 @@ keywords: Spring
         <!-- Blog list -->
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='spring' %}
+                 {% if post.category=='spring' or post.keywords contains 'spring' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

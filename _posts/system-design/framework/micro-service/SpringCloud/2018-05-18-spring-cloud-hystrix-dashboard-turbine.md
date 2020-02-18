@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(五)：熔断监控Hystrix Dashboard和Turbine
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

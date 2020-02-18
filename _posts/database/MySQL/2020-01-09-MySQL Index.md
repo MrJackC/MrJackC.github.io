@@ -1,10 +1,10 @@
 ---
 layout: post
 title: MySQL数据库基础篇
-category: MySQL
+category: database
 tags: [MySQL]
 copyright: mrjason
-keywords: 面试,MySQL,数据库,存储,大型架构模式
+keywords: MySQL
 ---
 # 思维导图-索引篇
 

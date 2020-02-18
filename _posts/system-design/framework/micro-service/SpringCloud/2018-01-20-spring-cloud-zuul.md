@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十一)：服务网关Zuul高级篇
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

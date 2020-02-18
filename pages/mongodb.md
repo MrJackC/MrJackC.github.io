@@ -2,11 +2,11 @@
 layout: page
 title: 数据库系列文章
 titlebar: MongoDB
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB,MySQL 系列文章
-menu: MySQL
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; MongoDB 系列文章
+menu: MongoDB
 css: ['blog-page.css']
 permalink: /mongodb
-keywords: MySQL,MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
+keywords: MongoDB,MongoDB 集群,MongoDB 教程
 ---
 
 <div class="row">
@@ -15,7 +15,7 @@ keywords: MySQL,MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='MySQL'  or post.keywords contains 'mongodb' %}
+                 {% if post.category=='mongodb' or post.keywords contains 'mongodb' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

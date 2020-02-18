@@ -14,7 +14,7 @@ permalink: /jvm
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='jvm' %}
+                {% if post.category=='jvm' or post.keywords contains 'jvm' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

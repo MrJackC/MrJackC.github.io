@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十四)：springboot整合shiro-登录认证和权限管理
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

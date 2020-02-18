@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

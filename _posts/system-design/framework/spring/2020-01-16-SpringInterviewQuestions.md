@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring  常见面试问题
-category: spring
+category: system-design
 tags: [spring]
 copyright: mrjason
 keywords: spring

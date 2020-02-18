@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring  MVC
-category: spring
+category: system-design
 tags: [spring]
 copyright: mrjason
 keywords: spring

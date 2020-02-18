@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(九)：定时任务
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

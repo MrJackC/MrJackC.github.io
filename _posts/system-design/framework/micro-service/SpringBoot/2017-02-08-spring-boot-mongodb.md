@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十一)：Spring boot中mongodb的使用
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

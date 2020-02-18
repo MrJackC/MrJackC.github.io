@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十六)：服务网关 Spring Cloud GateWay 服务化和过滤器
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

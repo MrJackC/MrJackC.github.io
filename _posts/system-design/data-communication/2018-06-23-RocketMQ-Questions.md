@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rabbitmq 面试问题
-category: data
+category: system-design
 tags: [data]
 copyright: mrjason
 keywords: 数据传输

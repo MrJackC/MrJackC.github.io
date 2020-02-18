@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(三)：服务提供与调用
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

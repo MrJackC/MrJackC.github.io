@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring  设计模式
-category: spring
+category: system-design
 tags: [spring]
 copyright: mrjason
 keywords: spring,系统设计

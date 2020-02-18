@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(八)：配置中心服务化和高可用
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

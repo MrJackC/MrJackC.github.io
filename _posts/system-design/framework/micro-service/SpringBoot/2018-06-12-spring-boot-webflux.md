@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (十)：Spring Boot 中的响应式编程和 WebFlux 入门
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

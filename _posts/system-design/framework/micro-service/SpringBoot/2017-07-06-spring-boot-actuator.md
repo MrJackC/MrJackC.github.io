@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十九)：使用Spring Boot Actuator监控应用
-category: springboot
+category: system-design
 tags: [springboot]
 excerpt: 监控是企业的一道生命线，Spring Boot Actuator提供了一套完备的监控方案用来监控Spring Boot应用。
 copyright: mrjason

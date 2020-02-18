@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RPC原理是什么
-category: data
+category: system-design
 tags: [data]
 copyright: mrjason
 keywords: 数据传输

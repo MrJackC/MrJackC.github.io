@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (七)：Spring Boot 如何解决项目启动时初始化资源
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

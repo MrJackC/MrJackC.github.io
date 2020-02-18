@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

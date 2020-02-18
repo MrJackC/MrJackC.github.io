@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(七)：springboot+mybatis多数据源最简解决方案
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十)：邮件服务
-category: springboot 
+category: system-design 
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(十六)：使用Jenkins部署Spring Boot
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

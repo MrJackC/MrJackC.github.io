@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springboot(二)：web综合开发
-category: springboot
+category: system-design
 tags: [springboot]
 copyright: mrjason
 keywords: 分布式

@@ -90,7 +90,7 @@ navs:
 
   -
     href: /java.html
-    label: java
+    label: Java
     target: _self
     subnav:
 
@@ -103,7 +103,7 @@ navs:
         subLabel: Java 虚拟机
       -
         subHref: /jdk.html
-        subLabel: Java JDK 新特性
+        subLabel: Java8 新特性
 
   -
     href: /system-design.html
@@ -131,12 +131,11 @@ navs:
         subHref: /data.html
         subLabel: 数据传输   
   -
-    
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-    subnav:
-
+  href: /database.html
+  label: 数据库
+  target: _self
+  subnav:  
+ 
       -
         subHref: /javanoto.html
         subLabel: Java 笔记

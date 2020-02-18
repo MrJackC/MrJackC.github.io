@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十三)：注册中心 Consul 使用详解
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

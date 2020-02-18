@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring  Bean
-category: spring
+category: system-design
 tags: [spring]
 copyright: mrjason
 keywords: spring

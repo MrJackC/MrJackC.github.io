@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spring-cloud 介绍
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

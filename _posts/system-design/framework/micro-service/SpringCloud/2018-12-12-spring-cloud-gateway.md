@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十五)：服务网关 Spring Cloud GateWay 初级篇
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

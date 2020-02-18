@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(七)：配置中心svn示例和refresh
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

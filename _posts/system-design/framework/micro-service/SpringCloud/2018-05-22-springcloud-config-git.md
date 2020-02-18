@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(六)：配置中心git示例
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务

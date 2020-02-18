@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Boot 2 (八)：Spring Boot 集成 Memcached
-category: springboot
+category: system-design
 no-post-nav: true
 tags: [springboot]
 copyright: mrjason

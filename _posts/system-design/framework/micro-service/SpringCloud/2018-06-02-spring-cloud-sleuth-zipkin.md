@@ -1,7 +1,7 @@
 ---
 layout: post
 title: springcloud(十二)：使用Spring Cloud Sleuth和Zipkin进行分布式链路跟踪
-category: springcloud
+category: system-design
 tags: [springcloud]
 copyright: mrjason
 keywords: 微服务
