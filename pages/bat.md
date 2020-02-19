@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 面试问题系列文章
-titlebar: payment
+titlebar: bat
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 面试问题系列文章
-menu: interview
+menu: bat
 css: ['blog-page.css']
-permalink: /interview
+permalink: /bat
 ---
 
 <div class="row">
