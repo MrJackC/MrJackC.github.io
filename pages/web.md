@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Python 系列文章
-titlebar: python
+title: 前端 系列文章
+titlebar: web
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Python 学习教程系列文章
-menu: python
+menu: 前端
 css: ['blog-page.css']
-permalink: /python
+permalink: /web
 ---
 
 <div class="row">
