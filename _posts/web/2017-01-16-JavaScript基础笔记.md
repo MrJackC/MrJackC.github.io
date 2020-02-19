@@ -1,10 +1,10 @@
 ---
 layout: post
 title: JavaScript基础
-category: javanoto
-tags: [javanoto]
+category: web
+tags: [web]
 copyright: mrjason
-keywords: JavaScript基础
+keywords: web
 ---
 
 

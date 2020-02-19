@@ -1,4 +1,12 @@
-作者： rhwayfun,原文地址：https://mp.weixin.qq.com/s/msYty4vjjC0PvrwasRH5Bw ,JavaGuide 已经获得作者授权并对原文进行了重新排版。
+---
+layout: post
+title: 2019alipay-pinduoduo-toutiao
+category: interview
+tags: [interview]
+copyright: mrjason
+keywords: bat
+---
+
 <!-- TOC -->
 
 - [写在2019年后的蚂蚁、头条、拼多多的面试总结](#写在2019年后的蚂蚁头条拼多多的面试总结)

@@ -2,7 +2,7 @@
 layout: page
 title: Java工程师面试问题
 titlebar: interview
-subtitle: <span class="mega-octicon octicon-flame"></span>&nbsp;&nbsp; interview
+subtitle: <span class="mega-octicon octicon-flame"></span>&nbsp;&nbsp; 面试宝典
 menu: interview
 css: ['blog-page.css']
 permalink: /interview
@@ -15,7 +15,7 @@ keywords: interview,面试,知识点
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='interview'  or post.keywords contains '面试' or post.keywords contains '知识点' %}
+                {% if post.category=='interview'  or post.keywords contains 'interview'  %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

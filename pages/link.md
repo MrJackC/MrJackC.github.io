@@ -42,13 +42,11 @@ permalink: /link
 
 ## 个人链接
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
-- [github](https://github.com/ityouknow) -  我分享代码的地方
-- [微博](http://weibo.com/ityouknow) -  我的微博
-- [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，回答一些问题
-- [博客园](https://www.cnblogs.com/ityouknow/) - 博客园推荐博客，排名前十五
-- [CSDN](http://blog.csdn.net/ityouknow)  - 博客专家，同步公号内容
-- [51CTO](http://blog.51cto.com/ityouknow) - 51CTO 推荐博客，排名前十
+- [github](https://github.com/MrJackC) -  我分享代码的地方
+- [微博](http://weibo.com/2636290881) -  我的微博
+- [知乎](https://www.zhihu.com/people/mrjasonss) - 个人知乎地址，回答一些问题
+- [CSDN](http://blog.csdn.net/Pc_Jc)  - 博客专家，同步公号内容
+
 
 ## 其它  
 

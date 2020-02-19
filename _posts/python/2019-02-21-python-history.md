@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 人生苦短，我用 Python
-copyright: python
 category: python
 tags: [python]
+copyright: mrjason
 keywords: python，python 历史，python 格言，Guido，Python 发展史
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: JavaScript基础、ECMAScript
-category: javanoto
-tags: [javanoto]
+category: web
+tags: [web]
 copyright: mrjason
-keywords: JavaScript基础、ECMAScript
+keywords: web
 ---
 
 # 今日内容：

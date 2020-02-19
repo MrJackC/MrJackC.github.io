@@ -1,10 +1,20 @@
+---
+layout: page
+title: 操作系统系列文章
+titlebar: operating-system
+subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 操作系统系列文章
+menu: operating-system
+css: ['blog-page.css']
+permalink: /operating-system
+---
+
 <div class="row">
 
     <div class="col-md-12">
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='javanoto' %}
+                {% if post.category=='operating-system' or post.keywords contains 'operating-system' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

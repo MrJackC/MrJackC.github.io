@@ -56,23 +56,33 @@ menus:
 
   -
     href: /python.html
-    label: Python  
-    target: _self
+    label: Python
+    target: _blank
 
   -
-    href: /it.html
-    label: IT
-    target: _self
+    href: /web.html
+    label: 前端
+    target: _blank
 
   -
-    href: /life.html
-    label: 故事
-    target: _self
+    href: /open-source.html
+    label: 开源项目  
+    target: _blank
 
   -
     href: /book.html
     label: 读书
-    target: _self
+    target: _blank
+
+  -
+    href: /network.html
+    label: 网络
+    target: _blank
+  
+  -
+    href: /about.html
+    label: 关于     
+    target: _blank
 
   -
     href: /link.html
@@ -181,50 +191,58 @@ navs:
       -
         subHref: /other.html
         subLabel: 程序员小工具         
+
+  -
+    href: /interview.html
+    label: 面试
+    target: _self
+    subnav: 
+
+      -
+        subHref: /bat.html
+        subLabel: Docker
+  
   -
     href: /archives.html
     label: Archives
     target: _self
 
-  -
-    href: /about.html
-    label: About
-    target: _self
+ 
 
 
 # labels. my blog key words
 labels:
-
+ 
   -
-    href: /payment.html
-    label: 支付     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
+    href: /operating-system.html
+    label: 操作系统
     target: _blank
 
   -
-    href: /docker.html
-    label: Docker
+    href: /web.html
+    label: 前端
     target: _blank
 
   -
     href: /open-source.html
-    label: Code  
+    label: 开源项目  
     target: _blank
 
   -
-    href: /gitchat.html
-    label: Chat
+    href: /book.html
+    label: 读书
     target: _blank
 
   -
-    href: /geektime.html
-    label: 极客
+    href: /network.html
+    label: 网络
     target: _blank
-
+  
+  -
+    href: /about.html
+    label: 关于     
+    target: _blank
+    
 
 # selected articles
 classes:

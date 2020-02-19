@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cookie、Session
-category: javanoto
-tags: [javanoto]
+category: web
+tags: [web]
 copyright: mrjason
-keywords: Cookie、Session
+keywords: web
 ---
 
 

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 你真的了解 Cookie 和 Session 吗
-category: it
-tags: [it]
-excerpt: 你是否了解这六层楼
+category: network
+tags: [network]
+copyright: mrjason
+keywords: 网络
 ---
+
 
 我在做面试官的时候，曾经问过很多朋友这个问题： Cookie 和 Session 有什么区别呢？大部分的面试者应该都可以说上一两句，比如：什么是 Cookie？什么是 Session？两者的区别等。
 

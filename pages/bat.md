@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Python 系列文章
-titlebar: python
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Python 学习教程系列文章
-menu: python
+title: 面试问题系列文章
+titlebar: payment
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 面试问题系列文章
+menu: interview
 css: ['blog-page.css']
-permalink: /python
+permalink: /interview
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /python
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='python'  or post.keywords contains 'python' %}
+                {% if post.category=='bat'  or post.keywords contains 'bat' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

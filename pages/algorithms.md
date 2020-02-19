@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 数据结构与算法
-titlebar: dataStructures-algorithms
+title: 算法
+titlebar: algorithms
 subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp; 其实我是一名程序员。
-menu: dataStructures-algorithms
+menu: algorithms
 css: ['blog-page.css']
-permalink: /dataStructures-algorithms
+permalink: /algorithms
 ---
 
 <div class="row">
