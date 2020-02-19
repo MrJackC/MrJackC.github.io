@@ -5,7 +5,7 @@ category: system-design
 tags: [springboot]
 excerpt: 使用thymeleaf制作上传页面，Spring Boot接收文件并保持到本地。
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 上传文件是互联网中常常应用的场景之一，最典型的情况就是上传头像等，今天就带着带着大家做一个Spring Boot上传文件的小案例。

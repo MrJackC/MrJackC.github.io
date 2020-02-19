@@ -4,7 +4,7 @@ title: springboot实战：我们的第一款开源软件
 category: system-design
 tags: [云收藏]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 在信息爆炸时代，如何避免持续性信息过剩，使自己变得专注而不是被纷繁的信息所累？每天会看到各种各样的新闻，各种新潮的技术层出不穷，如何筛选出自己所关心的？

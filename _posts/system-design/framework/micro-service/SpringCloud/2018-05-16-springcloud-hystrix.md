@@ -4,7 +4,7 @@ title: springcloud(四)：熔断器Hystrix
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 说起springcloud熔断让我想起了去年股市中的熔断，多次痛的领悟，随意实施的熔断对整个系统的影响是灾难性的，好了接下来我们还是说正事。

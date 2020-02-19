@@ -4,7 +4,7 @@ title: springcloud(九)：配置中心和消息总线（配置中心终结版）
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 

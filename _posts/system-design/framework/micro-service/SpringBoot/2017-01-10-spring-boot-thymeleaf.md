@@ -4,7 +4,7 @@ title: springboot(四)：thymeleaf使用详解
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 在上篇文章[springboot(二)：web综合开发](http://www.ityouknow.com/springboot/2016/02/03/spring-boot-web.html)中简单介绍了一下thymeleaf，这篇文章将更加全面详细的介绍thymeleaf的使用。thymeleaf 是新一代的模板引擎，在spring4.0中推荐使用thymeleaf来做前端模版引擎。

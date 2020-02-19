@@ -4,7 +4,7 @@ title: Spring Cloud (十四)：Spring Cloud 开源软件都有哪些？
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 学习一门新的技术如果有优秀的开源项目，对初学者的学习将会是事半功倍，通过研究和学习优秀的开源项目，可以快速的了解此技术的相关应用场景和应用示例，参考优秀开源项目会降低将此技术引入到项目中的成本。为此抽了一些时间为大家寻找了一些非常优秀的 Spring Cloud 开源软件供大家学习参考。

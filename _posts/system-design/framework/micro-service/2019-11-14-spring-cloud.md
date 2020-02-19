@@ -4,7 +4,7 @@ title: spring-cloud 介绍
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 > 本文基于 Spring Cloud Netflix 。Spring Cloud Alibaba 也是非常不错的选择哦！

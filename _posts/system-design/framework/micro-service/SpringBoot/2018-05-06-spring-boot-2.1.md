@@ -5,7 +5,7 @@ category: system-design
 tags: [springboot]
 excerpt: 有哪些新特性值得我们关注
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 如果这两天登录 [https://start.spring.io/](https://start.spring.io/) 就会发现，Spring Boot 默认版本已经升到了 2.1.0。这是因为 Spring Boot 刚刚发布了 2.1.0 版本，我们来看下 Spring Boot 2 发布以来第一个子版本都发布了哪些内容？

@@ -4,7 +4,7 @@ title: springcloud学习资料汇总
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 收集Spring Cloud相关的学习资料

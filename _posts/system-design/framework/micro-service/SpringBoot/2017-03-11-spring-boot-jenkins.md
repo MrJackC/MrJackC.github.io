@@ -4,7 +4,7 @@ title: springboot(十六)：使用Jenkins部署Spring Boot
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 jenkins是devops神器，本篇文章介绍如何安装和使用jenkins部署Spring Boot项目

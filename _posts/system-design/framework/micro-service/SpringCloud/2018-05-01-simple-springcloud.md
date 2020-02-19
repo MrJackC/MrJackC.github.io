@@ -4,7 +4,7 @@ title: springcloud(一)：大话Spring Cloud
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 ---
 
 

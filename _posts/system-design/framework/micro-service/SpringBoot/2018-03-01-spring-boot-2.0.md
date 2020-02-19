@@ -4,7 +4,7 @@ title: Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 就在今天Spring Boot`2.0.0.RELEASE`正式发布，今天早上在发布Spring Boot2.0的时候还出现一个小插曲，将Spring Boot2.0同步到Maven仓库的时候出现了错误，然后Spring Boot官方又赶紧把 GitHub 上发布的 v2.0.0.RELEASE 版本进行了撤回。到了下午将问题修复后，又重新进行了上传，至此Spring Boot2.0正式推出！

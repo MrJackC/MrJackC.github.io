@@ -4,7 +4,7 @@ title: springboot(十)：邮件服务
 category: system-design 
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 springboot仍然在狂速发展，才五个多月没有关注，现在看[官网](http://projects.spring.io/spring-boot/)已经到1.5.3.RELEASE版本了。准备慢慢在写写springboot相关的文章，本篇文章使用springboot最新版本1.5.3进行开发。

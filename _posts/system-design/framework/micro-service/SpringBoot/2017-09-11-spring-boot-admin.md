@@ -5,7 +5,7 @@ category: system-design
 tags: [springboot]
 excerpt: Spring Boot Admin 监控、介绍和使用，Spring Boot Admin图形化监控，让监控更直观更省力。
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 上一篇文章[《springboot(十九)：使用Spring Boot Actuator监控应用》](http://www.itmind.net/springboot/2018/02/06/spring-boot-actuator.html)介绍了Spring Boot Actuator的使用，Spring Boot Actuator提供了对单个Spring Boot的监控，信息包含：应用状态、内存、线程、堆栈等等，比较全面的监控了Spring Boot应用的整个生命周期。

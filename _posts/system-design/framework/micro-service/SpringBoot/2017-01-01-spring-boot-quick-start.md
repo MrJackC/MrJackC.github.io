@@ -4,7 +4,7 @@ title: springboot(一)：入门篇
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 

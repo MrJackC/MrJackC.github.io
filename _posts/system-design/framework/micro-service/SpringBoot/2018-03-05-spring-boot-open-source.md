@@ -4,7 +4,7 @@ title: Spring Boot 2 (三)：Spring Boot 开源软件都有哪些？
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 2016年 Spring Boot 还没有被广泛使用，在网上查找相关开源软件的时候没有发现几个，到了现在经过2年的发展，很多互联网公司已经将 Spring Boot 搬上了生产，而使用 Spring Boot 的开源软件在 Github/码云 上面已有不少，这篇文章就给大家介绍一下 Github/码云 上面和 Spring Boot 相关的开源软件。

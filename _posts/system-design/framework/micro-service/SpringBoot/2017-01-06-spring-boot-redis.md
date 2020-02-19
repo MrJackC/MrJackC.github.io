@@ -4,7 +4,7 @@ title: springboot(三)：Spring boot中Redis的使用
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 spring boot对常用的数据库支持外，对nosql 数据库也进行了封装自动化。

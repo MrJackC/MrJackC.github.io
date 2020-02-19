@@ -4,7 +4,7 @@ title: springcloud(十一)：服务网关Zuul高级篇
 category: system-design
 tags: [springcloud]
 copyright: mrjason
-keywords: 微服务
+keywords: springcloud
 excerpt: Spring Cloud Zuul网关 Filter、熔断、重试、高可用的使用方式。
 ---
 

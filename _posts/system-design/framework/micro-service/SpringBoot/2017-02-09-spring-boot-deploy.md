@@ -4,7 +4,7 @@ title: springboot(十二)：springboot如何测试打包部署
 category: system-design 
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 有很多网友会时不时的问我，spring boot项目如何测试，如何部署，在生产中有什么好的部署方案吗？这篇文章就来介绍一下spring boot 如何开发、调试、打包到最后的投产上线。

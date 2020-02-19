@@ -5,7 +5,7 @@ category: system-design
 no-post-nav: true
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 ## Memcached 介绍

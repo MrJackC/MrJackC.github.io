@@ -4,7 +4,7 @@ title: springboot(十五)：springboot+jpa+thymeleaf增删改查示例
 category: system-design 
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 这篇文章介绍如何使用jpa和thymeleaf做一个增删改查的示例。

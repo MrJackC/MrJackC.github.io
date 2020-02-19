@@ -4,7 +4,7 @@ title: Spring Boot 2 (十一)：如何优雅的使用 MyBatis 之 MyBatis-Plus
 category: system-design
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 MyBatis-Plus 是 MyBatis 的第三方使用插件。

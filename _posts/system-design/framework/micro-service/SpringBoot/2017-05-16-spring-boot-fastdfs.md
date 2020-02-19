@@ -5,7 +5,7 @@ category: system-design
 tags: [springboot]
 excerpt: 分布式文件系统FastDFS和Spring Boot的故事。
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 上篇文章介绍了[如何使用Spring Boot上传文件](http://www.itmind.net/springboot/2018/01/12/spring-boot-upload-file.html)，这篇文章我们介绍如何使用Spring Boot将文件上传到分布式文件系统FastDFS中。

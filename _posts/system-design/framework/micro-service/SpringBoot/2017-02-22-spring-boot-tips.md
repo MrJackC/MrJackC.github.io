@@ -4,7 +4,7 @@ title: springboot(十三)：springboot小技巧
 category: system-design 
 tags: [springboot]
 copyright: mrjason
-keywords: 分布式
+keywords: springboot
 ---
 
 一些springboot小技巧、小知识点
