@@ -9,19 +9,14 @@ keywords: docker
 
 ## Docker Mac 下的安装
 ## 1、百度Docker 进入Docker官网
-![image-20190506113113291](http://ws4.sinaimg.cn/large/006tNc79ly1g2v2hca38nj30md0brgnk.jpg)
 
-![image-20190506113225844](http://ws4.sinaimg.cn/large/006tNc79ly1g2v2helo15j312w0hjq5a.jpg)
-
- 第一次进入官网可能需要注册账号才可以下载docker，注册流程也很简单。按照官网的操作，一步步注册就行。
-
-![image-20190506113928628](http://ws1.sinaimg.cn/large/006tNc79ly1g2v2hbd66ej31210jg40w.jpg)
+![官网](http://ww1.sinaimg.cn/large/9d229b41ly1gc1lkk7iupj20u00hp40b.jpg)
 
 注册成功后到了下载界面，下载到Mac 后双击dmg文件，将Docker图标拖到Application中及完成Docker的安装。
 
 使用Mac的命令行工具，输入 :
 
-> docker 
+> docker
 
 查看是否安装成功！
 
@@ -32,9 +27,6 @@ keywords: docker
 > docker -v
 
 查看版本号！
-
-![image-20190506114748557](http://ws1.sinaimg.cn/large/006tNc79ly1g2v2hdplupj30ij02ijrn.jpg)
-
 
 ## Docker 下安装服务器所需服务
 

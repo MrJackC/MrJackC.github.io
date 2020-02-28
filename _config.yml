@@ -253,8 +253,8 @@ classes:
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
-    name: 架构师之路
+    href: /system-design.html
+    name: 系统架构
     describe: 一个架构师的自我修养
 
   -
