@@ -3,8 +3,8 @@
     <channel>
         <title>Hexo</title>
         <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://mrjackc.github.io/images/favicon.ico</icon>
+        <link>https://mrjackc.github.io</link>
         <author>
           <name>Mr Jason</name>
         </author>
@@ -13,9 +13,9 @@
         <pubDate>Fri, 26 Nov 2021 09:35:41 +0800</pubDate>
         <lastBuildDate>Fri, 26 Nov 2021 09:35:41 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2021/11/26/hello-world/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2021/11/26/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2021/11/26/hello-world/</link>
+            <link>https://mrjackc.github.io/2021/11/26/hello-world/</link>
             <pubDate>Fri, 26 Nov 2021 09:35:41 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -33,12 +33,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/12/24/computer-science/java/springcloud/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/12/24/computer-science/java/springcloud/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
             <title>中文測試</title>
-            <link>http://example.com/2020/12/24/computer-science/java/springcloud/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="Java" scheme="http://example.com/categories/computer-science/java/" />
-            <category term="微服务" scheme="http://example.com/categories/computer-science/java/springcloud/" />
+            <link>https://mrjackc.github.io/2020/12/24/computer-science/java/springcloud/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="Java" scheme="https://mrjackc.github.io/categories/computer-science/java/" />
+            <category term="微服务" scheme="https://mrjackc.github.io/categories/computer-science/java/springcloud/" />
             <pubDate>Thu, 24 Dec 2020 23:31:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a Chinese test post.&lt;/p&gt;
 &lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
@@ -52,14 +52,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="https://mrjackc.github.io/tags/Hexo/" />
+            <category term="教程" scheme="https://mrjackc.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -617,14 +617,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;title: 流程图显示&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mermaid: true&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;graph LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A [Square Rect] -- Link text --&amp;gt; B ((Circle))&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A --&amp;gt; C (Round Rect)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B --&amp;gt; D &amp;#123;Rhombus&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C --&amp;gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sequenceDiagram&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    loop Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        alt is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        else is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        opt Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A&lt;span class=&#34;token text string&#34;&gt;[Square Rect]&lt;/span&gt; &lt;span class=&#34;token inter-arrow-label&#34;&gt;&lt;span class=&#34;token arrow-head arrow operator&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;token label property&#34;&gt;Link text&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt;&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;((Circle))&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; C&lt;span class=&#34;token text string&#34;&gt;(Round Rect)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;span class=&#34;token text string&#34;&gt;&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;loop&lt;/span&gt; Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Bob&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;alt&lt;/span&gt; is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Not so good &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;opt&lt;/span&gt; Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/display/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="https://mrjackc.github.io/tags/Hexo/" />
+            <category term="教程" scheme="https://mrjackc.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -761,14 +761,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/config/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="https://mrjackc.github.io/tags/Hexo/" />
+            <category term="教程" scheme="https://mrjackc.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -923,14 +923,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="https://mrjackc.github.io/tags/Hexo/" />
+            <category term="教程" scheme="https://mrjackc.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1020,14 +1020,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;keywords&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;#站点关键词，用 “,” 分隔&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;feed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;20&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;order_by&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;-date&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;tag_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;category_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;rss&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/rss.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;rss.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;atom&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/atom.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;atom.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;jsonFeed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/json.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;feed.json&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
-            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://mrjackc.github.io/2020/08/13/computer-science/note/theme-shoka-doc/</link>
+            <category term="计算机科学" scheme="https://mrjackc.github.io/categories/computer-science/" />
+            <category term="二进制杂谈" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="https://mrjackc.github.io/categories/computer-science/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="https://mrjackc.github.io/tags/Hexo/" />
+            <category term="教程" scheme="https://mrjackc.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
