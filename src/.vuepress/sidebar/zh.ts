@@ -1,0 +1,110 @@
+import { sidebar } from "vuepress-theme-hope";
+
+export const zhSidebar = sidebar({
+  "/": [
+    "",
+    {
+      text: "如何使用",
+      icon: "creative",
+      prefix: "demo/",
+      link: "demo/",
+      children: "structure",
+    },
+    {
+      text: "代码笔记",
+      icon: "note",
+      prefix: "posts/",
+      // collapsible: true,
+      children: [
+        {
+          text: "计算机基础",
+          icon: "windows",
+          prefix: "posts/",
+          link: "Computer-Basics/",
+          // children: ["Browser/", "JavaScript/", "CSS/", "node/", "Vue/"],
+        },
+        { text: "数据结构与算法", 
+          icon: "calculate",   
+          prefix: "posts/",
+          link: "Data-Structure/" 
+        },
+        {
+          text: "前端开发",
+          icon: "code",
+          prefix: "posts/",
+          link: "Web/",
+          // children: ["Browser/", "JavaScript/", "CSS/", "node/", "Vue/"],
+        },
+        {
+          text: "Linux",
+          icon: "linux",
+          prefix: "posts/",
+          link: "Linux/",
+        },
+        {
+          text: "Python",
+          icon: "python",
+          prefix: "posts/",
+          link: "Python/",
+        },
+        {
+          text: "数据库",
+          icon: "table",
+          prefix: "posts/",
+          link: "Database/",
+        },
+        {
+          text: "Docker",
+          icon: "expansion",
+          prefix: "posts/",
+          link: "Docker/",
+        },
+        
+      ],
+    },
+    {
+      text: "Java",
+      icon: "java",
+      prefix: "posts/",
+      link: "Java/",
+    },
+    {
+      text: "博客相关",
+      icon: "blog",
+      prefix: "blog/",
+      link: "blog/",
+    },
+    {
+      text: "站点收藏",
+      icon: "sitemap",
+      prefix: "site",
+      link: "site/",
+      children: "structure",
+    },
+    {
+      text: "随笔",
+      icon: "flower",
+      prefix: "private/",
+      children: "structure",
+    },
+    {
+      text: "关于",
+      icon: "info",
+      prefix: "about/",
+      link: "about",
+    },
+  ],
+  "/posts/Linux/": "structure",
+  "/posts/Python/": "structure",
+  "/posts/Web/": "structure",
+  "/site/": "structure",
+  "/blog": "structure",
+  "/tutorial": "structure",
+  "/posts/Computer-Basics/": "structure",
+  "/posts/Data-Structure/": "structure",
+  "/posts/Database/": "structure",
+  "/posts/Docker/": "structure",
+  "/posts/Git/": "structure",
+  "/posts/Redis/": "structure",
+  "/posts/Java/": "structure",
+});
