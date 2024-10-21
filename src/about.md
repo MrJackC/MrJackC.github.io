@@ -136,8 +136,5 @@ hope主题的markdown效果是出乎意料的好，而且支持了很多普通ma
    - 个性log
    - 自动推送新文章url到搜索引擎（百度、Bing、Google）👉[详细配置](/platform/github/github-action)
 
-## 总结
-> 未完待续，持续优化中
-> 
-本地插件，喜欢自取，源码公开，点击右上角，github图标即可，当然不要忘记点个✨哦
+
 
