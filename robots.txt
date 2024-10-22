@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mrjason.me/sitemap.xml
+Sitemap: https://mrjackc.github.io/sitemap.xml
