@@ -6,8 +6,8 @@
     <link>https://mrjason.me/</link>
     <description>上冬十二的博客</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 21 Oct 2024 07:10:52 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2024 07:10:52 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 00:32:47 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:32:47 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -17,6 +17,26 @@
     <category>Linux</category>
     <category>数据库</category>
     <category>Redis</category>
+    <item>
+      <title>网站常见问题</title>
+      <link>https://mrjason.me/site/Q_A.html</link>
+      <guid>https://mrjason.me/site/Q_A.html</guid>
+      <source url="https://mrjason.me/rss.xml">网站常见问题</source>
+      <description>网站常见问题 waline 评论插件 leancloud waline vercel 评论管理 docsearch 搜索插件 docsearch github page github action</description>
+      <pubDate>Tue, 22 Oct 2024 00:28:44 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>waline 评论插件</h2>
+<p><a href="https://console.leancloud.app/apps/fLyHyR8wWAOUpdgZuZmGadUd-MdYXbMMI/settings/keys" target="_blank" rel="noopener noreferrer">leancloud</a></p>
+<p><a href="https://waline.js.org/guide/features/reaction.html" target="_blank" rel="noopener noreferrer">waline</a></p>
+<p><a href="https://vercel.com/mrjackcs-projects/blog-comments/T9cGMYsinmTAShJyMXyVtqZQG1dX" target="_blank" rel="noopener noreferrer">vercel</a><br>
+<a href="https://blog-comments-31kqr5pt2-mrjackcs-projects.vercel.app/ui/profile" target="_blank" rel="noopener noreferrer">评论管理</a></p>
+<h2>docsearch 搜索插件</h2>
+<p><a href="https://docsearch.algolia.com/apply/" target="_blank" rel="noopener noreferrer">docsearch</a></p>
+<h2>github page</h2>
+<p><a href="https://juejin.cn/post/7245980207315861562" target="_blank" rel="noopener noreferrer">github</a></p>
+<p><a href="https://juejin.cn/post/7241226276253433916" target="_blank" rel="noopener noreferrer">action</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>关于本站</title>
       <link>https://mrjason.me/about.html</link>
@@ -12456,31 +12476,6 @@ OK，就是做<strong>热点发现</strong>和<strong>本地缓存</strong>。<b
 <p><a href="https://pdai.tech/md/db/nosql-redis/db-redis-x-trans.html" target="_blank" rel="noopener noreferrer"><strong>Redis进阶 - 事务：Redis事务详解</strong></a></p>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202403131023113.png" type="image/png"/>
-    </item>
-    <item>
-      <title>开启远程访问</title>
-      <link>https://mrjason.me/posts/Redis/db-redis-y-install-remote.html</link>
-      <guid>https://mrjason.me/posts/Redis/db-redis-y-install-remote.html</guid>
-      <source url="https://mrjason.me/rss.xml">开启远程访问</source>
-      <description>开启远程访问 1.1 注释 bind 127.0.0.1 注释掉bind 127.0.0.1可以使所有的ip访问redis 若是想指定多个ip访问，但并不是全部的ip访问，可以bind vim /usr/local/redis/bin/redis.conf 1.2 protected-mode 改为no 在redis3.2之后，redis增加了prot...</description>
-      <pubDate>Mon, 21 Oct 2024 07:03:09 GMT</pubDate>
-      <content:encoded><![CDATA[
-<h3>1.1 注释 bind 127.0.0.1</h3>
-<p><strong>注释掉bind 127.0.0.1可以使所有的ip访问redis</strong></p>
-<p>若是想指定多个ip访问，但并不是全部的ip访问，可以bind</p>
-<p>vim /usr/local/redis/bin/redis.conf</p>
-<div class="language-" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span>#bind 127.0.0.1</span></span></code></pre>
-</div><h3>1.2 protected-mode 改为no</h3>
-<p>在redis3.2之后，redis增加了protected-mode，在这个模式下，即使注释掉了bind 127.0.0.1，再访问redisd时候还是报错，</p>
-<p>将protected-mode 改成no</p>
-<div class="language-" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span>protected-mode no</span></span></code></pre>
-</div><h3>1.3 设置远程连接密码</h3>
-<p>如果不设置远程连接密码，那么不用密码就能登录，非常危险，很可能会被挖矿等程序入侵</p>
-<p>找到requirepass 去掉注释，改成你要的密码</p>
-<div class="language-" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span># requirepass foobared</span></span></code></pre>
-</div><h3>1.4 重启redis</h3>
-<div class="language-" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span>./redis-server redis.conf</span></span></code></pre>
-</div>]]></content:encoded>
     </item>
   </channel>
 </rss>
