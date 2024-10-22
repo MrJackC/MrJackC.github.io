@@ -99,9 +99,9 @@ export default defineUserConfig({
     }),
     // 搜索插件 PI9QTF572N 07e2432555d8ecdd3fb72978f0a05cdc oragekk
     docsearchPlugin({
-      appId: "xxxxx",
-      apiKey: "xxxxxx",
-      indexName: "xxxxxx",
+      appId: "HRE8XVUQ5J",
+      apiKey: "26b2b98d81b50e446d1022612e4e18fd",
+      indexName: "mrjackcio",
       locales: {
         "/": {
           placeholder: "搜索内容",
