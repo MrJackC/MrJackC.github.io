@@ -141,7 +141,7 @@ export default MyTheme({
     },
     comment: {
       provider: "Waline",
-      serverURL: "https://blog-comments-31kqr5pt2-mrjackcs-projects.vercel.app/", // vercel评论服务器地址配置
+      serverURL: "https://blog-comments-theta-ten.vercel.app/", // vercel评论服务器地址配置
       reaction: true,
       requiredMeta: ["nick", 'mail'],
       wordLimit: 300,
