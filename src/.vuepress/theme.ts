@@ -42,7 +42,7 @@ export default MyTheme({
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
-      // Gitee: "https://example.com",
+      Gitee: "https://gitee.com/MrJackC",
       GitHub: "https://github.com/MrJackC",
       // Gitlab: "https://example.com",
       Gmail: "mailto:mrjason5252@gmail.com",
@@ -165,7 +165,7 @@ export default MyTheme({
     },
     prismjs: false,
     copyright: {
-      author: "111",
+      author: "mrjason",
       license: "CC BY-NC-SA 4.0",
       global: true,
     },
