@@ -4,10 +4,10 @@
     <atom:link href="https://mrjackc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <title>mrjason’s Blog</title>
     <link>https://mrjackc.github.io/</link>
-    <description>上冬十二的博客</description>
+    <description>春鸽鸽的博客</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 23 Oct 2024 09:50:25 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Oct 2024 09:50:25 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 09:22:41 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:22:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -22,19 +22,19 @@
       <link>https://mrjackc.github.io/site/Q_A.html</link>
       <guid>https://mrjackc.github.io/site/Q_A.html</guid>
       <source url="https://mrjackc.github.io/rss.xml">网站常见问题</source>
-      <description>网站常见问题 waline 评论插件 leancloud waline vercel 评论管理 docsearch 搜索插件 docsearch 爬虫问题解决 爬虫问题解决algolia官网说明 [爬虫问题解决docsearch官网说明]https://docsearch.algolia.com/docs/record-extractor github...</description>
+      <description>网站常见问题 waline 评论插件 leancloud waline vercel 评论管理 docsearch 搜索插件 docsearch 爬虫问题解决 爬虫问题解决algolia官网说明 爬虫问题解决docsearch官网说明 github page github action</description>
       <pubDate>Tue, 22 Oct 2024 00:28:44 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>waline 评论插件</h2>
 <p><a href="https://console.leancloud.app/apps/fLyHyR8wWAOUpdgZuZmGadUd-MdYXbMMI/settings/keys" target="_blank" rel="noopener noreferrer">leancloud</a></p>
 <p><a href="https://waline.js.org/guide/features/reaction.html" target="_blank" rel="noopener noreferrer">waline</a></p>
-<p><a href="https://vercel.com/mrjackcs-projects/blog-comments/T9cGMYsinmTAShJyMXyVtqZQG1dX" target="_blank" rel="noopener noreferrer">vercel</a><br>
-<a href="https://blog-comments-31kqr5pt2-mrjackcs-projects.vercel.app/ui/profile" target="_blank" rel="noopener noreferrer">评论管理</a></p>
+<p><a href="https://vercel.com/mrjackcs-projects/blog-comments/T9cGMYsinmTAShJyMXyVtqZQG1dX" target="_blank" rel="noopener noreferrer">vercel</a></p>
+<p><a href="https://blog-comments-31kqr5pt2-mrjackcs-projects.vercel.app/ui/profile" target="_blank" rel="noopener noreferrer">评论管理</a></p>
 <h2>docsearch 搜索插件</h2>
-<p><a href="https://docsearch.algolia.com/apply/" target="_blank" rel="noopener noreferrer">docsearch</a><br>
-<a href="https://theme-hope.vuejs.press/zh/guide/feature/search.html" target="_blank" rel="noopener noreferrer">爬虫问题解决</a><br>
-<a href="https://support.algolia.com/hc/en-us/articles/14876674614289-Why-my-DocSearch-index-is-not-populated-with-crawler-data" target="_blank" rel="noopener noreferrer">爬虫问题解决algolia官网说明</a><br>
-[爬虫问题解决docsearch官网说明]<a href="https://docsearch.algolia.com/docs/record-extractor" target="_blank" rel="noopener noreferrer">https://docsearch.algolia.com/docs/record-extractor</a></p>
+<p><a href="https://docsearch.algolia.com/apply/" target="_blank" rel="noopener noreferrer">docsearch</a></p>
+<p><a href="https://theme-hope.vuejs.press/zh/guide/feature/search.html" target="_blank" rel="noopener noreferrer">爬虫问题解决</a></p>
+<p><a href="https://support.algolia.com/hc/en-us/articles/14876674614289-Why-my-DocSearch-index-is-not-populated-with-crawler-data" target="_blank" rel="noopener noreferrer">爬虫问题解决algolia官网说明</a></p>
+<p><a href="https://docsearch.algolia.com/docs/record-extractor" target="_blank" rel="noopener noreferrer">爬虫问题解决docsearch官网说明</a></p>
 <h2>github page</h2>
 <p><a href="https://juejin.cn/post/7245980207315861562" target="_blank" rel="noopener noreferrer">github</a></p>
 <p><a href="https://juejin.cn/post/7241226276253433916" target="_blank" rel="noopener noreferrer">action</a></p>
