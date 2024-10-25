@@ -55,14 +55,12 @@ message:"hello world yes"
 ```
 
 上面这个表达式，是针对message字段进行搜索，在搜索的时候不会区分大小写。
-
 需要注意，上面的"hello world yes"使用了引号，这样的话，这3个单词会被作为一个词进行查询，不会再进行分词。
 
 **示例三**
 
 ```text
 message:hello world
-
 #匹配到的结果
 hello
 world

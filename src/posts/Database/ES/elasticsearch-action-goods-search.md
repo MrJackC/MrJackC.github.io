@@ -27,7 +27,6 @@ public @interface Document {
     short shards() default 5;
   //默认副本数量
     short replicas() default 1;
-
 }
 ```
 
@@ -247,7 +246,6 @@ INSERT INTO `pms_product_attribute` VALUES ('49', '11', '颜色', '0', '1', '红
 INSERT INTO `pms_product_attribute` VALUES ('50', '11', '尺寸', '0', '1', '38,39,40', '0', '0', '0', '0', '0', '0');
 INSERT INTO `pms_product_attribute` VALUES ('51', '11', '风格', '0', '1', '夏季,秋季', '0', '0', '0', '0', '0', '0');
 
-
 ```
 
 ### 2.3 项目框架搭建
@@ -277,8 +275,6 @@ INSERT INTO `pms_product_attribute` VALUES ('51', '11', '风格', '0', '1', '夏
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
-     
 
         <!--lombok依赖-->
         <dependency>
@@ -393,9 +389,6 @@ public class EsProduct implements Serializable {
     private Integer promotionType;
     private Integer sort;
     private List<EsProductAttributeValue> attrValueList;
-
-
-
     //省略了所有getter和setter方法
 }
 
@@ -674,8 +667,6 @@ import org.springframework.util.CollectionUtils;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
-
 /**
  * 商品搜索管理Service实现类
  * Created by macro on 2018/6/19.

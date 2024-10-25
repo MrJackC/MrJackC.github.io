@@ -67,7 +67,7 @@ services:
 
 ### 2.2 新建logstash/logstash-springboot.conf文件
 
-```js
+``` 
 input {
   tcp {
     mode => "server"
