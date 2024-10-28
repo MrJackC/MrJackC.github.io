@@ -35,20 +35,6 @@ features:
     details: HelloGitHub 是一个发现和分享有趣、入门级开源项目的平台。
     link: https://hellogithub.com/
 
-  - title: 三月七
-    icon: hk-zhifeiji
-    details: 可莉旗下家宽机场，原生解锁流媒体
-    link: https://xn--7gql113q.com/#/register?code=H2aTMwFb
-    
-  - title: StackBlitz
-    icon: hk-lightning
-    details: 在线编辑Web 应用程序，实时预览，集成npm
-    link: https://stackblitz.com/
-
-  - title: 悟空快传
-    icon: hk-redlink
-    details: 不限速，免注册,单文件上传最大支持20G,
-    link: https://www.wkkc.vip/
 
   - title: codeimg
     icon: hk-image
