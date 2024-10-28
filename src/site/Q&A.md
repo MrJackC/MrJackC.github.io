@@ -6,6 +6,8 @@
 
 [vercel](https://vercel.com/mrjackcs-projects/blog-comments/T9cGMYsinmTAShJyMXyVtqZQG1dX)
 
+### 评论出现跨域问题，要配置vercel中的vercel.json 文件
+
 [评论管理](https://blog-comments-31kqr5pt2-mrjackcs-projects.vercel.app/ui/profile)
 ## docsearch 搜索插件
 [docsearch](https://docsearch.algolia.com/apply/)

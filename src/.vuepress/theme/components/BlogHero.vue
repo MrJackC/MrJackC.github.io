@@ -99,7 +99,8 @@ export default defineComponent({
     };
     onMounted(() => {
       nextTick(() => {
-        getImage();
+        // bing图片注释，mrjason
+        // getImage();
       });
     });
 
@@ -186,15 +187,16 @@ export default defineComponent({
                 )
                 : null
             ),
-            bingData.value
-              ? h(SwitchBtn, {
-                onLeftClick: leftClick,
-                onRightClick: rightClick,
-                bingData: bingData.value,
-                lDisabled: lDisabled.value,
-                rDisabled: rDisabled.value,
-              })
-              : null,
+            // bing随机图片代码注释 mrjason
+            // bingData.value
+            //   ? h(SwitchBtn, {
+            //     onLeftClick: leftClick,
+            //     onRightClick: rightClick,
+            //     bingData: bingData.value,
+            //     lDisabled: lDisabled.value,
+            //     rDisabled: rDisabled.value,
+            //   })
+            //   : null,
             isFullScreen.value
               ? h(
                 "button",
