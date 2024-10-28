@@ -30,11 +30,6 @@ features:
     details: 免费公开的API网站，提供多种公共接口服务
     link: /site/public-api
 
-  - title: 速查表
-    icon: hk-todo-list
-    details: 为开发人员分享快速参考备忘清单【速查表】
-    link: https://reference.guoyaxue.top/
-
   - title: HelloGitHub
     icon: hk-github
     details: HelloGitHub 是一个发现和分享有趣、入门级开源项目的平台。

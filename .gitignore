@@ -3,6 +3,9 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
+src/posts/**/*.png
+src/posts/**/*.jpg
+src/posts/**/*.jpeg
 *.xmind
 *.pptx
 *.docx

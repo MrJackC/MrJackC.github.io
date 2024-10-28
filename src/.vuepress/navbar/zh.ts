@@ -20,6 +20,11 @@ export const zhNavbar = navbar([
           { text: "Docker", icon: "expansion", link: "Docker/" },
           { text: "Git", icon: "git", link: "Git/" },
           { text: "Redis", icon: "lock", link: "Redis/" },
+          { text: "中间件", icon: "process", link: "MiddleWare/" },
+          { text: "大数据", icon: "hot", link: "BigData/" },
+          { text: "架构师", icon: "study", link: "Architect/" },
+          { text: "日常思考", icon: "mark", link: "Daily-Thoughts/" },
+          { text: "开发工具", icon: "tool", link: "Development-Tools/" },
         ],
       },
       {

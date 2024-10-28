@@ -59,6 +59,36 @@ export const zhSidebar = sidebar({
           prefix: "posts/",
           link: "Docker/",
         },
+        {
+          text: "中间件",
+          icon: "process",
+          prefix: "posts/",
+          link: "MiddleWare/",
+        },
+        {
+          text: "大数据",
+          icon: "hot",
+          prefix: "posts/",
+          link: "BigData/",
+        },
+        {
+          text: "架构师",
+          icon: "study",
+          prefix: "posts/",
+          link: "Architect/",
+        },
+        {
+          text: "日常思考",
+          icon: "mark",
+          prefix: "posts/",
+          link: "Daily-Thoughts/",
+        },
+        {
+          text: "开发工具",
+          icon: "tool",
+          prefix: "posts/",
+          link: "Development-Tools/",
+        },
         
       ],
     },
@@ -107,4 +137,9 @@ export const zhSidebar = sidebar({
   "/posts/Git/": "structure",
   "/posts/Redis/": "structure",
   "/posts/Java/": "structure",
+  "/posts/MiddleWare/": "structure",
+  "/posts/BigData/": "structure",
+  "/posts/Architect/": "structure",
+  "/posts/Daily-Thoughts/": "structure",
+  "/posts/Development-Tools/": "structure",
 });

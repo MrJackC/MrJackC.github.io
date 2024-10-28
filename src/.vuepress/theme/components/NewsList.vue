@@ -5,7 +5,7 @@
       共{{ items.length }}条碎碎念~ (｡♥‿♥｡)
     </p>
     <figure>
-      <img class="news-top-img" src="https://tuapi.eees.cc/api.php?category=dongman&px=pc&type=302" alt="图"
+      <img class="news-top-img" src="https://t.alcy.cc/fj" alt="图"
         :key="imageKey" />
     </figure>
     <template v-if="currentArticles.length">
