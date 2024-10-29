@@ -226,7 +226,7 @@
   - **java代码**
 
   ```java
-  package com.itheima;
+  package com.mrjason;
   
   import javax.servlet.ServletException;
   import javax.servlet.annotation.WebServlet;
@@ -330,11 +330,11 @@
     - **UserServlet.java**
 
     ```java
-    package com.itheima.controller;
+    package com.mrjason.controller;
     
-    import com.itheima.bean.User;
-    import com.itheima.service.UserService;
-    import com.itheima.service.impl.UserServiceImpl;
+    import com.mrjason.bean.User;
+    import com.mrjason.service.UserService;
+    import com.mrjason.service.impl.UserServiceImpl;
     
     import javax.servlet.ServletException;
     import javax.servlet.annotation.WebServlet;
@@ -385,9 +385,9 @@
     - **UserService.java**
 
     ```java
-    package com.itheima.service;
+    package com.mrjason.service;
     
-    import com.itheima.bean.User;
+    import com.mrjason.bean.User;
     
     import java.util.List;
     /*
@@ -404,11 +404,11 @@
     - **UserServiceImpl.java**
 
     ```java
-    package com.itheima.service.impl;
+    package com.mrjason.service.impl;
     
-    import com.itheima.bean.User;
-    import com.itheima.mapper.UserMapper;
-    import com.itheima.service.UserService;
+    import com.mrjason.bean.User;
+    import com.mrjason.mapper.UserMapper;
+    import com.mrjason.service.UserService;
     import org.apache.ibatis.io.Resources;
     import org.apache.ibatis.session.SqlSession;
     import org.apache.ibatis.session.SqlSessionFactory;
@@ -464,9 +464,9 @@
     - **UserMapper.java**
 
     ```java
-    package com.itheima.mapper;
+    package com.mrjason.mapper;
     
-    import com.itheima.bean.User;
+    import com.mrjason.bean.User;
     import org.apache.ibatis.annotations.Select;
     
     import java.util.List;
@@ -583,14 +583,14 @@
     - **1、创建StudentServlet.java**
 
     ```java
-    package com.itheima.controller;
+    package com.mrjason.controller;
     
     import com.fasterxml.jackson.databind.ObjectMapper;
     import com.github.pagehelper.Page;
     import com.github.pagehelper.PageInfo;
-    import com.itheima.bean.Student;
-    import com.itheima.service.StudentService;
-    import com.itheima.service.impl.StudentServiceImpl;
+    import com.mrjason.bean.Student;
+    import com.mrjason.service.StudentService;
+    import com.mrjason.service.impl.StudentServiceImpl;
     import org.apache.commons.beanutils.BeanUtils;
     import org.apache.commons.beanutils.ConvertUtils;
     import org.apache.commons.beanutils.Converter;
@@ -656,10 +656,10 @@
     - **2、创建StudentService.java**
 
     ```java
-    package com.itheima.service;
+    package com.mrjason.service;
     
     import com.github.pagehelper.Page;
-    import com.itheima.bean.Student;
+    import com.mrjason.bean.Student;
     
     /*
         学生业务层接口
@@ -675,13 +675,13 @@
     - **3、创建StudentServiceImpl.java**
 
     ```java
-    package com.itheima.service.impl;
+    package com.mrjason.service.impl;
     
     import com.github.pagehelper.Page;
     import com.github.pagehelper.PageHelper;
-    import com.itheima.bean.Student;
-    import com.itheima.mapper.StudentMapper;
-    import com.itheima.service.StudentService;
+    import com.mrjason.bean.Student;
+    import com.mrjason.mapper.StudentMapper;
+    import com.mrjason.service.StudentService;
     import org.apache.ibatis.io.Resources;
     import org.apache.ibatis.session.SqlSession;
     import org.apache.ibatis.session.SqlSessionFactory;
@@ -741,9 +741,9 @@
     - **4、创建StudentMapper.java**
 
     ```java
-    package com.itheima.mapper;
+    package com.mrjason.mapper;
     
-    import com.itheima.bean.Student;
+    import com.mrjason.bean.Student;
     import org.apache.ibatis.annotations.Delete;
     import org.apache.ibatis.annotations.Insert;
     import org.apache.ibatis.annotations.Select;

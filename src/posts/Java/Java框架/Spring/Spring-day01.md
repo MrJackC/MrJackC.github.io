@@ -153,7 +153,7 @@ public class UserServiceImpl implements UserService {
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
     <!-- 1.创建spring控制的资源-->
-    <bean id="userService" class="com.itheima.service.impl.UserServiceImpl"/>
+    <bean id="userService" class="com.mrjason.service.impl.UserServiceImpl"/>
 </beans>
 ```
 
@@ -497,7 +497,7 @@ IoC与DI的关系
   ```xml
    <bean
          id="userService"
-         class="com.itheima.service.impl.UserServiceImpl"
+         class="com.mrjason.service.impl.UserServiceImpl"
          p:userDao-ref="userDao"
          p:bookDao-ref="bookDao"
          />
@@ -544,7 +544,7 @@ IoC与DI的关系
 - 案例：
 
   ```xml
-   <bean id="userService" class="com.itheima.service.impl.UserServiceImpl">
+   <bean id="userService" class="com.mrjason.service.impl.UserServiceImpl">
        <property name="userDao" value="#{userDao}"/>
        <property name="bookDao" value="#{bookDao}"/>
        <property name="num" value="#{666666666}"/>

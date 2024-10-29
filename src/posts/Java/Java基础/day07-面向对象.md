@@ -81,7 +81,7 @@ public class Student {
 * **示例代码 : **
 
 ```java
-package com.itheima.object1;
+package com.mrjason.object1;
 
 public class TestStudent {
     /*
@@ -108,7 +108,7 @@ public class TestStudent {
 
         // 对象名.方法名();
         stu.study();
-        // com.itheima.object1.Student@b4c966a
+        // com.mrjason.object1.Student@b4c966a
         // 全类名(包名 + 类名)
         System.out.println(stu);
     }
@@ -126,7 +126,7 @@ public class TestStudent {
 * 示例代码：
 
 ```java
-package com.itheima.test1;
+package com.mrjason.test1;
 
 public class Phone {
     // 品牌, 价格
@@ -145,7 +145,7 @@ public class Phone {
 ```
 
 ```java
-package com.itheima.test1;
+package com.mrjason.test1;
 
 public class TestPhone {
     public static void main(String[] args) {
@@ -414,7 +414,7 @@ public class StudentDemo {
 * 用于给对象的数据（属性）进行初始化
 
 ```java
-package com.itheima.constructor;
+package com.mrjason.constructor;
 
 public class Student {
     /*
@@ -445,7 +445,7 @@ public class Student {
 ```
 
 ```java
-package com.itheima.constructor;
+package com.mrjason.constructor;
 
 public class TestStudent {
     public static void main(String[] args) {
@@ -478,7 +478,7 @@ public class TestStudent {
 **代码 :** 
 
 ```java
-package com.itheima.test3;
+package com.mrjason.test3;
 
 /*
     JavaBean类: 封装数据
@@ -518,7 +518,7 @@ public class Student {
 ```
 
 ```java
-package com.itheima.test3;
+package com.mrjason.test3;
 
 public class TestStudent {
     public static void main(String[] args) {

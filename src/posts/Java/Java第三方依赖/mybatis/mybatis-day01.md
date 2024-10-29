@@ -150,8 +150,8 @@ public class Student {
 
     <!--起别名-->
     <typeAliases>
-        <typeAlias type="com.itheima.bean.Student" alias="student"/>
-        <!--<package name="com.itheima.bean"/>-->
+        <typeAlias type="com.mrjason.bean.Student" alias="student"/>
+        <!--<package name="com.mrjason.bean"/>-->
     </typeAliases>
 
     <!--environments配置数据库环境，环境可以有多个。default属性指定使用的是哪个-->
@@ -441,8 +441,8 @@ SqlSession 实例在 MyBatis 中是非常强大的一个类。在这里你会看
   ~~~xml
       <!--起别名-->
       <typeAliases>
-          <typeAlias type="com.itheima.bean.Student" alias="student"/>
-          <!--<package name="com.itheima.bean"/>-->
+          <typeAlias type="com.mrjason.bean.Student" alias="student"/>
+          <!--<package name="com.mrjason.bean"/>-->
       </typeAliase
   ~~~
 

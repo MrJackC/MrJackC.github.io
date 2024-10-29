@@ -142,7 +142,7 @@ public class Demo1 {
 ### 2.6 位运算-基本位运算符
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 
 public class Demo2 {
     /*
@@ -184,11 +184,12 @@ public class Demo2 {
 
 **位运算概述 :** 位运算符指的是二进制位的运算，先将十进制数转成二进制后再进行运算。在二进制位运算中，1表示true，0表示false。
 
-**位运算符介绍 :**![1590937235620.png](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202403111147804.png)
+**位运算符介绍 :**
+![1590937235620.png](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202403111147804.png)
 **代码 :** 
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 
 public class Demo3 {
     /*
@@ -223,7 +224,7 @@ public class Demo3 {
 ```
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 
 public class Demo4 {
     /*
@@ -249,7 +250,7 @@ public class Demo4 {
 **代码实现**
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 public class Test1 {
     /*
@@ -308,7 +309,7 @@ public class Test1 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 public class Test2 {
     /*
@@ -359,7 +360,7 @@ n表示每一个一维数组，可以存放多少个元素
 ```
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 
 public class Demo1Array {
     /*
@@ -429,7 +430,7 @@ public class Demo1Array {
 #### 代码实现
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 
 public class Demo2Array {
     /*
@@ -464,7 +465,7 @@ public class Demo2Array {
 **代码实现 : **
 
 ```java
-package com.itheima.demo;
+package com.mrjason.demo;
 public class Demo3Array {
     /*
         完整格式：数据类型[][] 变量名 = new 数据类型[][]{ {元素1, 元素2...} , {元素1, 元素2...} ...};
@@ -500,7 +501,7 @@ public class Demo3Array {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 public class Test1 {
     /*
@@ -549,7 +550,7 @@ public class Test1 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 public class Test2 {
     /*

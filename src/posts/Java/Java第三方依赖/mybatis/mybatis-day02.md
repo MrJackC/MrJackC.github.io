@@ -407,7 +407,7 @@ System.out.println("是否最后一页："+pageInfo.isIsLastPage());
              PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
              "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
      
-     <mapper namespace="com.itheima.table01.OneToOneMapper">
+     <mapper namespace="com.mrjason.table01.OneToOneMapper">
          <!--配置字段和实体对象属性的映射关系-->
          <resultMap id="oneToOne" type="card">
              <id column="cid" property="id" />
@@ -510,7 +510,7 @@ System.out.println("是否最后一页："+pageInfo.isIsLastPage());
    - 步骤二:配置文件
 
      ```xml
-     <mapper namespace="com.itheima.table02.OneToManyMapper">
+     <mapper namespace="com.mrjason.table02.OneToManyMapper">
          <resultMap id="oneToMany" type="classes">
              <id column="cid" property="id"/>
              <result column="cname" property="name"/>
@@ -621,7 +621,7 @@ System.out.println("是否最后一页："+pageInfo.isIsLastPage());
              PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
              "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
      
-     <mapper namespace="com.itheima.table03.ManyToManyMapper">
+     <mapper namespace="com.mrjason.table03.ManyToManyMapper">
          <resultMap id="manyToMany" type="student">
              <id column="sid" property="id"/>
              <result column="sname" property="name"/>

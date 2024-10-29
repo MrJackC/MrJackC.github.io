@@ -148,7 +148,7 @@ public class Address implements Serializable {
 
 ``` java
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<%@ page import="com.itheima.domain.User" %>
+<%@ page import="com.mrjason.domain.User" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 	<head>
@@ -269,7 +269,7 @@ EL表达式中运算符如下图所示，它们都是一目了然的：
 
 ``` java
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<%@ page import="com.itheima.domain.User" %>
+<%@ page import="com.mrjason.domain.User" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 	<head>
@@ -509,7 +509,7 @@ public class ServletDemo1 extends HttpServlet {
     <!--配置Servlet-->
     <servlet>
         <servlet-name>ServletDemo1</servlet-name>
-        <servlet-class>com.itheima.web.servlet.ServletDemo1</servlet-class>
+        <servlet-class>com.mrjason.web.servlet.ServletDemo1</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ServletDemo1</servlet-name>
@@ -593,7 +593,7 @@ public class FilterDemo1 implements Filter {
 <!--配置过滤器-->
 <filter>
     <filter-name>FilterDemo1</filter-name>
-    <filter-class>com.itheima.web.filter.FilterDemo1</filter-class>
+    <filter-class>com.mrjason.web.filter.FilterDemo1</filter-class>
 </filter>
 <filter-mapping>
     <filter-name>FilterDemo1</filter-name>
@@ -752,7 +752,7 @@ public class FilterDemo2 implements Filter {
 ```xml
 <filter>
     <filter-name>FilterDemo2</filter-name>
-    <filter-class>com.itheima.web.filter.FilterDemo2</filter-class>
+    <filter-class>com.mrjason.web.filter.FilterDemo2</filter-class>
     <!--配置过滤器的初始化参数-->
     <init-param>
         <param-name>filterInitParamName</param-name>
@@ -895,7 +895,7 @@ public class FilterDemo2 implements Filter {
 <!--配置过滤器-->
 <filter>
     <filter-name>FilterDemo1</filter-name>
-    <filter-class>com.itheima.web.filter.FilterDemo1</filter-class>
+    <filter-class>com.mrjason.web.filter.FilterDemo1</filter-class>
 </filter>
 <filter-mapping>
     <filter-name>FilterDemo1</filter-name>
@@ -905,7 +905,7 @@ public class FilterDemo2 implements Filter {
 
 <filter>
     <filter-name>FilterDemo2</filter-name>
-    <filter-class>com.itheima.web.filter.FilterDemo2</filter-class>
+    <filter-class>com.mrjason.web.filter.FilterDemo2</filter-class>
 </filter>
 <filter-mapping>
     <filter-name>FilterDemo2</filter-name>
@@ -933,7 +933,7 @@ public class FilterDemo2 implements Filter {
 <!--配置过滤器-->
 <filter>
     <filter-name>FilterDemo1</filter-name>
-    <filter-class>com.itheima.web.filter.FilterDemo1</filter-class>
+    <filter-class>com.mrjason.web.filter.FilterDemo1</filter-class>
     <!--配置开启异步支持，当dispatcher配置ASYNC时，需要配置此行-->
     <async-supported>true</async-supported>
 </filter>
@@ -1051,7 +1051,7 @@ public class StaticResourceNeedCacheFilter implements Filter {
 ```xml
 <filter>
     <filter-name>StaticResourceNeedCacheFilter</filter-name>
-    <filter-class>com.itheima.web.filter.StaticResourceNeedCacheFilter</filter-class>
+    <filter-class>com.mrjason.web.filter.StaticResourceNeedCacheFilter</filter-class>
     <init-param>
         <param-name>html</param-name>
         <param-value>3</param-value>
@@ -1131,7 +1131,7 @@ public class ServletDemo1 extends HttpServlet {
 ``` java
 <servlet>
     <servlet-name>ServletDemo1</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo1</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo1</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>ServletDemo1</servlet-name>
@@ -1242,7 +1242,7 @@ class MyHttpServletRequest2 extends HttpServletRequestWrapper {
 ```xml
 <filter>
     <filter-name>HTMLFilter</filter-name>
-    <filter-class>com.itheima.web.filter.HTMLFilter</filter-class>
+    <filter-class>com.mrjason.web.filter.HTMLFilter</filter-class>
 </filter>
 <filter-mapping>
     <filter-name>HTMLFilter</filter-name>
@@ -1541,7 +1541,7 @@ public class ServletContextListenerDemo implements ServletContextListener {
 ```xml
 <!--配置监听器-->
 <listener>
-    <listener-class>com.itheima.web.listener.ServletContextListenerDemo</listener-class>
+    <listener-class>com.mrjason.web.listener.ServletContextListenerDemo</listener-class>
 </listener>
 ```
 
@@ -1657,12 +1657,12 @@ public class ServletContextListenerDemo implements ServletContextListener {
 ```xml
 <!--配置监听器-->
 <listener>
-    <listener-class>com.itheima.web.listener.ServletContextListenerDemo</listener-class>
+    <listener-class>com.mrjason.web.listener.ServletContextListenerDemo</listener-class>
 </listener>
 
 <!--配置监听器-->
 <listener>
-    <listener-class>com.itheima.web.listener.ServletContextAttributeListenerDemo</listener-class>
+    <listener-class>com.mrjason.web.listener.ServletContextAttributeListenerDemo</listener-class>
 </listener>
 ```
 
@@ -1695,7 +1695,7 @@ public class ServletContextListenerDemo implements ServletContextListener {
 创建EncodingFilter类，解决乱码
 
 ```java
-package com.itheima.filter;
+package com.mrjason.filter;
 
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
@@ -1737,7 +1737,7 @@ public class EncodingFilter implements Filter{
 检查登录，创建LoginFilter 类
 
 ```java
-package com.itheima.filter;
+package com.mrjason.filter;
 
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
@@ -1824,7 +1824,7 @@ public class LoginFilter implements Filter{
 3，修改`listStudent.jsp`
 
 ``` java
-<%@ page import="com.itheima.bean.Student" %>
+<%@ page import="com.mrjason.bean.Student" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>

@@ -432,7 +432,7 @@ spring:
 # mybatis
 mybatis:
   mapper-locations: classpath:mapper/*Mapper.xml # mapper映射文件路径
-  type-aliases-package: com.itheima.springbootmybatis.domain
+  type-aliases-package: com.mrjason.springbootmybatis.domain
 
   # config-location:  # 指定mybatis的核心配置文件
 ```
@@ -499,7 +499,7 @@ mapper.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.itheima.springbootmybatis.mapper.UserXmlMapper">
+<mapper namespace="com.mrjason.springbootmybatis.mapper.UserXmlMapper">
     <select id="findAll" resultType="user">
         select * from t_user
     </select>

@@ -497,7 +497,7 @@ public class UserServiceTest {
 
   ```java
   @ComponentScan(
-      value="com.itheima",	           //设置基础扫描路径
+      value="com.mrjason",	           //设置基础扫描路径
       excludeFilters =                          //设置过滤规则，当前为排除过滤
   	@ComponentScan.Filter(            //设置过滤器
   	    type= FilterType.ANNOTATION,  //设置过滤方式为按照注解进行过滤
@@ -526,7 +526,7 @@ public class UserServiceTest {
       public boolean match(MetadataReader mr, MetadataReaderFactory mrf) throws IOException {
           ClassMetadata cm = metadataReader.getClassMetadata();
           tring className = cm.getClassName();
-          if(className.equals("com.itheima.dao.impl.BookDaoImpl")){
+          if(className.equals("com.mrjason.dao.impl.BookDaoImpl")){
               return false;
           }
           return false;
@@ -559,14 +559,14 @@ public class UserServiceTest {
   ```java
   public class MyImportSelector implements ImportSelector {
       public String[] selectImports(AnnotationMetadata icm) {
-          return new String[]{"com.itheima.dao.impl.AccountDaoImpl"};
+          return new String[]{"com.mrjason.dao.impl.AccountDaoImpl"};
       }
   }
   ```
 
   ```java
   @Configuration
-  @ComponentScan("com.itheima")
+  @ComponentScan("com.mrjason")
   @Import(MyImportSelector.class)
   public class SpringConfig {
   }
@@ -593,7 +593,7 @@ public class UserServiceTest {
           };
           scanner.addIncludeFilter(tf);
           //scanner.addExcludeFilter(tf);
-          scanner.scan("com.itheima");
+          scanner.scan("com.mrjason");
       }
   }
   ```

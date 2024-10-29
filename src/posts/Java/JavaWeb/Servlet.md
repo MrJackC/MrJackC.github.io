@@ -308,7 +308,7 @@ public class ServletDemo6 extends HttpServlet {
 <!--配置ServletDemo6-->
 <servlet>
     <servlet-name>servletDemo6</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo6</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo6</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>servletDemo6</servlet-name>
@@ -378,7 +378,7 @@ public class ServletDemo7 extends HttpServlet {
 <!--配置ServletDemo7-->
 <servlet>
     <servlet-name>servletDemo7</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo7</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo7</servlet-class>
 </servlet>
 <!--映射路径1-->
 <servlet-mapping>
@@ -416,7 +416,7 @@ public class ServletDemo7 extends HttpServlet {
 <!--配置ServletDemo3-->
 <servlet>
     <servlet-name>servletDemo3</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo3</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo3</servlet-class>
     <!--配置Servlet的创建顺序，当配置此标签时，Servlet就会改为应用加载时创建
         配置项的取值只能是正整数（包括0），数值越小，表明创建的优先级越高
     -->
@@ -511,7 +511,7 @@ public class ServletDemo8 extends HttpServlet {
 <!--配置ServletDemo8-->
 <servlet>
     <servlet-name>servletDemo8</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo8</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo8</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>servletDemo8</servlet-name>
@@ -527,7 +527,7 @@ public class ServletDemo8 extends HttpServlet {
 <!--配置ServletDemo8-->
 <servlet>
     <servlet-name>servletDemo8</servlet-name>
-    <servlet-class>com.itheima.web.servlet.ServletDemo8</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.ServletDemo8</servlet-class>
     <!--配置初始化参数-->
     <init-param>
         <!--用于获取初始化参数的key-->

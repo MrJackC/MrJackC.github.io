@@ -140,10 +140,10 @@ RabbitMQ提供了6种模式：简单模式，work模式，Publish/Subscribe发�
 
 ## 3.2. 编写生产者
 
-编写消息生产者com.itheima.rabbitmq.simple.Producer
+编写消息生产者com.mrjason.rabbitmq.simple.Producer
 
 ```java
-package com.itheima.rabbitmq.simple;
+package com.mrjason.rabbitmq.simple;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -214,10 +214,10 @@ public class Producer {
 
 ## 3.3. 编写消费者
 
-抽取创建connection的工具类com.itheima.rabbitmq.util.ConnectionUtil；
+抽取创建connection的工具类com.mrjason.rabbitmq.util.ConnectionUtil；
 
 ```java
-package com.itheima.rabbitmq.util;
+package com.mrjason.rabbitmq.util;
 
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
@@ -248,12 +248,12 @@ public class ConnectionUtil {
 
 
 
-编写消息的消费者com.itheima.rabbitmq.simple.Consumer
+编写消息的消费者com.mrjason.rabbitmq.simple.Consumer
 
 ```java
-package com.itheima.rabbitmq.simple;
+package com.mrjason.rabbitmq.simple;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -412,9 +412,9 @@ RabbitMQ是AMQP协议的Erlang的实现。
 #### 1）生产者
 
 ```java
-package com.itheima.rabbitmq.work;
+package com.mrjason.rabbitmq.work;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
@@ -465,9 +465,9 @@ public class Producer {
 #### 2）消费者1
 
 ```java
-package com.itheima.rabbitmq.work;
+package com.mrjason.rabbitmq.work;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -535,9 +535,9 @@ public class Consumer1 {
 #### 3）消费者2
 
 ```java
-package com.itheima.rabbitmq.work;
+package com.mrjason.rabbitmq.work;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -667,9 +667,9 @@ public class Consumer2 {
 #### 1）生产者
 
 ```java
-package com.itheima.rabbitmq.ps;
+package com.mrjason.rabbitmq.ps;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -741,9 +741,9 @@ public class Producer {
 #### 2）消费者1
 
 ```java
-package com.itheima.rabbitmq.ps;
+package com.mrjason.rabbitmq.ps;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -807,9 +807,9 @@ public class Consumer1 {
 #### 3）消费者2
 
 ```java
-package com.itheima.rabbitmq.ps;
+package com.mrjason.rabbitmq.ps;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -920,9 +920,9 @@ public class Consumer2 {
 #### 1）生产者
 
 ```java
-package com.itheima.rabbitmq.routing;
+package com.mrjason.rabbitmq.routing;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -1001,9 +1001,9 @@ public class Producer {
 #### 2）消费者1
 
 ```java
-package com.itheima.rabbitmq.routing;
+package com.mrjason.rabbitmq.routing;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -1066,9 +1066,9 @@ public class Consumer1 {
 #### 3）消费者2
 
 ```java
-package com.itheima.rabbitmq.routing;
+package com.mrjason.rabbitmq.routing;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -1186,9 +1186,9 @@ Routing模式要求队列在绑定交换机时要指定routing key，消息会�
 使用topic类型的Exchange，发送消息的routing key有3种： `item.insert`、`item.update`、`item.delete`：
 
 ```java
-package com.itheima.rabbitmq.topic;
+package com.mrjason.rabbitmq.topic;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -1248,9 +1248,9 @@ public class Producer {
 接收两种类型的消息：更新商品和删除商品
 
 ```java
-package com.itheima.rabbitmq.topic;
+package com.mrjason.rabbitmq.topic;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -1316,9 +1316,9 @@ public class Consumer1 {
 接收所有类型的消息：新增商品，更新商品和删除商品。
 
 ```java
-package com.itheima.rabbitmq.topic;
+package com.mrjason.rabbitmq.topic;
 
-import com.itheima.rabbitmq.util.ConnectionUtil;
+import com.mrjason.rabbitmq.util.ConnectionUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
@@ -1432,7 +1432,7 @@ RabbitMQ工作模式：
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.itheima</groupId>
+    <groupId>com.mrjason</groupId>
     <artifactId>spring-rabbitmq-producer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -1630,7 +1630,7 @@ public class ProducerTest {
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.itheima</groupId>
+    <groupId>com.mrjason</groupId>
     <artifactId>spring-rabbitmq-consumer</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
@@ -1688,12 +1688,12 @@ rabbitmq.virtual-host=/itcast
                                password="${rabbitmq.password}"
                                virtual-host="${rabbitmq.virtual-host}"/>
 
-    <bean id="springQueueListener" class="com.itheima.rabbitmq.listener.SpringQueueListener"/>
-    <bean id="fanoutListener1" class="com.itheima.rabbitmq.listener.FanoutListener1"/>
-    <bean id="fanoutListener2" class="com.itheima.rabbitmq.listener.FanoutListener2"/>
-    <bean id="topicListenerStar" class="com.itheima.rabbitmq.listener.TopicListenerStar"/>
-    <bean id="topicListenerWell" class="com.itheima.rabbitmq.listener.TopicListenerWell"/>
-    <bean id="topicListenerWell2" class="com.itheima.rabbitmq.listener.TopicListenerWell2"/>
+    <bean id="springQueueListener" class="com.mrjason.rabbitmq.listener.SpringQueueListener"/>
+    <bean id="fanoutListener1" class="com.mrjason.rabbitmq.listener.FanoutListener1"/>
+    <bean id="fanoutListener2" class="com.mrjason.rabbitmq.listener.FanoutListener2"/>
+    <bean id="topicListenerStar" class="com.mrjason.rabbitmq.listener.TopicListenerStar"/>
+    <bean id="topicListenerWell" class="com.mrjason.rabbitmq.listener.TopicListenerWell"/>
+    <bean id="topicListenerWell2" class="com.mrjason.rabbitmq.listener.TopicListenerWell2"/>
 
     <rabbit:listener-container connection-factory="connectionFactory" auto-declare="true">
         <rabbit:listener ref="springQueueListener" queue-names="spring_queue"/>
@@ -1900,7 +1900,7 @@ https://github.com/spring-projects/spring-amqp
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.4.RELEASE</version>
     </parent>
-    <groupId>com.itheima</groupId>
+    <groupId>com.mrjason</groupId>
     <artifactId>springboot-rabbitmq-producer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -1922,7 +1922,7 @@ https://github.com/spring-projects/spring-amqp
 ### 5.2.3. 启动类
 
 ```java
-package com.itheima.rabbitmq;
+package com.mrjason.rabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -1958,10 +1958,10 @@ spring:
 
 #### 2）绑定交换机和队列
 
-创建RabbitMQ队列与交换机绑定的配置类com.itheima.rabbitmq.config.RabbitMQConfig
+创建RabbitMQ队列与交换机绑定的配置类com.mrjason.rabbitmq.config.RabbitMQConfig
 
 ```java
-package com.itheima.rabbitmq.config;
+package com.mrjason.rabbitmq.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -2024,7 +2024,7 @@ public class RabbitMQConfig {
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.4.RELEASE</version>
     </parent>
-    <groupId>com.itheima</groupId>
+    <groupId>com.mrjason</groupId>
     <artifactId>springboot-rabbitmq-consumer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -2043,7 +2043,7 @@ public class RabbitMQConfig {
 ### 5.3.3. 启动类
 
 ```java
-package com.itheima.rabbitmq;
+package com.mrjason.rabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -2076,10 +2076,10 @@ spring:
 
 ### 5.3.5. 消息监听处理类
 
-编写消息监听器com.itheima.rabbitmq.listener.MyListener
+编写消息监听器com.mrjason.rabbitmq.listener.MyListener
 
 ```java
-package com.itheima.rabbitmq.listener;
+package com.mrjason.rabbitmq.listener;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
@@ -2106,9 +2106,9 @@ public class MyListener {
 在生产者工程springboot-rabbitmq-producer中创建测试类，发送消息：
 
 ```java
-package com.itheima.rabbitmq;
+package com.mrjason.rabbitmq;
 
-import com.itheima.rabbitmq.config.RabbitMQConfig;
+import com.mrjason.rabbitmq.config.RabbitMQConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

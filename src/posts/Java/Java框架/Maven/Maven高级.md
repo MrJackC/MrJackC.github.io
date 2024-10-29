@@ -168,7 +168,7 @@ updated: 2024-10-11 16:38
     ```xml
     <!--定义该工程的父工程-->
     <parent>
-        <groupId>com.itheima</groupId>
+        <groupId>com.mrjason</groupId>
         <artifactId>ssm</artifactId>
         <version>1.0-SNAPSHOT</version>
         <!--填写父工程的pom文件-->

@@ -48,7 +48,7 @@ updated: "2024-03-11 11:59"
 **代码实现 :** 
 
 ```java
-package com.itheima.api;
+package com.mrjason.api;
 
 import java.util.Scanner;
 
@@ -76,7 +76,7 @@ public class Demo1Scanner {
 ```
 
 ```java
-package com.itheima.api;
+package com.mrjason.api;
 
 import java.util.Scanner;
 
@@ -119,7 +119,7 @@ public class Demo2Scanner {
 **示例代码**
 
 ```java
-package com.itheima.string;
+package com.mrjason.string;
 
 public class Demo2StringConstructor {
     /*
@@ -175,7 +175,7 @@ public class Demo2StringConstructor {
 **代码 :**
 
 ```java
-package com.itheima.stringmethod;
+package com.mrjason.stringmethod;
 
 public class Demo1Equals {
     public static void main(String[] args) {
@@ -210,7 +210,7 @@ public class Demo1Equals {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 import java.util.Scanner;
 
@@ -273,7 +273,7 @@ public class Test1 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 import java.util.Scanner;
 
@@ -320,7 +320,7 @@ public class Test2 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 import java.util.Scanner;
 
@@ -367,7 +367,7 @@ public class Test3 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 import java.util.Scanner;
 
@@ -409,15 +409,15 @@ public class Test5 {
 1. 键盘录入一个字符串，用 Scanner 实现
 2. 替换敏感词
    
-               String replace(CharSequence target, CharSequence replacement)
-               将当前字符串中的target内容，使用replacement进行替换，返回新的字符串
+        String replace(CharSequence target, CharSequence replacement)
+        将当前字符串中的target内容，使用replacement进行替换，返回新的字符串
 
 3. 输出结果
 
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 import java.util.Scanner;
 
@@ -469,9 +469,9 @@ public class Test6 {
 **代码实现 :** 
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
-import com.itheima.domain.Student;
+import com.mrjason.domain.Student;
 
 import java.util.Scanner;
 

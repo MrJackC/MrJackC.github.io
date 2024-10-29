@@ -179,7 +179,7 @@ public class Demo1Method {
 * 代码：
 
 ```java
-package com.itheima.method2;
+package com.mrjason.method2;
 
 public class Demo2Method {
     public static void main(String[] args) {
@@ -192,7 +192,7 @@ public class Demo2Method {
     public static void print(int n, int m){
         System.out.println(n + "到" + m + "之间的奇数为:");
         // 3：方法中设计for循环，循环从n开始，到m结束
-        for(int i = 20; i <= 10; i++){
+        for(int i = m; i <= n; i++){
             // 4：循环中加入if判断，是奇数，则打印
             if(i % 2 == 1){
                 System.out.println(i);
@@ -484,7 +484,7 @@ public class Demo2Method {
 * 测试代码：
 
   ```java
-  package com.itheima.param;
+  package com.mrjason.param;
   
   public class Test1 {
       /*
@@ -520,7 +520,7 @@ public class Demo2Method {
 * 测试代码：
 
 ```java
-package com.itheima.param;
+package com.mrjason.param;
 
 public class Test2 {
     /*
@@ -571,7 +571,7 @@ public class Test2 {
 * 代码：
 
   ```java
-  package com.itheima.test;
+  package com.mrjason.test;
   
   public class Test1 {
       /*
@@ -632,7 +632,7 @@ public class Test2 {
 * 代码：
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
 public class Test2 {
     /*

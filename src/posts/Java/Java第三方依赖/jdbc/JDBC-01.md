@@ -169,7 +169,7 @@ INSERT INTO student VALUES (NULL,'张三',23,'1999-09-23'),(NULL,'李四',24,'19
   - 注意：所有的基本数据类型需要使用包装类，以防null值无法赋值
 
 ```java
-package com.itheima02.domain;
+package com.mrjason02.domain;
 
 import java.util.Date;
 

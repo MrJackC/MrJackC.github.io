@@ -334,7 +334,7 @@ public interface UserDao {
 <beans xmlns="http://www.springframework.org/schema/beans"  xmlns:context="http://www.springframework.org/schema/context"  xmlns:tx="http://www.springframework.org/schema/tx"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.springframework.org/schema/beans  http://www.springframework.org/schema/beans/spring-beans.xsd  http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context.xsd  http://www.springframework.org/schema/tx  http://www.springframework.org/schema/tx/spring-tx.xsd">
 
     <!--开启bean注解扫描-->
-    <context:component-scan base-package="com.itheima"/>
+    <context:component-scan base-package="com.mrjason"/>
 
 </beans>
 
@@ -349,7 +349,7 @@ public interface UserDao {
   <!DOCTYPE mapper
           PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
           "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-  <mapper namespace="com.itheima.dao.UserDao">
+  <mapper namespace="com.mrjason.dao.UserDao">
   
       <!--添加-->
       <insert id="save" parameterType="user">
@@ -406,7 +406,7 @@ public interface UserDao {
   <!--整合mybatis到spring中-->
   <bean class="org.mybatis.spring.SqlSessionFactoryBean">
       <property name="dataSource" ref="dataSource"/>
-      <property name="typeAliasesPackage" value="com.itheima.domain"/>
+      <property name="typeAliasesPackage" value="com.mrjason.domain"/>
       <!--分页插件-->
       <property name="plugins">
           <array>
@@ -424,7 +424,7 @@ public interface UserDao {
   
   <!--映射扫描-->
   <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-      <property name="basePackage" value="com.itheima.dao"/>
+      <property name="basePackage" value="com.mrjason.dao"/>
   </bean>
   
   <!--事务管理器-->
@@ -492,7 +492,7 @@ public class UserServiceTest {
   
       <mvc:annotation-driven/>
   
-      <context:component-scan base-package="com.itheima.controller"/>
+      <context:component-scan base-package="com.mrjason.controller"/>
   
   </beans>
   ```
@@ -713,7 +713,7 @@ public class ProjectExceptionAdivce {
 
 ```java
 //扫描组件，排除SpringMVC对应的bean，等同于<context:component-scan />
-@ComponentScan(value = "com.itheima",excludeFilters = {
+@ComponentScan(value = "com.mrjason",excludeFilters = {
     @ComponentScan.Filter(type= FilterType.ANNOTATION,classes = {Controller.class})})
 @PropertySource("classpath:jdbc.properties")
 @Import({JdbcConfig.class,MyBatisConfig.class})
@@ -737,7 +737,7 @@ public class SpringConfig {
 
   ```java
   @Configuration
-  @ComponentScan("com.itheima.controller")
+  @ComponentScan("com.mrjason.controller")
   @EnableWebMvc
   public class SpringMvcConfig implements WebMvcConfigurer {
   }

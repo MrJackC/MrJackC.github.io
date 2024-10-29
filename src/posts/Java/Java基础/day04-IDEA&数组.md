@@ -81,7 +81,7 @@ int[] arr = new int[3];
 **代码 :** 
 
 ```java
-package com.itheima.array;
+package com.mrjason.array;
 
 public class Demo2Array {
     /*
@@ -135,7 +135,7 @@ public class Demo2Array {
 ### 1.4.3 示例代码
 
 ```java
-package com.itheima.array;
+package com.mrjason.array;
 
 public class Demo3ArrayIndex {
     /*
@@ -237,7 +237,7 @@ public class Demo3ArrayIndex {
 ### 1.9.3示例代码
 
 ```java
-package com.itheima.array2;
+package com.mrjason.array2;
 
 public class Demo1Array {
     /*
@@ -357,7 +357,7 @@ public class Demo1Array {
 - 代码实现：
 
   ```java
-  package com.itheima.test;
+  package com.mrjason.test;
   
   import java.util.Scanner;
   
@@ -405,7 +405,7 @@ public class Demo1Array {
 - 代码实现：
 
   ```java
-  package com.itheima.test;
+  package com.mrjason.test;
   
   import java.util.Scanner;
   

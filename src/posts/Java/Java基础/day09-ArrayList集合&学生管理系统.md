@@ -394,7 +394,7 @@ public class ArrayListTest {
 ## 2.2 学生类的定义
 
 ```java
-package com.itheima.domain;
+package com.mrjason.domain;
 
 public class Student {
     private String sid; // 学号
@@ -449,9 +449,9 @@ public class Student {
 ## 2.3 测试类的定义
 
 ```java
-package com.itheima.test;
+package com.mrjason.test;
 
-import com.itheima.domain.Student;
+import com.mrjason.domain.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

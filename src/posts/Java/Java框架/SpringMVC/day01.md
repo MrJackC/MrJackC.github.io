@@ -95,7 +95,7 @@ public class UserController {
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
     <!--扫描加载所有的控制类类-->
-    <context:component-scan base-package="com.itheima"/>
+    <context:component-scan base-package="com.mrjason"/>
 
 </beans>
 ```
@@ -146,7 +146,7 @@ public String save(){
 
 * 服务器启动
   1. 加载web.xml中DispatcherServlet
-  2. 读取spring-mvc.xml中的配置，加载所有com.itheima包中所有标记为bean的类
+  2. 读取spring-mvc.xml中的配置，加载所有com.mrjason包中所有标记为bean的类
   3. 读取bean中方法上方标注@RequestMapping的内容
 * 处理请求
   1. DispatcherServlet配置拦截所有请求 /
@@ -186,7 +186,7 @@ public String save(){
 **xml方式**
 
 ```xml
-<context:component-scan base-package="com.itheima">
+<context:component-scan base-package="com.mrjason">
     <context:include-filter
                             type="annotation"
                             expression="org.springframework.stereotype.Controller"/>
@@ -238,7 +238,7 @@ public String save(){
 
 ```java
 @Configuration
-@ComponentScan(value = "com.itheima",includeFilters =
+@ComponentScan(value = "com.mrjason",includeFilters =
     @ComponentScan.Filter(type=FilterType.ANNOTATION,classes = {Controller.class})
     )
 public class SpringMVCConfiguration implements WebMvcConfigurer{
@@ -636,7 +636,7 @@ SpringMVC对接收的数据进行自动类型转换，该工作通过Converter�
 
   ```xml
   <!--1.将自定义Converter注册为Bean，受SpringMVC管理-->
-  <bean id="myDateConverter" class="com.itheima.converter.MyDateConverter"/>
+  <bean id="myDateConverter" class="com.mrjason.converter.MyDateConverter"/>
   <!--2.设定自定义Converter服务bean-->
   <bean id="conversionService"
         class="org.springframework.context.support.ConversionServiceFactoryBean">

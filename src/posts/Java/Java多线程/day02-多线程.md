@@ -98,7 +98,7 @@ public class Thread {
 **代码实现 :** 
 
 ```java
-package com.itheima.mythreadpool;
+package com.mrjason.mythreadpool;
 
 
 //static ExecutorService newCachedThreadPool()   创建一个默认的线程池
@@ -140,7 +140,7 @@ public class MyThreadPoolDemo {
 **代码实现 :** 
 
 ```java
-package com.itheima.mythreadpool;
+package com.mrjason.mythreadpool;
 
 //static ExecutorService newFixedThreadPool(int nThreads)
 //创建一个指定最多线程数量的线程池
@@ -181,7 +181,7 @@ ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(核心线程数�
 **代码实现 :** 
 
 ```java
-package com.itheima.mythreadpool;
+package com.mrjason.mythreadpool;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.Executors;
@@ -389,7 +389,7 @@ main---->> 执行了任务
 **代码分析 :** 
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class Demo {
     public static void main(String[] args) {
@@ -405,7 +405,7 @@ public class Demo {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class Money {
     public static int money = 100000;
@@ -413,7 +413,7 @@ public class Money {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class MyThread1 extends  Thread {
     @Override
@@ -429,7 +429,7 @@ public class MyThread1 extends  Thread {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class MyThread2 extends Thread {
     @Override
@@ -467,7 +467,7 @@ public class MyThread2 extends Thread {
 **代码实现 :** **使用volatile关键字解决**
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class Demo {
     public static void main(String[] args) {
@@ -483,7 +483,7 @@ public class Demo {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class Money {
     public static volatile int money = 100000;
@@ -491,7 +491,7 @@ public class Money {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class MyThread1 extends  Thread {
     @Override
@@ -507,7 +507,7 @@ public class MyThread1 extends  Thread {
 ```
 
 ```java
-package com.itheima.myvolatile;
+package com.mrjason.myvolatile;
 
 public class MyThread2 extends Thread {
     @Override
@@ -543,7 +543,7 @@ public class MyThread2 extends Thread {
 **代码实现 :** 
 
 ```java
-package com.itheima.myvolatile2;
+package com.mrjason.myvolatile2;
 
 public class Demo {
     public static void main(String[] args) {
@@ -559,7 +559,7 @@ public class Demo {
 ```
 
 ```java
-package com.itheima.myvolatile2;
+package com.mrjason.myvolatile2;
 
 public class Money {
     public static Object lock = new Object();
@@ -568,7 +568,7 @@ public class Money {
 ```
 
 ```java
-package com.itheima.myvolatile2;
+package com.mrjason.myvolatile2;
 
 public class MyThread1 extends  Thread {
     @Override
@@ -586,7 +586,7 @@ public class MyThread1 extends  Thread {
 ```
 
 ```java
-package com.itheima.myvolatile2;
+package com.mrjason.myvolatile2;
 
 public class MyThread2 extends Thread {
     @Override
@@ -611,7 +611,7 @@ public class MyThread2 extends Thread {
 **代码实现 :** 
 
 ```java
-package com.itheima.threadatom;
+package com.mrjason.threadatom;
 
 public class AtomDemo {
     public static void main(String[] args) {
@@ -647,7 +647,7 @@ class MyAtomThread implements Runnable {
 解决方案 : 我们可以给count++操作添加锁，那么count++操作就是临界区中的代码，临界区中的代码一次只能被一个线程去执行，所以count++就变成了原子操作。
 
 ```java
-package com.itheima.threadatom2;
+package com.mrjason.threadatom2;
 
 public class AtomDemo {
     public static void main(String[] args) {
@@ -707,7 +707,7 @@ int getAndSet(int value):   			 以原子方式设置为newValue的值，并返�
 **代码实现 :**
 
 ```java
-package com.itheima.threadatom3;
+package com.mrjason.threadatom3;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -726,7 +726,7 @@ public class MyAtomIntergerDemo1 {
 ```
 
 ```java
-package com.itheima.threadatom3;
+package com.mrjason.threadatom3;
 
 import java.lang.reflect.Field;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -783,7 +783,7 @@ public class MyAtomIntergerDemo2 {
 **代码实现 :**
 
 ```java
-package com.itheima.threadatom4;
+package com.mrjason.threadatom4;
 
 public class AtomDemo {
     public static void main(String[] args) {
@@ -797,7 +797,7 @@ public class AtomDemo {
 ```
 
 ```java
-package com.itheima.threadatom4;
+package com.mrjason.threadatom4;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -881,7 +881,7 @@ public final int getAndAddInt(Object o, long offset, int delta) {
 **代码实现 :** 
 
 ```java
-package com.itheima.mymap;
+package com.mrjason.mymap;
 
 import java.util.HashMap;
 import java.util.Hashtable;
@@ -942,7 +942,7 @@ public class MyHashtableDemo {
 **代码实现 :** 
 
 ```java
-package com.itheima.mymap;
+package com.mrjason.mymap;
 
 import java.util.Hashtable;
 import java.util.concurrent.ConcurrentHashMap;
@@ -1015,7 +1015,7 @@ public class MyConcurrentHashMapDemo {
 **代码实现 :** 
 
 ```java
-package com.itheima.mycountdownlatch;
+package com.mrjason.mycountdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -1041,7 +1041,7 @@ public class ChileThread1 extends Thread {
 ```
 
 ```java
-package com.itheima.mycountdownlatch;
+package com.mrjason.mycountdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -1066,7 +1066,7 @@ public class ChileThread2 extends Thread {
 ```
 
 ```java
-package com.itheima.mycountdownlatch;
+package com.mrjason.mycountdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -1091,7 +1091,7 @@ public class ChileThread3 extends Thread {
 ```
 
 ```java
-package com.itheima.mycountdownlatch;
+package com.mrjason.mycountdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -1118,7 +1118,7 @@ public class MotherThread extends Thread {
 ```
 
 ```java
-package com.itheima.mycountdownlatch;
+package com.mrjason.mycountdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -1174,7 +1174,7 @@ public class MyCountDownLatchDemo {
 **代码实现 :** 
 
 ```java
-package com.itheima.mysemaphore;
+package com.mrjason.mysemaphore;
 
 import java.util.concurrent.Semaphore;
 
@@ -1201,7 +1201,7 @@ public class MyRunnable implements Runnable {
 ```
 
 ```java
-package com.itheima.mysemaphore;
+package com.mrjason.mysemaphore;
 
 public class MySemaphoreDemo {
     public static void main(String[] args) {

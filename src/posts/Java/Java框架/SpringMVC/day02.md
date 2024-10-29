@@ -217,7 +217,7 @@ public User cross(HttpServletRequest request){
 <mvc:interceptors>
     <mvc:interceptor>
         <mvc:mapping path="/showPage"/>
-        <bean class="com.itheima.interceptor.MyInterceptor"/>
+        <bean class="com.mrjason.interceptor.MyInterceptor"/>
     </mvc:interceptor>
 </mvc:interceptors>
 ```

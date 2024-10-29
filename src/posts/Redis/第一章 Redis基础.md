@@ -1316,7 +1316,7 @@ http://xetorthio.github.io/jedis/
 
 #### 4.1.3 代码实现
 
-创建：com.itheima.JedisTest
+创建：com.mrjason.JedisTest
 
 ```java
 public class JedisTest {
@@ -1379,7 +1379,7 @@ jedis.maxIdle=10
 
 #### 4.2.3 加载配置信息
 
- 创建JedisUtils：com.itheima.util.JedisUtils，使用静态代码块初始化资源
+ 创建JedisUtils：com.mrjason.util.JedisUtils，使用静态代码块初始化资源
 
 ```java
 public class JedisUtils {

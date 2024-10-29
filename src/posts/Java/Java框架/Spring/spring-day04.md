@@ -233,7 +233,7 @@ public Object tx(ProceedingJoinPoint pjp) throws Throwable {
 配置AOP通知类，并注入dataSource
 
 ```xml
-<bean id="txAdvice" class="com.itheima.aop.TxAdvice">
+<bean id="txAdvice" class="com.mrjason.aop.TxAdvice">
     <property name="dataSource" ref="dataSource"/>
 </bean>
 ```
@@ -267,7 +267,7 @@ public Object tx(ProceedingJoinPoint pjp) throws Throwable {
 ```
 
 ```xml
-<bean id="txAdvice" class="com.itheima.aop.TxAdvice">
+<bean id="txAdvice" class="com.mrjason.aop.TxAdvice">
 	<property name="dataSource" ref="dataSource"/>
 </bean>
 ```
@@ -481,7 +481,7 @@ public Object tx(ProceedingJoinPoint pjp) throws Throwable {
 
   ```java
   @Configuration
-  @ComponentScan("com.itheima")
+  @ComponentScan("com.mrjason")
   @PropertySource("classpath:jdbc.properties")
   @Import({JDBCConfig.class,MyBatisConfig.class,TransactionManagerConfig.class})
   @EnableTransactionManagement

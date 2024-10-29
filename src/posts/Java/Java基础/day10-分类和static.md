@@ -59,7 +59,7 @@ updated: 2024-03-11 12:02
   多级包之间使用 " . " 进行分割
   多级包的定义规范：公司的网站地址翻转(去掉www)
   比如：黑马程序员的网站址为www.itheima.com
-  后期我们所定义的包的结构就是：com.itheima.其他的包名
+  后期我们所定义的包的结构就是：com.mrjason.其他的包名
 
 + 包的命名规则
 
@@ -118,11 +118,11 @@ updated: 2024-03-11 12:02
 
   | 包                                      | 存储的类               | 作用                                     |
   | --------------------------------------- | ---------------------- | ---------------------------------------- |
-  | com.itheima.edu.info.manager.domain     | Student.java           | 封装学生信息                             |
-  | com.itheima.edu.info.manager.dao        | StudentDao.java        | 访问存储数据的数组，进行赠删改查（库管） |
-  | com.itheima.edu.info.manager.service    | StudentService.java    | 业务的逻辑处理（业务员）                 |
-  | com.itheima.edu.info.manager.controller | StudentController.java | 和用户打交道（客服接待）                 |
-  | com.itheima.edu.info.manager.entry      | InfoManagerEntry.java  | 程序的入口类，提供一个main方法  |
+  | com.mrjason.edu.info.manager.domain     | Student.java           | 封装学生信息                             |
+  | com.mrjason.edu.info.manager.dao        | StudentDao.java        | 访问存储数据的数组，进行赠删改查（库管） |
+  | com.mrjason.edu.info.manager.service    | StudentService.java    | 业务的逻辑处理（业务员）                 |
+  | com.mrjason.edu.info.manager.controller | StudentController.java | 和用户打交道（客服接待）                 |
+  | com.mrjason.edu.info.manager.entry      | InfoManagerEntry.java  | 程序的入口类，提供一个main方法  |
 + 菜单搭建实现步骤 
   + 需求
     + 黑马管理系统菜单搭建
@@ -547,11 +547,11 @@ public class StudentDao {
 
   | 包                                       | 存储的类                                     | 作用                   |
   | --------------------------------------- | ---------------------------------------- | -------------------- |
-  | com.itheima.edu.info.manager.domain     | Student.java   Teacher.java              | 封装学生信息  封装老师信息       |
-  | com.itheima.edu.info.manager.dao        | StudentDao.java  TeacherDao.java         | 访问存储数据的数组,进行赠删改查（库管） |
-  | com.itheima.edu.info.manager.service    | StudentService.java  TeacherService.java | 业务的逻辑处理（业务员）         |
-  | com.itheima.edu.info.manager.controller | StudentController.java  TeacherController.java | 和用户打交道（客服接待）         |
-  | com.itheima.edu.info.manager.entry      | InfoManagerEntry.java                    | 程序的入口类,提供一个main方法    |
+  | com.mrjason.edu.info.manager.domain     | Student.java   Teacher.java              | 封装学生信息  封装老师信息       |
+  | com.mrjason.edu.info.manager.dao        | StudentDao.java  TeacherDao.java         | 访问存储数据的数组,进行赠删改查（库管） |
+  | com.mrjason.edu.info.manager.service    | StudentService.java  TeacherService.java | 业务的逻辑处理（业务员）         |
+  | com.mrjason.edu.info.manager.controller | StudentController.java  TeacherController.java | 和用户打交道（客服接待）         |
+  | com.mrjason.edu.info.manager.entry      | InfoManagerEntry.java                    | 程序的入口类,提供一个main方法    |
 
 + 菜单搭建实现步骤
 

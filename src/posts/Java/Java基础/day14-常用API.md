@@ -743,8 +743,8 @@ updated: "2024-02-26 09:54"
               //public void printStackTrace():把异常的错误信息输出在控制台
               e.printStackTrace();
   //            java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
-  //            at com.itheima_02.ExceptionDemo02.method(ExceptionDemo02.java:18)
-  //            at com.itheima_02.ExceptionDemo02.main(ExceptionDemo02.java:11)
+  //            at com.mrjason_02.ExceptionDemo02.method(ExceptionDemo02.java:18)
+  //            at com.mrjason_02.ExceptionDemo02.main(ExceptionDemo02.java:11)
   
           }
       }

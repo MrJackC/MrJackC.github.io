@@ -207,14 +207,14 @@ pom文件中的排除依赖效果
 /**
    * @ComponentScan 扫描范围：当前引导类所在包及其子包
  *
-   * com.itheima.springbootenable
-   * com.itheima.config
-   * //1.使用@ComponentScan扫描com.itheima.config包
+   * com.mrjason.springbootenable
+   * com.mrjason.config
+   * //1.使用@ComponentScan扫描com.mrjason.config包
    * //2.可以使用@Import注解，加载类。这些类都会被Spring创建，并放入IOC容器
    * //3.可以对Import注解进行封装。
    */
   
-  //@ComponentScan("com.itheima.config")
+  //@ComponentScan("com.mrjason.config")
   //@Import(UserConfig.class)
   @EnableUser
   @SpringBootApplication
@@ -236,7 +236,7 @@ pom文件中的排除依赖效果
   
   ```
  		<dependency>
-              <groupId>com.itheima</groupId>
+              <groupId>com.mrjason</groupId>
             <artifactId>springboot-enable-other</artifactId>
               <version>0.0.1-SNAPSHOT</version>
         </dependency>
@@ -281,7 +281,7 @@ public @interface EnableUser {
   
   **三种解决方案：**
   
-  1.使用@ComponentScan扫描com.itheima.config包 
+  1.使用@ComponentScan扫描com.mrjason.config包 
   
   2.可以使用@Import注解，加载类。这些类都会被Spring创建，并放入IOC容器
   
@@ -313,7 +313,7 @@ public @interface EnableUser {
   public class MyImportSelector implements ImportSelector {
       @Override
       public String[] selectImports(AnnotationMetadata importingClassMetadata) {
-          return new String[]{"com.itheima.domain.User", "com.itheima.domain.Role"};
+          return new String[]{"com.mrjason.domain.User", "com.mrjason.domain.Role"};
       }
   }
   ```
@@ -415,7 +415,7 @@ public @interface EnableUser {
 ```xml
  <!--引入configure-->
         <dependency>
-            <groupId>com.itheima</groupId>
+            <groupId>com.mrjason</groupId>
             <artifactId>redis-spring-boot-autoconfigure</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
@@ -478,7 +478,7 @@ public class RedisAutoConfiguration {
 
 ```properties
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.itheima.redis.config.RedisAutoConfiguration
+  com.mrjason.redis.config.RedisAutoConfiguration
 ```
 
 3. **在springboot-enable工程中引入自定义的redis的starter**
@@ -486,7 +486,7 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 ```
   <!--自定义的redis的starter-->
         <dependency>
-            <groupId>com.itheima</groupId>
+            <groupId>com.mrjason</groupId>
             <artifactId>redis-spring-boot-starter</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
@@ -589,7 +589,7 @@ public class MyCommandLineRunner implements CommandLineRunner {
 MyApplicationContextInitializer的使用要在resource文件夹下添加META-INF/spring.factories
 
 ```properties
-org.springframework.context.ApplicationContextInitializer=com.itheima.springbootlistener.listener.MyApplicationContextInitializer
+org.springframework.context.ApplicationContextInitializer=com.mrjason.springbootlistener.listener.MyApplicationContextInitializer
 ```
 
 ```

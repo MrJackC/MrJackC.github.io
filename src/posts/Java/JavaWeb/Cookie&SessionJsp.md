@@ -242,7 +242,7 @@ public class PathQuestionDemo3 extends HttpServlet {
 <!--配置Cookie路径问题案例的Servlet-->
 <servlet>
     <servlet-name>PathQuestionDemo1</servlet-name>
-    <servlet-class>com.itheima.web.servlet.pathquestion.PathQuestionDemo1</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.pathquestion.PathQuestionDemo1</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>PathQuestionDemo1</servlet-name>
@@ -251,7 +251,7 @@ public class PathQuestionDemo3 extends HttpServlet {
 
 <servlet>
     <servlet-name>PathQuestionDemo2</servlet-name>
-    <servlet-class>com.itheima.web.servlet.pathquestion.PathQuestionDemo2</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.pathquestion.PathQuestionDemo2</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>PathQuestionDemo2</servlet-name>
@@ -260,7 +260,7 @@ public class PathQuestionDemo3 extends HttpServlet {
 
 <servlet>
     <servlet-name>PathQuestionDemo3</servlet-name>
-    <servlet-class>com.itheima.web.servlet.pathquestion.PathQuestionDemo3</servlet-class>
+    <servlet-class>com.mrjason.web.servlet.pathquestion.PathQuestionDemo3</servlet-class>
 </servlet>
 <servlet-mapping>
     <servlet-name>PathQuestionDemo3</servlet-name>
@@ -781,7 +781,7 @@ C：controller ，通常用于处理请求和响应。一般指的是Servlet。
 ### 3.1.3 创建 LoginStudentServlet，获取用户名和密码
 
 ```java
-package com.itheima.servlet;
+package com.mrjason.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -848,9 +848,9 @@ public class LoginStudentServlet extends HttpServlet{
 ### 3.2.2 创建 AddStudentServlet，获取学生信息并保存到文件中
 
 ```java
-package com.itheima.servlet;
+package com.mrjason.servlet;
 
-import com.itheima.bean.Student;
+import com.mrjason.bean.Student;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -910,9 +910,9 @@ public class AddStudentServlet extends HttpServlet{
 ```
 
 ```java
-package com.itheima.servlet;
+package com.mrjason.servlet;
 
-import com.itheima.bean.Student;
+import com.mrjason.bean.Student;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -968,7 +968,7 @@ public class ListStudentServlet extends HttpServlet {
 ### 3.3.2 在 web 目录下创建一个 listStudent.jsp
 
 ``` java
-<%@ page import="com.itheima.bean.Student" %>
+<%@ page import="com.mrjason.bean.Student" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>

@@ -217,7 +217,7 @@ updated: "2024-03-11 14:06"
       public static void main(String[] args) throws ClassNotFoundException {
           //1.Class类中的静态方法forName("全类名")
               //全类名:包名 + 类名
-          Class clazz = Class.forName("com.itheima.myreflect2.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect2.Student");
           System.out.println(clazz);
   
           //2.通过class属性来获取
@@ -285,7 +285,7 @@ updated: "2024-03-11 14:06"
           //        Constructor<T> getDeclaredConstructor(Class<?>... parameterTypes)：
   //                                      返回单个构造方法对象
           //1.获取Class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
           Constructor constructor = clazz.getDeclaredConstructor(String.class);
           System.out.println(constructor);
       }
@@ -294,7 +294,7 @@ updated: "2024-03-11 14:06"
           //        Constructor<T> getConstructor(Class<?>... parameterTypes)：
   //                                      返回单个公共构造方法对象
           //1.获取Class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
           //小括号中,一定要跟构造方法的形参保持一致.
           Constructor constructor1 = clazz.getConstructor();
           System.out.println(constructor1);
@@ -311,7 +311,7 @@ updated: "2024-03-11 14:06"
           //        Constructor<?>[] getDeclaredConstructors()：
   //                                      返回所有构造方法对象的数组
           //1.获取Class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
   
           Constructor[] constructors = clazz.getDeclaredConstructors();
           for (Constructor constructor : constructors) {
@@ -323,7 +323,7 @@ updated: "2024-03-11 14:06"
           //        Constructor<?>[] getConstructors()：
   //                                      返回所有公共构造方法对象的数组
           //1.获取Class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
           Constructor[] constructors = clazz.getConstructors();
           for (Constructor constructor : constructors) {
               System.out.println(constructor);
@@ -358,7 +358,7 @@ updated: "2024-03-11 14:06"
       private static void method4() throws ClassNotFoundException, NoSuchMethodException, InstantiationException, IllegalAccessException, InvocationTargetException {
           //获取一个私有的构造方法并创建对象
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
   
           //2.获取一个私有化的构造方法.
           Constructor constructor = clazz.getDeclaredConstructor(String.class);
@@ -376,7 +376,7 @@ updated: "2024-03-11 14:06"
       private static void method3() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
           //简写格式
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
   
           //2.在Class类中,有一个newInstance方法,可以利用空参直接创建一个对象
           Student student = (Student) clazz.newInstance();//这个方法现在已经过时了,了解一下
@@ -386,7 +386,7 @@ updated: "2024-03-11 14:06"
   
       private static void method2() throws ClassNotFoundException, NoSuchMethodException, InstantiationException, IllegalAccessException, InvocationTargetException {
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
   
           //2.获取构造方法对象
           Constructor constructor = clazz.getConstructor();
@@ -399,7 +399,7 @@ updated: "2024-03-11 14:06"
   
       private static void method1() throws ClassNotFoundException, NoSuchMethodException, InstantiationException, IllegalAccessException, InvocationTargetException {
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect3.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect3.Student");
   
           //2.获取构造方法对象
           Constructor constructor = clazz.getConstructor(String.class, int.class);
@@ -479,7 +479,7 @@ updated: "2024-03-11 14:06"
       private static void method4() throws ClassNotFoundException, NoSuchFieldException {
           //        Field getDeclaredField(String name)：返回单个成员变量对象
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
     
           //2.获取money成员变量
           Field field = clazz.getDeclaredField("money");
@@ -493,7 +493,7 @@ updated: "2024-03-11 14:06"
           //想要获取的成员变量必须是真实存在的
           //且必须是public修饰的.
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
     
           //2.获取name这个成员变量
           //Field field = clazz.getField("name");
@@ -507,7 +507,7 @@ updated: "2024-03-11 14:06"
       private static void method2() throws ClassNotFoundException {
           //        Field[] getDeclaredFields()：返回所有成员变量对象的数组
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
     
           //2.获取所有的Field对象
           Field[] fields = clazz.getDeclaredFields();
@@ -522,7 +522,7 @@ updated: "2024-03-11 14:06"
           //        Field[] getFields()：返回所有公共成员变量对象的数组
     
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
     
           //2.获取Field对象.
           Field[] fields = clazz.getFields();
@@ -558,7 +558,7 @@ updated: "2024-03-11 14:06"
   
       private static void method2() throws ClassNotFoundException, NoSuchFieldException, InstantiationException, IllegalAccessException {
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
   
           //2.获取成员变量Field的对象
           Field field = clazz.getDeclaredField("money");
@@ -579,7 +579,7 @@ updated: "2024-03-11 14:06"
       private static void method1() throws ClassNotFoundException, NoSuchFieldException, InstantiationException, IllegalAccessException {
           //        void set(Object obj, Object value)：给obj对象的成员变量赋值为value
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect4.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect4.Student");
   
           //2.获取name这个Field对象
           Field field = clazz.getField("name");
@@ -653,7 +653,7 @@ updated: "2024-03-11 14:06"
           //        Method getDeclaredMethod(String name, Class<?>... parameterTypes)：
   //                                返回单个成员方法对象
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
           //2.获取一个成员方法show
           Method method = clazz.getDeclaredMethod("show");
           //3.打印一下
@@ -662,7 +662,7 @@ updated: "2024-03-11 14:06"
     
       private static void method4() throws ClassNotFoundException, NoSuchMethodException {
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
           //2.获取一个有形参的方法function2
           Method method = clazz.getMethod("function2", String.class);
           //3.打印一下
@@ -673,7 +673,7 @@ updated: "2024-03-11 14:06"
           //        Method getMethod(String name, Class<?>... parameterTypes) ：
   //                                返回单个公共成员方法对象
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
           //2.获取成员方法function1
           Method method1 = clazz.getMethod("function1");
           //3.打印一下
@@ -684,7 +684,7 @@ updated: "2024-03-11 14:06"
           //        Method[] getDeclaredMethods()：
   //                                返回所有成员方法对象的数组，不包括继承的
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
     
           //2.获取Method对象
           Method[] methods = clazz.getDeclaredMethods();
@@ -697,7 +697,7 @@ updated: "2024-03-11 14:06"
       private static void method1() throws ClassNotFoundException {
           //        Method[] getMethods()：返回所有公共成员方法对象的数组，包括继承的
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
           //2.获取成员方法对象
           Method[] methods = clazz.getMethods();
           //3.遍历
@@ -733,7 +733,7 @@ updated: "2024-03-11 14:06"
   //        返回值：方法的返回值（如果没有就不写）
   
           //1.获取class对象
-          Class clazz = Class.forName("com.itheima.myreflect5.Student");
+          Class clazz = Class.forName("com.mrjason.myreflect5.Student");
           //2.获取里面的Method对象  function4
           Method method = clazz.getMethod("function4", String.class);
           //3.运行function4方法就可以了

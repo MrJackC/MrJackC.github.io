@@ -794,8 +794,8 @@ updated: 2024-10-13 12:37
     ```java
     import com.fasterxml.jackson.databind.ObjectMapper;
     import com.github.pagehelper.Page;
-    import com.itheima.service.NewsService;
-    import com.itheima.service.impl.NewsServiceImpl;
+    import com.mrjason.service.NewsService;
+    import com.mrjason.service.impl.NewsServiceImpl;
     
     import javax.servlet.ServletException;
     import javax.servlet.annotation.WebServlet;
@@ -944,9 +944,9 @@ updated: 2024-10-13 12:37
     import com.fasterxml.jackson.databind.ObjectMapper;
     import com.github.pagehelper.Page;
     import com.github.pagehelper.PageInfo;
-    import com.itheima.bean.News;
-    import com.itheima.service.NewsService;
-    import com.itheima.service.impl.NewsServiceImpl;
+    import com.mrjason.bean.News;
+    import com.mrjason.service.NewsService;
+    import com.mrjason.service.impl.NewsServiceImpl;
     
     import javax.servlet.ServletException;
     import javax.servlet.annotation.WebServlet;

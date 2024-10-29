@@ -265,7 +265,7 @@ updated: 2024-10-11 16:07
 - 范例：
 
   ```xml
-  execution（public User com.itheima.service.UserService.findById（int））
+  execution（public User com.mrjason.service.UserService.findById（int））
   ```
 
 #### 3.4.1)切入点表达式——关键字
@@ -297,10 +297,10 @@ updated: 2024-10-11 16:07
 - *：单个独立的任意符号，可以独立出现，也可以作为前缀或者后缀的匹配符出现
 
   ```xml
-  execution（public * com.itheima.*.UserService.find*（*））
+  execution（public * com.mrjason.*.UserService.find*（*））
   ```
 
-​	匹配com.itheima包下的任意包中的UserService类或接口中所有find开头的带有一个参数的方法
+​	匹配com.mrjason包下的任意包中的UserService类或接口中所有find开头的带有一个参数的方法
 
 - .. ：多个连续的任意符号，可以独立出现，常用于简化包名与参数的书写
 
@@ -335,19 +335,19 @@ execution(public int *..*.*(..))
 execution(public void *..*.*(..))
 execution(public void com..*.*(..)) 
 execution(public void com..service.*.*(..))
-execution(public void com.itheima.service.*.*(..))
-execution(public void com.itheima.service.User*.*(..))
-execution(public void com.itheima.service.*Service.*(..))
-execution(public void com.itheima.service.UserService.*(..))
-execution(public User com.itheima.service.UserService.find*(..))
-execution(public User com.itheima.service.UserService.*Id(..))
-execution(public User com.itheima.service.UserService.findById(..))
-execution(public User com.itheima.service.UserService.findById(int))
-execution(public User com.itheima.service.UserService.findById(int,int))
-execution(public User com.itheima.service.UserService.findById(int,*))
-execution(public User com.itheima.service.UserService.findById(*,int))
-execution(public User com.itheima.service.UserService.findById())
-execution(List com.itheima.service.*Service+.findAll(..))
+execution(public void com.mrjason.service.*.*(..))
+execution(public void com.mrjason.service.User*.*(..))
+execution(public void com.mrjason.service.*Service.*(..))
+execution(public void com.mrjason.service.UserService.*(..))
+execution(public User com.mrjason.service.UserService.find*(..))
+execution(public User com.mrjason.service.UserService.*Id(..))
+execution(public User com.mrjason.service.UserService.findById(..))
+execution(public User com.mrjason.service.UserService.findById(int))
+execution(public User com.mrjason.service.UserService.findById(int,int))
+execution(public User com.mrjason.service.UserService.findById(int,*))
+execution(public User com.mrjason.service.UserService.findById(*,int))
+execution(public User com.mrjason.service.UserService.findById())
+execution(List com.mrjason.service.*Service+.findAll(..))
 ```
 
 ### **3.5)切入点的三种配置方式**
@@ -976,7 +976,7 @@ AOP的通知类型共5种
 
   ```java
   @Configuration
-  @ComponentScan("com.itheima")
+  @ComponentScan("com.mrjason")
   @EnableAspectJAutoProxy
   public class SpringConfig {
   }
@@ -1024,7 +1024,7 @@ public interface AccountService {
 ```java
 public class RunTimeMonitorAdvice {
     //拦截所有的业务层接口中查询操作的执行
-    @Pointcut("execution(* com.itheima.service.*Service.find*(..))")
+    @Pointcut("execution(* com.mrjason.service.*Service.find*(..))")
     public void pt(){}
     @Around("pt()")
     public Object runtimeMonitor(ProceedingJoinPoint pjp) throws Throwable {

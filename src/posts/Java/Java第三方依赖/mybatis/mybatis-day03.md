@@ -171,7 +171,7 @@ typora-copy-images-to: img
 ```xml
 <mappers>
     <!--扫描使用注解的类-->
-    <mapper class="com.itheima.mapper.UserMapper"></mapper>
+    <mapper class="com.mrjason.mapper.UserMapper"></mapper>
 </mappers>
 ```
 
@@ -180,7 +180,7 @@ typora-copy-images-to: img
 ```xml
 <mappers>
     <!--扫描使用注解的类所在的包-->
-    <package name="com.itheima.mapper"></package>
+    <package name="com.mrjason.mapper"></package>
 </mappers>
 ```
 
@@ -264,7 +264,7 @@ public interface CardMapper {
                         one、@One 一对一固定写法
                         select属性：指定调用哪个接口中的哪个方法
                      */
-                    one = @One(select = "com.itheima.one_to_one.PersonMapper.selectById")
+                    one = @One(select = "com.mrjason.one_to_one.PersonMapper.selectById")
             )
     })
     public abstract List<Card> selectAll();
@@ -370,7 +370,7 @@ public interface ClassesMapper {
                         many、@Many 一对多查询的固定写法
                         select属性：指定调用哪个接口中的哪个查询方法
                      */
-                    many = @Many(select = "com.itheima.one_to_many.StudentMapper.selectByCid")
+                    many = @Many(select = "com.mrjason.one_to_many.StudentMapper.selectByCid")
             )
     })
     public abstract List<Classes> selectAll();
@@ -480,7 +480,7 @@ public interface StudentMapper {
                         many、@Many 一对多查询的固定写法
                         select属性：指定调用哪个接口中的哪个查询方法
                      */
-                    many = @Many(select = "com.itheima.many_to_many.CourseMapper.selectBySid")
+                    many = @Many(select = "com.mrjason.many_to_many.CourseMapper.selectBySid")
             )
     })
     public abstract List<Student> selectAll();
@@ -637,7 +637,7 @@ public class Test01 {
   
       <!--配置映射关系-->
       <mappers>
-          <package name="com.itheima"/>
+          <package name="com.mrjason"/>
       </mappers>
   </configuration>
   
@@ -646,8 +646,8 @@ public class Test01 {
 * 步骤二: 删除`StudentDaoImpl`，修改`StudentDao`
 
   ```java
-  package com.itheima.dao;
-  import com.itheima.domain.Student;
+  package com.mrjason.dao;
+  import com.mrjason.domain.Student;
   import org.apache.ibatis.annotations.Delete;
   import org.apache.ibatis.annotations.Insert;
   import org.apache.ibatis.annotations.Select;
@@ -680,10 +680,10 @@ public class Test01 {
   }
 ```java
 * 步骤三：修改`StudentServiceImpl`
-  package com.itheima.service.impl;
-  import com.itheima.dao.StudentDao;
-  import com.itheima.domain.Student;
-  import com.itheima.service.StudentService;
+  package com.mrjason.service.impl;
+  import com.mrjason.dao.StudentDao;
+  import com.mrjason.domain.Student;
+  import com.mrjason.service.StudentService;
   import org.apache.ibatis.io.Resources;
   import org.apache.ibatis.session.SqlSession;
   import org.apache.ibatis.session.SqlSessionFactory;
