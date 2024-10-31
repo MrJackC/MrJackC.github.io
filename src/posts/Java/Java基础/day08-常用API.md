@@ -23,7 +23,7 @@ updated: "2024-03-11 11:59"
   
   ​ API (Application Programming Interface) ：应用程序编程接口
 
-- java中的API
+- Java中的API
   
   ​ 指的就是 JDK 中提供的各种功能的 Java类，这些类将底层的实现封装了起来，我们不需要关心这些类是如何实现的，只需要学习这些类如何使用即可，我们可以通过帮助文档来学习这些API如何使用。
 
@@ -92,8 +92,6 @@ public class Demo2Scanner {
         int num = sc.nextInt(); // 10 + 回车换行
         System.out.println("请输入字符串:");
         String s = sc.nextLine();
-
-
         System.out.println(num);
         System.out.println(s);
     }
@@ -182,11 +180,9 @@ public class Demo1Equals {
         String s1 = "abc";
         String s2 = "ABC";
         String s3 = "abc";
-
         // equals : 比较字符串内容, 区分大小写
         System.out.println(s1.equals(s2));
         System.out.println(s1.equals(s3));
-
         // equalsIgnoreCase : 比较字符串内容, 忽略大小写
         System.out.println(s1.equalsIgnoreCase(s2));
     }
@@ -199,7 +195,7 @@ public class Demo1Equals {
 
 ​ 已知用户名和密码，请用程序实现模拟用户登录。总共给三次机会，登录之后，给出相应的提示
 
-**实现步骤 : **
+**实现步骤:**
 
 1. 已知用户名和密码，定义两个字符串表示即可
 2. 键盘录入要登录的用户名和密码，用 Scanner 实现
@@ -540,8 +536,8 @@ public class Test7 {
 
 ## 3.2 StringBuilder类和String类的区别
 
-- **String类：**内容是不可变的
-- **StringBuilder类：**内容是可变的
+- **String类：** 内容是不可变的
+- **StringBuilder类：** 内容是可变的
 
 ## 3.3 StringBuilder类的构造方法
 

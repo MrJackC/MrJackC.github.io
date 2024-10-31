@@ -10,7 +10,7 @@ export const friends: LinkData[] = [
     name: "春鸽鸽",
     desc: "到最后，竟庆幸于夕阳仍留在身上",
     icon: "/logo.svg",
-    link: "https://mrjason.me/",
+    link: "https://springg.us.kg/",
   },
   {
     name: "廿壴(GANXB2)博客",

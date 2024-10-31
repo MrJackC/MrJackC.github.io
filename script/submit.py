@@ -120,7 +120,7 @@ def insert_event(request_id, response, exception):
 
 # 主程序
 if __name__ == '__main__':
-    site_url = 'https://mrjason.me'
+    site_url = 'https://springg.us.kg'
     sitemap_path = ''
     prev_sitemap_path = ''
     get_sitemap_path()
