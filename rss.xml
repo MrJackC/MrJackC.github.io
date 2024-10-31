@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mrjackc.github.io/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://springg.us.kg/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://mrjackc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://springg.us.kg/rss.xml" rel="self" type="application/rss+xml"/>
     <title>mrjason’s Blog</title>
-    <link>https://mrjackc.github.io/</link>
+    <link>https://springg.us.kg/</link>
     <description>春鸽鸽的博客</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Oct 2024 09:58:43 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2024 09:58:43 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2024 09:01:52 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2024 09:01:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>架构</category>
@@ -18,9 +18,9 @@
     <category>Minio</category>
     <item>
       <title>01 大数据生态圈</title>
-      <link>https://mrjackc.github.io/posts/BigData/</link>
-      <guid>https://mrjackc.github.io/posts/BigData/</guid>
-      <source url="https://mrjackc.github.io/rss.xml">01 大数据生态圈</source>
+      <link>https://springg.us.kg/posts/BigData/</link>
+      <guid>https://springg.us.kg/posts/BigData/</guid>
+      <source url="https://springg.us.kg/rss.xml">01 大数据生态圈</source>
       <description>01 大数据生态圈 这是一份有关于大数据生态圈学习过程中各类知识点整理的思维导图集，最近一次更新为 00_装配文件：在此模块中，我对大数据相关软件在 Linux 和 Mac 环境下的安装进行了详细的说明，以确保大数据软件能够尽可能成功的运行在你的电脑上。 0.5_Shell：学习大数据究竟需不需要 Shell 脚本基础，这取决于你自身，若没有 Shel...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -203,9 +203,9 @@
     </item>
     <item>
       <title>架构-架构基础</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-basic.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-basic.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-架构基础</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-basic.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-basic.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-架构基础</source>
       <description>架构-架构基础 1. 软件架构简介 所谓架构，见仁见智，很难有一个明确或标准的定义；但架构并非镜花水月或阳春白雪，有系统的地方就需要架构，大到航空飞机，小到一个电商系统里面的一个功能组件，都需要设计和架构。抽象而言，架构就是对系统中的实体以及实体之间的关系所进行的抽象描述，是对物/信息的功能与形式元素之间的对应情况所做的分配，是对元素之间的关系以及元素...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -253,9 +253,9 @@
     </item>
     <item>
       <title>架构-理解架构的核心要素</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-core-metrics.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-core-metrics.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的核心要素</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-core-metrics.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-core-metrics.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-理解架构的核心要素</source>
       <description>架构-理解架构的核心要素 一般来说软件架构需要关注性能、可用性、伸缩性、扩展性和安全性这5个架构要素。 1. 架构的核心要素 所谓架构，一种通俗的说法就是“最高层次的规划，难以改变的决定”，这些规划和决定奠定了事物未来发展的方向和最终的蓝图。 而软件架构即“有关软件整体结构与组件的抽象描述，用于指导大型软件系统各方面的设计”。一般来说软件架构需要关注性...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -296,9 +296,9 @@
     </item>
     <item>
       <title>架构-理解架构的演进</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-evolution.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-evolution.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的演进</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-evolution.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-evolution.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-理解架构的演进</source>
       <description>架构-理解架构的演进 在学习架构时，第一步不要去学习框架，而是要学习架构的演进。强烈推荐李智慧老师的《大型网站技术架构》，这本书翻起来很快，对构筑你自己的体系很有帮助，本文的内容来源于它，在此基础上拓展了下 1. 架构演进 大型网站的技术挑战主要来自于庞大的用户，高并发的访问和海量的数据，任何简单的业务一旦需要处理数以P计的数据和面对数以亿计的用户，问...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -385,9 +385,9 @@
     </item>
     <item>
       <title>架构-理解架构的模式2</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern-2.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern-2.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的模式2</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-pattern-2.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-pattern-2.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-理解架构的模式2</source>
       <description>架构-理解架构的模式2 革命尚未成功，同志们还需努力。需要多揣摩揣摩 TIP 本文整理自朱晔的互联网架构实践心得, 他是结合了 微软给出的云架构的一些模式的基础上加入他自己的理解来总结互联网架构中具体的一些模式。 朱晔：设计模式是前人通过大量的实践总结出来的一些经验总结和最佳实践。在经过多年的软件开发实践之后，回过头来去看23种设计模式你会发现很多平时...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -677,9 +677,9 @@
     </item>
     <item>
       <title>架构-理解架构的模式1</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的模式1</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-pattern.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-pattern.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-理解架构的模式1</source>
       <description>架构-理解架构的模式1 架构演进中有很多知识点，总体上可以归结为以下模式，这里说的模式本质是架构中技术点的抽象。 1. 架构的模式 每一个模式描述了一个在我们周围不断重复发生的问题及该问题解决方案的核心。这样，你就能一次又一次地使用该方案而不必做重复工作。 所谓网站架构模式即为了解决大型网站面临的高并发访问、海量数据、高可靠运行等一系列问题与挑战。为此...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -737,9 +737,9 @@
     </item>
     <item>
       <title>架构-保障架构安全</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-security.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-security.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-保障架构安全</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-security.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-security.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-保障架构安全</source>
       <description>架构-保障架构安全 1. 架构安全 对已知问题有有效的解决方案，对未知/潜在问题建立发现和防御机制。对于安全问题，首先要提高安全意识，建立一个安全的有效机制，从政策层面，组织层面进行保障。比如服务器密码不能泄露，密码每月更新，并且三次内不能重复；每周安全扫描等。以制度化的方式，加强安全体系的建设。同时，需要注意与安全有关的各个环节。安全问题不容忽视。包...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -760,9 +760,9 @@
     </item>
     <item>
       <title>架构-理解构架的视角</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-view.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-view.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-理解构架的视角</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-x-view.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-x-view.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-理解构架的视角</source>
       <description>架构-理解构架的视角 在学习架构时，我认为首先要理清楚架构的视角，因为你所认知的架构和别人所说的架构可能是两码事。对于不同职位的视角是不一样的，比如开发而言他更多的看到的是开发架构；对售前人员，他可能更多的看到的是业务架构；对于运维人员，他看到的可能是运维架构；而对于技术支持和部署人员，他更多的看到的网络和物理架构。 1. 架构的视角 在笔者的知识体系...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -848,9 +848,9 @@
     </item>
     <item>
       <title>架构之高可用：容灾备份,故障转移</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-backup.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-backup.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高可用：容灾备份,故障转移</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-backup.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-backup.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高可用：容灾备份,故障转移</source>
       <description>架构之高可用：容灾备份,故障转移 容灾技术是系统的高可用性技术的一个组成部分，容灾系统更加强调处理外界环境对系统的影响，特别是灾难性事件对整个IT节点的影响，提供节点级别的系统恢复功能。故障转移（failover），即当活动的服务或应用意外终止时，快速启用冗余或备用的服务器、系统、硬件或者网络接替它们工作。故障恢复是在计划内或计划外中断解决后切换回主站...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1008,9 +1008,9 @@
     </item>
     <item>
       <title>系统高并发-缓存</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-cache.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-cache.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">系统高并发-缓存</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-cache.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-cache.html</guid>
+      <source url="https://springg.us.kg/rss.xml">系统高并发-缓存</source>
       <description>系统高并发-缓存 高并发实现的三板斧：缓存，限流和降级。缓存在高并发系统中有者极其广阔的应用，需要重点掌握，本文重点介绍下缓存及其实现。 1. 缓存简介 随着互联网的普及，内容信息越来越复杂，用户数和访问量越来越大，我们的应用需要支撑更多的并发量，同时我们的应用服务器和数据库服务器所做的计算也越来越多。但是往往我们的应用服务器资源是有限的，且技术变革是...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1360,9 +1360,9 @@
     </item>
     <item>
       <title>架构之高可用: 如何保证高可用性？</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-ensure-high-availability.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-ensure-high-availability.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高可用: 如何保证高可用性？</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-ensure-high-availability.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-ensure-high-availability.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高可用: 如何保证高可用性？</source>
       <description>架构之高可用: 如何保证高可用性？ 高可用性对于我们来说应该属于经常提到的名词，本文我们将介绍在分布式系统中保证高可用性的一些常用经验。系统可用性指标系统可用性指标简单来将就是系统可用时间与总运行时间之比Availability=MTTF/(MTTF+MTTRMTTF)MTTF 是 Mean Time To Failure，指平均故障前的时间，即系统平...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1474,9 +1474,9 @@
     </item>
     <item>
       <title>架构之高可用: 可用性几个9</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-high-availability9999.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-high-availability9999.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高可用: 可用性几个9</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-high-availability9999.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-high-availability9999.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高可用: 可用性几个9</source>
       <description>架构之高可用: 可用性几个9 1. 简介 SLA：服务等级协议（简称：SLA，全称：service level agreement）。是在一定开销下为保障服务的性能和可用性，服务提供商与用户间定义的一种双方认可的协定。通常这个开销是驱动提供服务质量的主要因素。 SLA的定义来源百度，这到底是什么意思呢？ 我们平常经常看到互联网公司喊口号，我们今年一定要...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1545,9 +1545,9 @@
     </item>
     <item>
       <title>架构之高可用: 负载均衡</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-loadbalance.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-loadbalance.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高可用: 负载均衡</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-loadbalance.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-loadbalance.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高可用: 负载均衡</source>
       <description>架构之高可用: 负载均衡 负载均衡（Load Balance），意思是将负载（工作任务，访问请求）进行平衡、分摊到多个操作单元（服务器，组件）上进行执行。是解决高性能，单点故障（高可用），扩展性（水平伸缩）的终极解决方案。 1. 简介 负载均衡（Load Balance），意思是将负载（工作任务，访问请求）进行平衡、分摊到多个操作单元（服务器，组件）上...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1689,9 +1689,9 @@
     </item>
     <item>
       <title>架构-高并发：概述</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-overview.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-overview.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构-高并发：概述</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-overview.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-overview.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构-高并发：概述</source>
       <description>架构-高并发：概述 摘要：本文介绍高并发系统的度量指标，讲述高并发系统的设计思路，再梳理高并发的关键技术，最后结合作者的经验做一些延伸探讨。 当前，数字化在给企业带来业务创新，推动企业高速发展的同时，也给企业的IT软件系统带来了严峻的挑战。面对流量高峰，不同的企业是如何通过技术手段解决高并发难题的呢? 0. 引言 软件系统有三个追求：高性能、高并发、高...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -1792,9 +1792,9 @@
     </item>
     <item>
       <title>架构之高并发-降级和熔断</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/arch-y-reduce.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/arch-y-reduce.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高并发-降级和熔断</source>
+      <link>https://springg.us.kg/posts/Architect/base/arch-y-reduce.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/arch-y-reduce.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高并发-降级和熔断</source>
       <description>架构之高并发-降级和熔断 高并发实现的三板斧：缓存，限流和降级。 在高并发环境下，服务之间的依赖关系导致调用失败，解决的方式通常是: 限流-&amp;gt;熔断-&amp;gt;隔离-&amp;gt;降级, 其目的是防止雪崩效应。 1. 背景 在分布式系统中，一个服务往往依赖多个服务，可能存在某个服务调用失败，比如超时、异常等，更坏的情况是，如果有多个服务对同一个挂起的服务进行调用，那么就很有...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2044,9 +2044,9 @@
     </item>
     <item>
       <title>架构之高并发：降级和熔断-外卖案例</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/circuit-fallback.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/circuit-fallback.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">架构之高并发：降级和熔断-外卖案例</source>
+      <link>https://springg.us.kg/posts/Architect/base/circuit-fallback.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/circuit-fallback.html</guid>
+      <source url="https://springg.us.kg/rss.xml">架构之高并发：降级和熔断-外卖案例</source>
       <description>架构之高并发：降级和熔断-外卖案例 1. 简介 降级 就是在调用的下游服务A出现问题（常见超时），提供PLAN-B，返回的效果可能没有服务A好，但是寥胜于无。 熔断器： 熔断器的存在就是要保障何时走到降级方法，何时恢复，以什么样的策略恢复。 2. 外卖案例 举个例子，详细说明熔断降级的作用和必要性。 2.1 正常流程 image-20220702205...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2109,9 +2109,9 @@
     </item>
     <item>
       <title>系统高并发-限流</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/rate-limiter-action.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/rate-limiter-action.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">系统高并发-限流</source>
+      <link>https://springg.us.kg/posts/Architect/base/rate-limiter-action.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/rate-limiter-action.html</guid>
+      <source url="https://springg.us.kg/rss.xml">系统高并发-限流</source>
       <description>系统高并发-限流 高并发实现的三板斧：缓存，限流和降级。 1. 什么是限流？为什么要限流？ 程序处理请求的能力也是有限的，一旦请求多到超出它的处理极限就会崩溃。 限流(Ratelimiting)指对应用服务的请求进行限制，例如某一接口的请求限制为 100 个每秒,对超过限制的请求则进行快速失败或丢弃。 限流是保证系统高可用的重要手段！ 由于互联网公司的...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2250,9 +2250,9 @@
     </item>
     <item>
       <title>RedisLua限流实现</title>
-      <link>https://mrjackc.github.io/posts/Architect/base/rate-limiter-redisLua.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/base/rate-limiter-redisLua.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">RedisLua限流实现</source>
+      <link>https://springg.us.kg/posts/Architect/base/rate-limiter-redisLua.html</link>
+      <guid>https://springg.us.kg/posts/Architect/base/rate-limiter-redisLua.html</guid>
+      <source url="https://springg.us.kg/rss.xml">RedisLua限流实现</source>
       <description>RedisLua限流实现 1. Redis 配置 其中配置了默认的限流脚本就是采用Lua 的形式 2. 定义限流注解 3. 定义限流类型 4. 限流切面</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2444,9 +2444,9 @@
     </item>
     <item>
       <title>CRM（客户关系管理）- 概述</title>
-      <link>https://mrjackc.github.io/posts/Architect/crm/crm-overview.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/crm/crm-overview.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">CRM（客户关系管理）- 概述</source>
+      <link>https://springg.us.kg/posts/Architect/crm/crm-overview.html</link>
+      <guid>https://springg.us.kg/posts/Architect/crm/crm-overview.html</guid>
+      <source url="https://springg.us.kg/rss.xml">CRM（客户关系管理）- 概述</source>
       <description>CRM（客户关系管理）- 概述 1. CRM（客户关系管理）系统是什么 客户关系管理简称CRM（Customer Relationship Management）。它是以客户数据的管理为核心，可帮助你保持客户的联系信息处于最新状态，跟踪他们与企业的每次交互并管理他们的帐户。与ERP系统不同的是，crm系统是以建立、发展和维护客户关系为主要目的。本质是吸...</description>
       <category>CRM</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2533,9 +2533,9 @@ CRM能及时处理客户的需求，并且从客户那里收集具有洞察力�
     </item>
     <item>
       <title>分布式系统-全局唯一ID实现方案</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-id.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-id.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-全局唯一ID实现方案</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-id.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-id.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-全局唯一ID实现方案</source>
       <description>分布式系统-全局唯一ID实现方案 常见的分布式ID生成方式，大致分类的话可以分为两类： 一种是类DB型的，根据设置不同起始值和步长来实现趋势递增，需要考虑服务的容错性和可用性; 另一种是类snowflake型，这种就是将64位划分为不同的段，每段代表不同的涵义，基本就是时间戳、机器ID和序列数。这种方案就是需要考虑时钟回拨的问题以及做一些 buffer...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -2931,9 +2931,9 @@ CRM能及时处理客户的需求，并且从客户那里收集具有洞察力�
     </item>
     <item>
       <title>分布式系统-分布式缓存及方案实现</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-cache.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-cache.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式缓存及方案实现</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-cache.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-cache.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式缓存及方案实现</source>
       <description>分布式系统-分布式缓存及方案实现 TODO 待完善中 1. 本地缓存和分布式缓存 本地缓存：指的是在应用中的缓存组件，其最大的优点是应用和cache是在同一个进程内部，请求缓存非常快速，没有过多的网络开销等，在单应用不需要集群支持或者集群情况下各节点无需互相通知的场景下使用本地缓存较合适；同时，它的缺点也是因为缓存跟应用程序耦合，多个应用程序无法直接的...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -3113,9 +3113,9 @@ Redis分布式集群图1</p>
     </item>
     <item>
       <title>分布式系统-分布式任务及实现方案</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-job.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-job.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式任务及实现方案</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-job.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-job.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式任务及实现方案</source>
       <description>分布式系统-分布式任务及实现方案 本文主要介绍定时任务的基础和单体方式下定时任务方案的演化，以及常见的分布式任务方案和技术实现要点 1. 定时任务和分布式任务介绍 主要介绍定时任务及其方案和演化。 1.1 定时任务应用场景 比如每天/每周/每月生成日志汇总，定时发送推送信息，定时生成数据表格等 1.2 定时任务的基础Cron Cron表达式是定时任务的...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -3424,9 +3424,9 @@ Redis分布式集群图1</p>
     </item>
     <item>
       <title>分布式系统 -  Redisson实现分布式锁原理</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-lock-redisson.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-lock-redisson.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统 -  Redisson实现分布式锁原理</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-lock-redisson.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-lock-redisson.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统 -  Redisson实现分布式锁原理</source>
       <description>分布式系统 - Redisson实现分布式锁原理 image-20221216152713896image-20221216152713896 0. 前言 在一个分布式系统中，由于涉及到多个实例同时对同一个资源加锁的问题，像传统的synchronized、ReentrantLock等单进程情况加锁的api就不再适用，需要使用分布式锁来保证多服务实例之间...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -3700,9 +3700,9 @@ Redis分布式集群图1</p>
     </item>
     <item>
       <title>分布式系统 - 分布式锁</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-lock.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-lock.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统 - 分布式锁</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-lock.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-lock.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统 - 分布式锁</source>
       <description>分布式系统 - 分布式锁 1. 什么是分布式锁 要介绍分布式锁，首先要提到与分布式锁相对应的是线程锁、进程锁。 线程锁：主要用来给方法、代码块加锁。当某个方法或代码使用锁，在同一时刻仅有一个线程执行该方法或该代码段。线程锁只在同一JVM中有效果，因为线程锁的实现在根本上是依靠线程之间共享内存实现的，比如synchronized是共享对象头，显示锁Loc...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -3902,9 +3902,9 @@ Redis分布式集群图1</p>
     </item>
     <item>
       <title>分布式系统-分布式会话及实现方案</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-session.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-session.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式会话及实现方案</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-session.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-session.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式会话及实现方案</source>
       <description>分布式系统-分布式会话及实现方案 无状态的token或者有状态的Session集中管理是目前最为常用的方案，本节主要讨论的有状态的分布式Session会话, 包括Session Stick, Session Replication, Session 数据集中存储, Cookie Based 以及Token方式等 1. 基础概念 Session + Co...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -4065,9 +4065,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>分布式系统-分布式事务及实现方案</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-transection.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-transection.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式事务及实现方案</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-transection.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-transection.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式事务及实现方案</source>
       <description>分布式系统-分布式事务及实现方案 事务是一个程序执行单元，里面的所有操作要么全部执行成功，要么全部执行失败。而分布式事务是指事务的参与者、支持事务的服务器、资源服务器以及事务管理器分别位于不同的分布式系统的不同节点之上。 1. 什么是分布式事务 事务是一个程序执行单元，里面的所有操作要么全部执行成功，要么全部执行失败。在分布式系统中，这些操作可能是位于...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -4575,9 +4575,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>分布式系统-分布式事务(补充)</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-transection02.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-transection02.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式事务(补充)</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-transection02.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-transection02.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式事务(补充)</source>
       <description>分布式系统-分布式事务(补充) 1. 分布式事务 分布式事务顾名思义就是要在分布式系统中实现事务，它其实是由多个本地事务组合而成。 对于分布式事务而言几乎满足不了 ACID，其实对于单机事务而言大部分情况下也没有满足 ACID，不然怎么会有四种隔离级别呢？所以更别说分布在不同数据库或者不同应用上的分布式事务了。 我们先来看下 2PC。 2. 2PC 2...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -4795,9 +4795,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>分布式系统-分布式系统的8个谬误</title>
-      <link>https://mrjackc.github.io/posts/Architect/distributed/arch-z-wrong.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/distributed/arch-z-wrong.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分布式系统-分布式系统的8个谬误</source>
+      <link>https://springg.us.kg/posts/Architect/distributed/arch-z-wrong.html</link>
+      <guid>https://springg.us.kg/posts/Architect/distributed/arch-z-wrong.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分布式系统-分布式系统的8个谬误</source>
       <description>分布式系统-分布式系统的8个谬误 20多年前，Peter Deutsch和James Gosling定义了分布式计算的8个谬误。这些是许多开发人员对分布式系统做出的错误假设。从长远来看，这些通常被证明是错误的，导致难以修复错误。这篇文章从反面警示我们分布式系统需要注意的事项。 1. 网络可靠 1.1 问题 通过网络呼叫将失败。 问题： 网络不可靠，无响...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -4990,9 +4990,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>FastDFS安装</title>
-      <link>https://mrjackc.github.io/posts/Architect/filesystem/filesystem-fastdfs.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/filesystem/filesystem-fastdfs.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">FastDFS安装</source>
+      <link>https://springg.us.kg/posts/Architect/filesystem/filesystem-fastdfs.html</link>
+      <guid>https://springg.us.kg/posts/Architect/filesystem/filesystem-fastdfs.html</guid>
+      <source url="https://springg.us.kg/rss.xml">FastDFS安装</source>
       <description>FastDFS安装 1.什么是 FastDFS 1.1 简介 FastDFS 由淘宝的余庆大佬在 2008 年开源的一款轻量级分布式文件管理系统，FastDFS 用 C 语言实现，支持 Linux、FreeBSD、MacOS 等类 UNIX 系统。FastDFS 类似 google FS，属于应用级文件系统，不是通用的文件系统，只能通过专有 API 访...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5326,9 +5326,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>低代码开发平台初识</title>
-      <link>https://mrjackc.github.io/posts/Architect/lowcode/lowcode-first-acquaintance.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/lowcode/lowcode-first-acquaintance.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">低代码开发平台初识</source>
+      <link>https://springg.us.kg/posts/Architect/lowcode/lowcode-first-acquaintance.html</link>
+      <guid>https://springg.us.kg/posts/Architect/lowcode/lowcode-first-acquaintance.html</guid>
+      <source url="https://springg.us.kg/rss.xml">低代码开发平台初识</source>
       <description>低代码开发平台初识 记录一下从第一次接触低代码开发平台到放弃的过程 1. 第一次接触 低代码平台=表单生成器+仪表生成器+适配数据源+渲染表单操作 拖 + 配 =&amp;gt; 网站 2. 第二次接触 低代码是拉完就能生成产品 动态表单可能拉完就只能生成前端 image-20220901143946429image-20220901143946429</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5351,9 +5351,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>低代码开发平台-概念篇</title>
-      <link>https://mrjackc.github.io/posts/Architect/lowcode/lowcode-started.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/lowcode/lowcode-started.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">低代码开发平台-概念篇</source>
+      <link>https://springg.us.kg/posts/Architect/lowcode/lowcode-started.html</link>
+      <guid>https://springg.us.kg/posts/Architect/lowcode/lowcode-started.html</guid>
+      <source url="https://springg.us.kg/rss.xml">低代码开发平台-概念篇</source>
       <description>低代码开发平台-概念篇 1. 企业为什么需要低代码开发平台？零代码开发还不够吗？ 答：如果大家都使用零代码开发平台（即不需要编码，通过表单拖拉拽完成系统研发），那程序员岂不是要失业了。程序员也要吃饭，所以不研发零代码开发平台，只专心做低代码开发平台。 以上纯属开个玩笑，下面说说我的看法 要想解答这个问题，首先得弄清楚他们的区别。零代码开发是一种完全不需...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5370,9 +5370,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中广告(轮播图)设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-ad.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-ad.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中广告(轮播图)设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-ad.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-ad.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中广告(轮播图)设计</source>
       <description>mall中广告(轮播图)设计 1. 简介 用于管理首页显示的轮播广告信息。 2. 数据库设计 3. 代码设计 3.1 分页查询广告 3.2 新增广告 初始化点击次数和订单次数是在代码层做的 4. 界面设计 4.1 管理端 4.1.1 广告列表 image-20220320185355632image-20220320185355632 4.1.2 编辑...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5457,9 +5457,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中购物车设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-cart.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-cart.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中购物车设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-cart.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-cart.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中购物车设计</source>
       <description>mall中购物车设计 该篇文章主要参考mall官方文档，并结合自己的使用感受做的一些笔记 1. 简介 无论是直接购买还是从添加到购物车，都要先经过购物车 2. 购物车流程 2.1 添加到购物车 查询会员信息 根据会员id,商品id和规格获取购物车中商品 校验购物车中是否已存在该商品 不存在：直接新增 存在：在原有基础上新增数量 2.2 查询购物车列表 ...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5653,9 +5653,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中优惠券设计（重点）</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-coupon.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-coupon.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中优惠券设计（重点）</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-coupon.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-coupon.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中优惠券设计（重点）</source>
       <description>mall中优惠券设计（重点） 该篇文章主要参考mall官方文档，并结合自己的使用感受做的一些笔记 1. 简介 优惠券是商城中的核心重点，电商通过各种各种促销玩法，增加用户购买欲望，拉动消费。但促销玩法还是挺复杂的 2. 相关表结构 2.1 优惠券表 用于存储优惠券信息，需要注意的是优惠券的使用类型：0-&amp;gt;全场通用；1-&amp;gt;指定分类；2-&amp;gt;指定商品，不同使...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6046,9 +6046,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点-库存超卖</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-Inventory.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-Inventory.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点-库存超卖</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-Inventory.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-Inventory.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点-库存超卖</source>
       <description>商城设计要点-库存超卖 1. 简介 2. 库存扣减方式 2.1 下单减库存 即当买家下单后，在商品的总库存中减去买家购买数量。下单减库存是最简单的减库存方式，也是控制最精确的一种，下单时直接通过数据库的事务机制控制商品库存，这样一定不会出现超卖的情况。但是你要知道，有些人下完单可能并不会付款。 2.2 付款减库存 即买家下单后，并不立即减库存，而是等到...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6106,9 +6106,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(八)-历史订单，归档</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-archive.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-archive.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(八)-历史订单，归档</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-archive.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-archive.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(八)-历史订单，归档</source>
       <description>商城设计要点(八)-历史订单，归档 1. 简介 1.1 冷热数据 根据二八定律，系统绝大部分的性能开销花在20%的业务。数据也不例外，从数据的使用频率来看，经常被业务访问的数据称为热点数据；反之，称之为冷数据。 1.2 订单数据划分 在了解的数据的冷、热特性后，便可以指导我们做一些有针对性的性能优化。这里面有业务层面的优化，也有技术层面的优化。比如：电...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6149,9 +6149,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(六)-账户余额更新，保证事务</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-assurance-affairs.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-assurance-affairs.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(六)-账户余额更新，保证事务</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-assurance-affairs.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-assurance-affairs.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(六)-账户余额更新，保证事务</source>
       <description>商城设计要点(六)-账户余额更新，保证事务 1. 简介 用户支付，我们要从买家账户减掉一定金额，再往卖家增加一定金额，为了保证数据的完整性、可追溯性，变更余额时，我们通常会同时插入一条记录流水。 账户流水核心字段：流水ID、金额、交易双方账户、交易时间戳、订单号、 注意：账户流水只能新增，不能修改和删除。流水号必须是自增的。 后续，系统对账时，我们只需...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6178,9 +6178,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(三)-购物车，混合存储</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-cart-hybrid.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-cart-hybrid.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(三)-购物车，混合存储</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-cart-hybrid.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-cart-hybrid.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(三)-购物车，混合存储</source>
       <description>商城设计要点(三)-购物车，混合存储 1. 简介 购物车是电商系统的标配功能，暂存用户想要购买的商品。分为添加商品、列表查看、结算下单三个动作。 技术设计并不是特别复杂，存储的信息也相对有限（用户id、商品id、sku_id、数量、添加时间）。这里特别拿出来单讲主要是用户体验层面要注意几个问题： 1.1 未登录时添加商品 添加购物车时，后端校验用户未登...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6224,9 +6224,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(七)-MySQL读写分离带来的数据不一致问题</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-data-inconsistent.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-data-inconsistent.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(七)-MySQL读写分离带来的数据不一致问题</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-data-inconsistent.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-data-inconsistent.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(七)-MySQL读写分离带来的数据不一致问题</source>
       <description>商城设计要点(七)-MySQL读写分离带来的数据不一致问题 1. 简介 互联网业务大部分都是 读多写少，为了提升数据库集群的吞吐性能，我们通常会采用 主从架构、读写分离 image-20220326211746699image-20220326211746699 部署一个主库实例，客户端请求所有写操作全部写到主库，然后借助 MySQL 自带的 主从同步...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6264,9 +6264,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(九)-订单分库分表，多维度查询</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-multi-query.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-multi-query.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(九)-订单分库分表，多维度查询</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-multi-query.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-multi-query.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(九)-订单分库分表，多维度查询</source>
       <description>商城设计要点(九)-订单分库分表，多维度查询 1. 简介 如果电商网站的订单数过多，我们一般会想到 分库分表 解决策略。没问题，这个方向是对的。 但是查询维度很多 1、买家，查询 我的订单 列表，需要根据 buyer_id 来查询 2、查看订单详情，需要根据 order_id 来查询 3、卖家，查询 我的销售 列表，需要根据 seller_id 来查询...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6291,9 +6291,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(一)-避免重复下单</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-repeat-order.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-repeat-order.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(一)-避免重复下单</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-repeat-order.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-repeat-order.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(一)-避免重复下单</source>
       <description>商城设计要点(一)-避免重复下单 1. 简介 用户快速点了两次 “提交订单” 按钮，浏览器会向后端发送两条创建订单的请求，最终会创建两条一模一样的订单。 2. 解决方案 解决方案就是采用幂等机制，多次请求和一次请求产生的效果是一样的。 2.1 方案一：创建订单页面，预生成订单ID 利用数据库自身特性 “主键唯一约束”，在插入订单记录时，带上主键值，如果...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6354,9 +6354,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计要点(二)-订单快照，减少存储成本</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-storage-cost.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-key-points-storage-cost.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计要点(二)-订单快照，减少存储成本</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-key-points-storage-cost.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-key-points-storage-cost.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计要点(二)-订单快照，减少存储成本</source>
       <description>商城设计要点(二)-订单快照，减少存储成本 1. 简介 1.1 什么是订单快照 商品信息是可以修改的，当用户下单后，为了更好解决后面可能存在的买卖纠纷，创建订单时会同步保存一份商品详情信息，称之为订单快照。 1.2 背景 同一件商品，会有很多用户会购买，如果热销商品，短时间就会有上万的订单。如果每个订单都创建一份快照，存储成本太高。另外商品信息虽然支持...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6395,9 +6395,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall商城下单流程</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-order-placing-process.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-order-placing-process.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall商城下单流程</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-order-placing-process.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-order-placing-process.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall商城下单流程</source>
       <description>mall商城下单流程 该篇文章主要参考mall官方文档，并结合自己的使用感受做的一些笔记 1. 流程 1.1 将商品添加进购物车 点击直接购买的商品，也需要将商品加入购物车，然后从购物车结算（只是程序帮我们做了） 添加进购物车时，需要将商品加入购物车时价格、商品主图，名称等基本信息就记录下来，以免商品修改导致的前后不一致问题 1.2 根据购物车信息生成...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6497,9 +6497,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中商品属性类型（类型=属性=规格+参数）设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-product-attribute.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-product-attribute.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中商品属性类型（类型=属性=规格+参数）设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-product-attribute.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-product-attribute.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中商品属性类型（类型=属性=规格+参数）设计</source>
       <description>mall中商品属性类型（类型=属性=规格+参数）设计 1. 简介 商品类型即商品属性，主要是指商品的规格和参数， 规格：用于用户购买商品时选择 参数：用于标示商品属性及搜索时筛选。 2. 表设计 image-20220320091410960image-20220320091410960 2.1 商品属性分类表 2.2 商品属性表 type字段用于控制...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6604,9 +6604,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中商品优惠方式(促销，会员价，阶梯价，满减)</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-product-offer.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-product-offer.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中商品优惠方式(促销，会员价，阶梯价，满减)</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-product-offer.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-product-offer.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中商品优惠方式(促销，会员价，阶梯价，满减)</source>
       <description>mall中商品优惠方式(促销，会员价，阶梯价，满减) 1. 简介 优惠方式包括(促销，会员价，阶梯价，满减)，优惠也是商城营销中重要的手段之一。 促销，会员价，阶梯价，满减 只能选一种作为促销方式 1.1 优惠和优惠券 优惠是在特定时间商品的属性，用户不需要选择优惠券即可享有优惠。而优惠券必须领取优惠券后使用 2. 数据库设计 2.1 商品阶梯价格表 ...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7008,9 +7008,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中商品设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-product.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-product.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中商品设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-product.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-product.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中商品设计</source>
       <description>mall中商品设计 该篇文章主要参考mall官方文档，并结合自己的使用感受做的一些笔记 1. 简介 2. 接口设计 2.1 获取商品详情 获取商品的基础信息 获取品牌信息 获取商品属性信息 获取商品SKU库存信息 商品阶梯价格设置 商品满减价格设置 商品可用优惠券 2.1.1 获取可用优惠券列表 获取具体商品的可用优惠券，</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7113,9 +7113,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中退货设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-return.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-return.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中退货设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-return.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-return.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中退货设计</source>
       <description>mall中退货设计 1. 简介 退货也是在商城系统中的一部分， 2. 流程 2.1 客户端发起退货申请 退货是针对每一件商品的、（每一件商品在下单时，要计算单件商品实际支付的金额，在退货时才知道每件商品应该退多少金额） 退货申请的参数 发起退货代码 并没有检验是否已申请</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7220,9 +7220,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>商城设计 - 秒杀系统设计？</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-second-kill.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-second-kill.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">商城设计 - 秒杀系统设计？</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-second-kill.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-second-kill.html</guid>
+      <source url="https://springg.us.kg/rss.xml">商城设计 - 秒杀系统设计？</source>
       <description>商城设计 - 秒杀系统设计？ image-20221012225218315image-20221012225218315 0. 前言 高并发下如何设计秒杀系统？这是一个高频面试题。这个问题看似简单，但是里面的水很深，它考查的是高并发场景下，从前端到后端多方面的知识。 秒杀一般出现在商城的促销活动中，指定了一定数量（比如：10个）的商品（比如：手机），...</description>
       <category>mall</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -7593,9 +7593,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall中SKU的设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-sku.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-sku.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall中SKU的设计</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-sku.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-sku.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall中SKU的设计</source>
       <description>mall中SKU的设计 该篇文章主要参考mall官方文档，并结合自己的使用感受做的一些笔记 1. 简介 1.1 商品的SPU和SKU SPU（Standard Product Unit ）:指的是标准商品单位，商品信息聚合的最小单位，是一组可复用、易检索的标准化信息的集合，该集合描述了一个商品的特性； SKU（Stock Keeping Unit）:库...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7822,9 +7822,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>mall框架使用感受</title>
-      <link>https://mrjackc.github.io/posts/Architect/mall/mall-use-feeling.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/mall/mall-use-feeling.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">mall框架使用感受</source>
+      <link>https://springg.us.kg/posts/Architect/mall/mall-use-feeling.html</link>
+      <guid>https://springg.us.kg/posts/Architect/mall/mall-use-feeling.html</guid>
+      <source url="https://springg.us.kg/rss.xml">mall框架使用感受</source>
       <description>mall框架使用感受 1. 为什么选择mall 1.1 优点 功能丰富，代码 商品（商品，商品分类，sku） 订单完整流程（购物车下单，发货，确认收货，取消订单，退货） 当时的业务需求， 优惠券，促销等玩法 积分 商品推荐 秒杀 ​ mall 是完全能支持的，减少了二开的工作量。加快开发进度 1.2 缺点 代码生成模块不实用 sku 设计不够合理 选择...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7959,9 +7959,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>后台管理 - 用户认证SaToken</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-auth.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-auth.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">后台管理 - 用户认证SaToken</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-auth.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-auth.html</guid>
+      <source url="https://springg.us.kg/rss.xml">后台管理 - 用户认证SaToken</source>
       <description>后台管理 - 用户认证SaToken 1. 具体实现 1.1 用户登录 项目采用前后端分离架构（无 Cookie 模式） 所谓 Cookie ，本质上就是一个特殊的header参数而已， 而既然它只是一个 header 参数，我们就能手动模拟实现它，从而完成鉴权操作。 后端将 token 返回到前端 首先调用 StpUtil.login(id) 进行登...</description>
       <category>后台管理</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -8260,9 +8260,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>代码生成功能&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-code-gen.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-code-gen.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">代码生成功能&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-code-gen.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-code-gen.html</guid>
+      <source url="https://springg.us.kg/rss.xml">代码生成功能&amp;实现思路</source>
       <description>代码生成功能&amp;实现思路 1. 简介 大部分项目里其实有很多代码都是重复的，几乎每个基础模块的代码都有增删改查的功能，而这些功能都是大同小异，如果这些功能都要自己去写，将会大大浪费我们的精力和降低。所以这种重复性的代码可以使用代码生成。 2. 代码生成设计思路 2.1 项目组成部分 我们java 项目的构成主要如下 后端代码 controller ser...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8326,9 +8326,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>系统参数配置功能&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-config-manage.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-config-manage.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">系统参数配置功能&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-config-manage.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-config-manage.html</guid>
+      <source url="https://springg.us.kg/rss.xml">系统参数配置功能&amp;实现思路</source>
       <description>系统参数配置功能&amp;实现思路 1. 简介 我们在项目部署后很多配置需要根据现场情况配置。如第三方对接的api接口地址等等。如果我们每次改动都要改动代码或重启项目，那么效率也太低了。所以我们一般会设计一个参数管理功能，来实现后台配置 2. 数据库设计 注：系统内置参数是不能删除的 3. 代码实现注意事项 3.1 项目启动时就需要加载进缓存 3.2 查找参数...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8500,9 +8500,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>数据权限功能&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-data-scope.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-data-scope.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">数据权限功能&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-data-scope.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-data-scope.html</guid>
+      <source url="https://springg.us.kg/rss.xml">数据权限功能&amp;实现思路</source>
       <description>数据权限功能&amp;实现思路 1. 背景 在实际开发中，需要设置用户只能查看哪些部门的数据，这种情况一般称为数据权限。例如 销售，财务的数据，它们是非常敏感的，因此要求对数据权限进行控制 基于集团性的应用系统而言，就更多需要控制好各自公司数据了， 如设置只能查看本公司、或者本部门的数据 对于特殊领导，可能需要跨部门的数据 因此程序不能硬编码哪个领导该访问那些...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8529,9 +8529,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>分页插件的二次封装</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-db-page.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-db-page.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">分页插件的二次封装</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-db-page.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-db-page.html</guid>
+      <source url="https://springg.us.kg/rss.xml">分页插件的二次封装</source>
       <description>分页插件的二次封装 1. 简介 分页是在项目中非常常见的需求。如果每次都要在业务代码中嵌入分页代码，将会 非常繁琐 影响业务代码的阅读 不同数据库分页写法不一，数据库迁移困难 还需要额外写计算总数count sql 2. 设计思路 与前端约定分页参数 约定好的参数，我们就不需要每次写。通过Servlet 的request 就可以获取到参数 如果有传递分...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8572,9 +8572,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>若依支持分布式场景需要考虑的地方</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-distributed-problem.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-distributed-problem.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">若依支持分布式场景需要考虑的地方</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-distributed-problem.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-distributed-problem.html</guid>
+      <source url="https://springg.us.kg/rss.xml">若依支持分布式场景需要考虑的地方</source>
       <description>若依支持分布式场景需要考虑的地方 主要考虑以下几个方向 主键问题 分布式锁 1. 主键问题 当前是数据库主键自增，需要权衡项目是否需要采用分布式id。 主要考虑点 数据量是否非常大（想想推特每秒上万条消息的请求，自己的数据量能比吗） 数据库主从读写分离，是否就已经能满足了？ 2. 分布式锁 其实这个哪怕是单体应用某些场景也是需要分布式锁的，这个必须加上</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8596,9 +8596,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>多数据源的支持</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-dynamic-ds.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-dynamic-ds.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">多数据源的支持</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-dynamic-ds.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-dynamic-ds.html</guid>
+      <source url="https://springg.us.kg/rss.xml">多数据源的支持</source>
       <description>多数据源的支持 1. 简介 在实际开发中，经常可能遇到在一个应用中可能需要访问多个数据库的情况，那么我们如何实现访问不同接口时，指向不同的数据库呢。 2. 实现思路 2.1 如何侵入性最小实现？ 我们需要根据不同的接口访问不同的数据源。对代码侵入最小的肯定是定义注解 2.2 支持优先级 希望能同时直接类和方法上使用该注解，先方法，后类，如果方法覆盖了类...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -8979,9 +8979,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>进程优雅退出功能&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-exit.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-exit.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">进程优雅退出功能&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-exit.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-exit.html</guid>
+      <source url="https://springg.us.kg/rss.xml">进程优雅退出功能&amp;实现思路</source>
       <description>进程优雅退出功能&amp;实现思路 1. 背景 我们在linux 环境经常使用 kill -9 PID 来关闭进程。但是kill -9 pid 的方式是强制将某个进程杀掉。但是这种方式非常暴力，相当于突然断电，可能会导致 缓存中的数据尚未持久化到磁盘中，导致数据丢失 正在进行文件的write操作，没有更新完成，突然退出，导致文件损坏； 线程的消息队列中尚有接收...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -9078,9 +9078,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>定时任务quartz-动态管理任务&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-job.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-job.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">定时任务quartz-动态管理任务&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-job.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-job.html</guid>
+      <source url="https://springg.us.kg/rss.xml">定时任务quartz-动态管理任务&amp;实现思路</source>
       <description>定时任务quartz-动态管理任务&amp;实现思路 1. 背景 1.1 回顾quartz 执行步骤 回顾我们定时器任务发起步骤 实现Job接口 创建Schedule 创建JobDetail实例，绑定job 构建Trigger定时任务 调度器Scheduler 绑定 JobDetail 和 Trigger 1.2 面临的问题 一切看似挺好的，但是所有的定时任务...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -9612,9 +9612,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>系统操作日志功能</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-log.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-log.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">系统操作日志功能</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-log.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-log.html</guid>
+      <source url="https://springg.us.kg/rss.xml">系统操作日志功能</source>
       <description>系统操作日志功能 1. 简介 在实际开发中，对于某些关键业务，我们通常需要记录该操作的内容，一个操作调一次记录方法，每次还得去收集参数等等。会造成大量代码重复。 我们希望代码中只有业务相关操作，在项目中使用AOP注解来完成此项功能 2. 需求 我们在之前的学习中，也使用 ，那么我们现在设计的系统日志与之前的有什么区别呢？ 无论是新老版本日志都是通过AO...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -9706,9 +9706,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>后台管理 - OSS对象存储适配</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-oos.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-oos.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">后台管理 - OSS对象存储适配</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-oos.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-oos.html</guid>
+      <source url="https://springg.us.kg/rss.xml">后台管理 - OSS对象存储适配</source>
       <description>后台管理 - OSS对象存储适配 1. 流程 1.1 通过ApplicationRunner 在项目启动的时候、初始化 从数据库中取出中存储状态正常的oos配置、并设置到redis中 通过redis 的发布订阅、通知其他服务器刷新配置 初始化OSS工厂、实例化OssClient 创建OssClient,创建桶与响应的协议 1.2 上传文件 上传oss ...</description>
       <category>后台管理</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -9989,9 +9989,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>若依优化与问题记录</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-ruoyi-problem.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-ruoyi-problem.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">若依优化与问题记录</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-ruoyi-problem.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-ruoyi-problem.html</guid>
+      <source url="https://springg.us.kg/rss.xml">若依优化与问题记录</source>
       <description>若依优化与问题记录 1. 背景 记录使用过程中bug或优化建议 2. 若依BUG 2.1 后端 树结构采用递归方式，导致系统超时 2.2 前端 修复打包后字体图标偶现的乱码问题（提交RP时，发现最新版3.8一星期前已提交） 3. 若依优化 3.1 后端 数据库主键自增，在分布式场景下的局限非常大，且迁移的时候非常麻烦 适配多数据源 现在从mysql变更...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10083,9 +10083,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>后台管理 - 短信服务适配</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-sms.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-sms.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">后台管理 - 短信服务适配</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-sms.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-sms.html</guid>
+      <source url="https://springg.us.kg/rss.xml">后台管理 - 短信服务适配</source>
       <description>后台管理 - 短信服务适配 1. 具体实现 1.1 初始化 通过springboot @AutoConfiguration 自动注入 通过@ConditionalOnClass() 判断具体导入谁（是阿里还是用腾讯云） 1.2 短信模板 抽象出模板类、针对平台特殊的参数通过map传入 发送由具体模板实现 针对返回结果组装成自己的result 阿里模板 ...</description>
       <category>后台管理</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -10270,9 +10270,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>SpringSecurity权限控制&amp;实现思路</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-springsecurity-rbac.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-springsecurity-rbac.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">SpringSecurity权限控制&amp;实现思路</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-springsecurity-rbac.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-springsecurity-rbac.html</guid>
+      <source url="https://springg.us.kg/rss.xml">SpringSecurity权限控制&amp;实现思路</source>
       <description>SpringSecurity权限控制&amp;实现思路 1. 简介 权限控制是项目中必不可少的部分 2. 表结构 5 个表的关系比较简单： 一个 SysUser ，可以拥有多个 SysRole ，通过 SysUserRole 存储关联。 一个 SysRole ，可以拥有多个 SysMenu ，通过 SysRoleMenu 存储关联。 2.1 SysUser S...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10285,9 +10285,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>后台管理系统技术选型</title>
-      <link>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-technical-selection.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/manage-system/manage-system-technical-selection.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">后台管理系统技术选型</source>
+      <link>https://springg.us.kg/posts/Architect/manage-system/manage-system-technical-selection.html</link>
+      <guid>https://springg.us.kg/posts/Architect/manage-system/manage-system-technical-selection.html</guid>
+      <source url="https://springg.us.kg/rss.xml">后台管理系统技术选型</source>
       <description>后台管理系统技术选型 1. 背景简介 1.1 原有框架问题 原有公司内部框架已经很老了，最早的架构师已经离职了，维护更新不及时。且原有框架也有不少槽点 UI 样式丑陋，原有框架是前后端不分离的，早期都是由java后端人员开发。现在的前端人员接手困难，后端人员维护起来效率低 数据持久层框架采用beetlsql，学习成本高，且后期遇到问题难排查 在改造成前...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10341,9 +10341,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>消息中心数据库设计</title>
-      <link>https://mrjackc.github.io/posts/Architect/messagesystem/message-system-db-design.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/messagesystem/message-system-db-design.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">消息中心数据库设计</source>
+      <link>https://springg.us.kg/posts/Architect/messagesystem/message-system-db-design.html</link>
+      <guid>https://springg.us.kg/posts/Architect/messagesystem/message-system-db-design.html</guid>
+      <source url="https://springg.us.kg/rss.xml">消息中心数据库设计</source>
       <description>消息中心数据库设计 1. 背景 消息中心是大部分系统都有的功能，如何设计一个合理的消息系统呢？ 需求： 每个用户收到消息都应该知道，该消息的已读未读状态 2. 数据库设计 2.1 消息表 基础的消息表如上 2.1.1 消息表补充 如果需要记录 该条提醒所关联的对象 该条提醒所关联的动作 例如 小明喜欢了文章， 喜欢是：action 那篇文章：targe...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10404,9 +10404,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>消息中心各场景消息发送逻辑</title>
-      <link>https://mrjackc.github.io/posts/Architect/messagesystem/message-system-process.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/messagesystem/message-system-process.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">消息中心各场景消息发送逻辑</source>
+      <link>https://springg.us.kg/posts/Architect/messagesystem/message-system-process.html</link>
+      <guid>https://springg.us.kg/posts/Architect/messagesystem/message-system-process.html</guid>
+      <source url="https://springg.us.kg/rss.xml">消息中心各场景消息发送逻辑</source>
       <description>消息中心各场景消息发送逻辑 1. 简介 消息中心在各场景下的发送逻辑是不一致的，例如 发送给单人的业务消息。我们希望发送完消息后，用户立即收到消息 而像类似通知公告这类消息，面向的是所有用户，那么我们不可能一次性发给所有用户。所以我们采用登录或进入首页后，重新拉取新消息的模式 2. 接口设计 NotifyService拥有以下方法: createAnn...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10511,9 +10511,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>微服务 - 概述</title>
-      <link>https://mrjackc.github.io/posts/Architect/microservices/ms-overview.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/microservices/ms-overview.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">微服务 - 概述</source>
+      <link>https://springg.us.kg/posts/Architect/microservices/ms-overview.html</link>
+      <guid>https://springg.us.kg/posts/Architect/microservices/ms-overview.html</guid>
+      <source url="https://springg.us.kg/rss.xml">微服务 - 概述</source>
       <description>微服务 - 概述 nacos（服务发现和配置中心、元数据中心） 官方文档：https://nacos.io/zh-cn/docs/what-is-nacos.html 好文：Nacos注册中心的部署与用法详细介绍 好文：Nacos配置中心用法详细介绍 spring-cloud-loadbalancer（负载均衡） Dubbo: RPC通信 与 微服务治...</description>
       <category>架构</category>
       <category>微服务</category>
@@ -10634,9 +10634,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>微服务 - 软件架构</title>
-      <link>https://mrjackc.github.io/posts/Architect/microservices/ms-x-arch.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/microservices/ms-x-arch.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">微服务 - 软件架构</source>
+      <link>https://springg.us.kg/posts/Architect/microservices/ms-x-arch.html</link>
+      <guid>https://springg.us.kg/posts/Architect/microservices/ms-x-arch.html</guid>
+      <source url="https://springg.us.kg/rss.xml">微服务 - 软件架构</source>
       <description>微服务 - 软件架构 image-20221124221146555image-20221124221146555 前端通过api 请求 到服务端经过F5硬件负载均衡和nginx 软件负载均衡、走到我们服务网关集群 网关针对请求做路由转发到各个的服务集群、各服务之间通过dubbo进行通信 其中各服务通过nacos 做服务注册中心与配置中心、sentin...</description>
       <category>架构</category>
       <category>微服务</category>
@@ -10655,9 +10655,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>微服务 - 看法与思考</title>
-      <link>https://mrjackc.github.io/posts/Architect/microservices/ms-x-view.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/microservices/ms-x-view.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">微服务 - 看法与思考</source>
+      <link>https://springg.us.kg/posts/Architect/microservices/ms-x-view.html</link>
+      <guid>https://springg.us.kg/posts/Architect/microservices/ms-x-view.html</guid>
+      <source url="https://springg.us.kg/rss.xml">微服务 - 看法与思考</source>
       <description>微服务 - 看法与思考 1. 微服务 1.1 为什么使用微服务 大型服务 单例服务如果流量大了就抗不住，微服务可以加机器搞流量 加机器的地方，最理想的就是：弹性伸缩，流量下去就缩容，流量上来就扩容，能最恰好的使用资源 传统的巨大单体应用程序在部署和运行时，需要单台服务器具有大量内存和其他资源 规范化 规范化，大家用同一套框架规范，可以沉淀和深入技术，还...</description>
       <category>架构</category>
       <category>微服务</category>
@@ -10693,9 +10693,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>Minio基础 - Minio之权限控制策略</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-access-control.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-access-control.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - Minio之权限控制策略</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-access-control.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-access-control.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - Minio之权限控制策略</source>
       <description>Minio基础 - Minio之权限控制策略 1. 前言 华为云OBS 和其他产商的OSS 都是一个东西，对象存储 ACL(Access Control List ): 访问控制列表（ACL） 本段文章来源于华为云OBS，因为都是S3标准的对象存储，所以很多概念和Minio是相通的。 1.1 为什么要进行访问权限控制（华为OBS） 为保证存储在SSO中...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -10779,9 +10779,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>AWS S3兼容性</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-aws.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-aws.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">AWS S3兼容性</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-aws.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-aws.html</guid>
+      <source url="https://springg.us.kg/rss.xml">AWS S3兼容性</source>
       <description>AWS S3兼容性 参考阿里云官方文档，两个都差不多 之前一直疑惑什么是AWS S3,还是个Restful API. 但我从始至终压根没有感知。其实是因为我们都使用的是minio 客户端。他的minio 服务端提供的是S3 接口，minio client 封装了s3 的http 请求 1. OSS兼容的S3 API OSS对S3 Bucket、Obje...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -10799,9 +10799,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>Minio进阶 - Minio断点续传和断点下载实现方案</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-breakpoint-downloading.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-breakpoint-downloading.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio进阶 - Minio断点续传和断点下载实现方案</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-breakpoint-downloading.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-breakpoint-downloading.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio进阶 - Minio断点续传和断点下载实现方案</source>
       <description>Minio进阶 - Minio断点续传和断点下载实现方案 1. 前言 在之前，我们实现了常用的上传下载、分片上传、秒传等功能，实际一个文件存储管理系统，这些远远还是不够的，比如断点续传。 可以参考阿里的文档，是怎么实现这些功能的。 阿里OSS开发文档 2. 断点续传 2.1 概念 通过断点续传上传的方式将文件上传到OSS前，您可以指定断点记录点。上传过...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -10840,9 +10840,9 @@ Session Replication 方案对负载均衡器不再有要求，但是同样会带
     </item>
     <item>
       <title>Minio基础 - Java集成Minio之存储桶操作API使用详解</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-bucket-api.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-bucket-api.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - Java集成Minio之存储桶操作API使用详解</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-bucket-api.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-bucket-api.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - Java集成Minio之存储桶操作API使用详解</source>
       <description>Minio基础 - Java集成Minio之存储桶操作API使用详解 1. 前言 1.1 多种SDK 官方文档 minio-java Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平台可以选择JS和java SDK，也就是前端和后端都可以直接集成minio。 image-20220723133217901.pngim...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11173,9 +11173,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio部署 - MinIO集群扩容方法</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-cluster-capacity.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-cluster-capacity.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio部署 - MinIO集群扩容方法</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-cluster-capacity.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-cluster-capacity.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio部署 - MinIO集群扩容方法</source>
       <description>Minio部署 - MinIO集群扩容方法 1. 简介 MinIO是采用Golang实现的高性能对象存储系统，基于Apache License V2.0进行开源，适用于海量非结构化数据存储，如图片、视频、镜像等。MinIO以极简主义为指导进行设计，追求极致的维护精简性和卓越的读写性能表现。据MinIO官方数据，在标准硬件上，MinIO的读写速率可分别高...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11238,9 +11238,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio部署   Minio分布式集群搭建部署</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-cluster-deploy.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-cluster-deploy.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio部署   Minio分布式集群搭建部署</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-cluster-deploy.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-cluster-deploy.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio部署   Minio分布式集群搭建部署</source>
       <description>Minio部署 Minio分布式集群搭建部署 1. 简介 分布式 Minio 可以让你将多块硬盘或者多台服务器组成一个对象存储服务。由于硬盘分布在不同的节点上，分布式 Minio 避免了单点故障。MinioMinio分布式模式可以帮助你搭建一个高可用的对象存储服务，你可以使用这些存储设备，而不用考虑其真实物理位置。 2. Minio分布式部署的优势 2...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -11277,9 +11277,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - Minio基础概念</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-concept.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-concept.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - Minio基础概念</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-concept.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-concept.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - Minio基础概念</source>
       <description>Minio基础 - Minio基础概念 文件、块和对象是三种以不同的方式来保存、整理和呈现数据的存储格式。这些格式各有各的功能和限制。 文件存储会以文件和文件夹的层次结构来整理和呈现数据； 块存储会将数据拆分到任意划分且大小相同的卷中； 对象存储会管理数据并将其链接至关联的元数据。 元数据包括 account（用户）， bucket， bucket i...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11476,9 +11476,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - Minio纠删码</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-erasure-code.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-erasure-code.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - Minio纠删码</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-erasure-code.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-erasure-code.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - Minio纠删码</source>
       <description>Minio基础 - Minio纠删码 Minio使用纠删码erasure code和校验和checksum来保护数据免受硬件故障和无声数据损坏。 即便您丢失一半数量（N/2）的硬盘，您仍然可以恢复数据。 1. 什么是纠删码erasure code？ 纠删码是一种恢复丢失和损坏数据的数学算法， Minio采用Reed-Solomon code将对象拆分成...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11529,9 +11529,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio部署 - minio配置HTTPS</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-https.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-https.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio部署 - minio配置HTTPS</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-https.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-https.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio部署 - minio配置HTTPS</source>
       <description>Minio部署 - minio配置HTTPS 1. 简介 MinIO部署默认以HTTP方式对外提供服务，如果我们需要支持https 应该怎么做呢？ 主要思路就是 万能大法，通过nginx反向代理，将https配置在nginx侧，内部的MinIO还是使用HTTP； MinIO服务端直接配置成HTTPS； 如何生成https证书：使用acme.sh生成免费...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11656,9 +11656,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio部署 - MinIO安装</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-install.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-install.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio部署 - MinIO安装</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-install.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-install.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio部署 - MinIO安装</source>
       <description>Minio部署 - MinIO安装 1. 简介 MinIO 是一个基于Apache License v2.0开源协议的对象存储服务。它兼容亚马逊S3云存储服务接口，非 常适合于存储大容量非结构化的数据，例如图片、视频、日志文件、备份数据和容器/虚拟机镜像等，而 一个对象文件可以是任意大小，从几kb到最大5T不等。 MinIO是一个非常轻量的服务,可以很...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -11967,9 +11967,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio客户端mc使用</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-mc-use.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-mc-use.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio客户端mc使用</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-mc-use.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-mc-use.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio客户端mc使用</source>
       <description>Minio客户端mc使用 1. 简介 MinIO Client (mc)为ls，cat，cp，mirror，diff，find等UNIX命令提供了一种替代方案。它支持文件系统和兼容Amazon S3的云存储服务（AWS Signature v2和v4）。 2. 客户端下载 2.1 Mac安装 2.2 window下载 下载地址 3. 配置mc mc 将...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -12013,9 +12013,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - 对象存储的元数据</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-metadata.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-metadata.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - 对象存储的元数据</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-metadata.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-metadata.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - 对象存储的元数据</source>
       <description>Minio基础 - 对象存储的元数据 1. 文件存储VS块存储VS对象存储 文件、块和对象是三种以不同的方式来保存、整理和呈现数据的存储格式。这些格式各有各的功能和限制。 文件存储： 会以文件和文件夹的层次结构来整理和呈现数据； 块存储会： 将数据拆分到任意划分且大小相同的卷中； 对象存储： 会管理数据并将其链接至关联的元数据。 元数据包括 accou...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -12056,9 +12056,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - 多版本功能使用详解</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-multi-version.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-multi-version.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - 多版本功能使用详解</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-multi-version.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-multi-version.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - 多版本功能使用详解</source>
       <description>Minio基础 - 多版本功能使用详解 1. 前言 1.1 使用场景 利用多版本控制，您可以在一个桶中保留多个版本的对象，使您更方便地检索和还原各个版本，在意外操作或应用程序故障时快速恢复数据。 默认情况下，新创建的桶不会开启多版本功能，向同一个桶上传同名的对象时，新上传的对象将覆盖原有的对象。 1.2 多版本控制 版本说明： 只有 MinIO 本身才...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -12076,9 +12076,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio进阶 - Minio分片上传文件putObject接口流程源码分析</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-multipart-upload.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-multipart-upload.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio进阶 - Minio分片上传文件putObject接口流程源码分析</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-multipart-upload.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-multipart-upload.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio进阶 - Minio分片上传文件putObject接口流程源码分析</source>
       <description>Minio进阶 - Minio分片上传文件putObject接口流程源码分析 1. 前言 为了更好的理解和优化Minio文件上传，本篇文档对MInio中上传文件putObject接口源码分析以下。 基于Java 客户端 API Controller层上传文件接口： MinioTemplate接口： 2. 源码分析 2.1 进入Controller层接口...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -12383,9 +12383,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - JAVA集成Minio之对象操作API使用详解</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-oos-api.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-oos-api.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - JAVA集成Minio之对象操作API使用详解</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-oos-api.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-oos-api.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - JAVA集成Minio之对象操作API使用详解</source>
       <description>Minio基础 - JAVA集成Minio之对象操作API使用详解 1. 上传对象 1.1 PutObject 调用PutObject接口上传文件（Object）。 注意事项： 添加的Object大小不能超过5 GB。 默认情况下，如果已存在同名Object且对该Object有访问权限，则新添加的Object将覆盖原有的Object，并返回200 OK...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -12770,9 +12770,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - 对象存储OSS概述</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-oos-overview.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-oos-overview.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - 对象存储OSS概述</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-oos-overview.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-oos-overview.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - 对象存储OSS概述</source>
       <description>Minio基础 - 对象存储OSS概述 文档来源于阿里云对象存储 OSS，Minio也是对象存储 OSS，很多概念都是相通的，所以了解下。实际企业应用使用阿里OSS是一个很不错的选择。 1. 对象存储OSS 对象存储服务（Object Storage Service，OSS）是一种海量、安全、低成本、高可靠的云存储服务，适合存放任意类型的文件。容量和处...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -12841,9 +12841,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio进阶 - Minio秒传</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-seconds-upload.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-seconds-upload.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio进阶 - Minio秒传</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-seconds-upload.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-seconds-upload.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio进阶 - Minio秒传</source>
       <description>Minio进阶 - Minio秒传 1. MD5秒传 1.1 摘要算法 摘要算法是一种能产生特殊输出格式的算法，这种算法的特点是：无论用户输入什么长度的原始数据，经过计算后输出的密文都是固定长度的，这种算法的原理是根据一定的运算规则对原数据进行某种形式的提取，这种提取就是摘要，被摘要的数据内容与原数据有密切联系，只要原数据稍有改变，输出的“摘要”便完全...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -13017,9 +13017,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio基础 - SpringBoot集成Minio</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-springboot-integrate.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-springboot-integrate.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio基础 - SpringBoot集成Minio</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-springboot-integrate.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-springboot-integrate.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio基础 - SpringBoot集成Minio</source>
       <description>Minio基础 - SpringBoot集成Minio 1. 前言 之前介绍了如何使用Minio提供的JAVA SDK进行上传和下载文件，在此基础上，我们可以使用spring boot集成Minio JAVA SDK，添加自动配置、装配、客户端管理等功能，简化开发。 2. Spring Boot集成Minio 2.1 环境搭建 首先我们搭建一个spri...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -13387,9 +13387,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>MinioServer启动模式</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-start-model.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-start-model.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">MinioServer启动模式</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-start-model.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-start-model.html</guid>
+      <source url="https://springg.us.kg/rss.xml">MinioServer启动模式</source>
       <description>MinioServer启动模式 1. 简介 minio支持多种server启动模式： image-20220715171521129.pngimage-20220715171521129.png standalone模式 即要管理的磁盘都在host本地。该启动模式一般仅用于实验环境、测试环境的验证和学习使用。在standalone模式下，还可以分为 n...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -13658,9 +13658,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Minio进阶 - Minio+vue-uploader 分片上传方案及案例详解</title>
-      <link>https://mrjackc.github.io/posts/Architect/minio/minio-uploader.html</link>
-      <guid>https://mrjackc.github.io/posts/Architect/minio/minio-uploader.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Minio进阶 - Minio+vue-uploader 分片上传方案及案例详解</source>
+      <link>https://springg.us.kg/posts/Architect/minio/minio-uploader.html</link>
+      <guid>https://springg.us.kg/posts/Architect/minio/minio-uploader.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Minio进阶 - Minio+vue-uploader 分片上传方案及案例详解</source>
       <description>Minio进阶 - Minio+vue-uploader 分片上传方案及案例详解 1. 前言 我们之前分析过Minio 的上传接口源码，其是进行了分块，再上传分块到Minio 服务器，最后再对块进行合并。 针对大文件的上传，如果采用上传到文件服务，再上传到Minio，其效率是非常低的，首先上传到文件服务（会存放在Tomcat 临时目录）就已经比较慢了。...</description>
       <category>Minio</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -14134,9 +14134,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Hive 总结</title>
-      <link>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%20%E6%80%BB%E7%BB%93.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%20%E6%80%BB%E7%BB%93.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Hive 总结</source>
+      <link>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%20%E6%80%BB%E7%BB%93.html</link>
+      <guid>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%20%E6%80%BB%E7%BB%93.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Hive 总结</source>
       <description>Hive 总结 总结人：XXX 2020.04.29 0.补充 0.1 什么是hive 0.2 优缺点 0.3 Hive架构原理 image-20200720000427660 0.4 hive与数据库的比较 由于 Hive 采用了类似SQL 的查询语言 HQL(Hive Query Language)，因此很容易将 Hive 理解为数据库。其实从结构...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14236,9 +14236,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Hive自定义函数</title>
-      <link>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Hive自定义函数</source>
+      <link>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html</link>
+      <guid>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/Hive%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Hive自定义函数</source>
       <description>Hive自定义函数 一、概述 二、UDTF函数 2.1 UDTF解析 2.2 代码实现 三、UDF函数 3.1 代码实现</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14555,9 +14555,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>MySQL数据库</title>
-      <link>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">MySQL数据库</source>
+      <link>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93.html</link>
+      <guid>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93.html</guid>
+      <source url="https://springg.us.kg/rss.xml">MySQL数据库</source>
       <description>MySQL数据库 一、为什么要使用数据库 持久化(persistence)：把数据保存到可掉电式存储设备中以供之后使用。大多数情况下，特别是企业级应用，数据持久化意味着将内存中的数据保存到硬盘上加以”固化”，而持久化的实现过程大多通过各种关系数据库来完成。 持久化的主要作用是将内存中的数据存储在关系型数据库中，当然也可以存储在磁盘文件、XML数据文件中...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14578,9 +14578,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>SQL开发</title>
-      <link>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/SQL%E5%BC%80%E5%8F%91.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/SQL%E5%BC%80%E5%8F%91.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">SQL开发</source>
+      <link>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/SQL%E5%BC%80%E5%8F%91.html</link>
+      <guid>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/SQL%E5%BC%80%E5%8F%91.html</guid>
+      <source url="https://springg.us.kg/rss.xml">SQL开发</source>
       <description>SQL开发 第1章：SQL概述 SQL：Structured Query Language结构化查询语言，它是使用关系模型的数据库应用语言，由IBM上世纪70年代开发出来。后由美国国家标准局（ANSI）开始着手制定SQL标准，先后有SQL-86，SQL-89，SQL-92，SQL-99等标准。 1. SQL的语言规范 mysql对于SQL语句不区分大小...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14718,9 +14718,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>数据清洗</title>
-      <link>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">数据清洗</source>
+      <link>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97.html</link>
+      <guid>https://springg.us.kg/posts/BigData/02_Hive%E6%80%BB%E7%BB%93/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97.html</guid>
+      <source url="https://springg.us.kg/rss.xml">数据清洗</source>
       <description>数据清洗 一、背景 二、数据清洗思想 三、代码实现 3.0 准备工作 添加依赖 在resource目录下创建一个log4j2.xml文件，并添加如下配置内容 3.1 创建一个工具类 3.2 创建mapper类 3.3 创建driver类 四、代码打包 将ETL程序打包为etl.jar 并上传到Linux的 /opt/module/hive/datas 目录下</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14761,9 +14761,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Flume</title>
-      <link>https://mrjackc.github.io/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Flume</source>
+      <link>https://springg.us.kg/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume.html</link>
+      <guid>https://springg.us.kg/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Flume</source>
       <description>Flume 一、写flume的步骤 1.0.0 Flume 事务 image-20200705115942823image-20200705115942823 1.0.1 Flume Agent内部原理 图1 图1 1.1 画拓扑图 总结：一个channel只能输出一个结果文件。 一个flume agent 由 source + channel + s...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -14942,9 +14942,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Flume练习题</title>
-      <link>https://mrjackc.github.io/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume%E7%BB%83%E4%B9%A0%E9%A2%98.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume%E7%BB%83%E4%B9%A0%E9%A2%98.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Flume练习题</source>
+      <link>https://springg.us.kg/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume%E7%BB%83%E4%B9%A0%E9%A2%98.html</link>
+      <guid>https://springg.us.kg/posts/BigData/04_Flume%E6%80%BB%E7%BB%93/Flume%E7%BB%83%E4%B9%A0%E9%A2%98.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Flume练习题</source>
       <description>Flume练习题 题目1 需求：使用Flume监听一个端口，收集该端口数据，并打印到控制台。 题目2 实时监控Hive日志，并上传到HDFS中 题目3 使用Flume监听整个目录的文件，并上传至HDFS 题目4 使用Flume监听整个目录的实时追加文件，并上传至HDFS 题目5 使用Flume-1监控文件变动，Flume-1将变动内容传递给Flume-...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -15610,9 +15610,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Sqoop一些常用命令及参数</title>
-      <link>https://mrjackc.github.io/posts/BigData/04_%E6%8E%A5%E5%85%A5%E5%B1%82/Sqoop%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%8F%82%E6%95%B0.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/04_%E6%8E%A5%E5%85%A5%E5%B1%82/Sqoop%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%8F%82%E6%95%B0.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Sqoop一些常用命令及参数</source>
+      <link>https://springg.us.kg/posts/BigData/04_%E6%8E%A5%E5%85%A5%E5%B1%82/Sqoop%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%8F%82%E6%95%B0.html</link>
+      <guid>https://springg.us.kg/posts/BigData/04_%E6%8E%A5%E5%85%A5%E5%B1%82/Sqoop%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%8F%82%E6%95%B0.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Sqoop一些常用命令及参数</source>
       <description>Sqoop一些常用命令及参数 5.1 常用命令列举 5.2 命令&amp;参数详解 刚才列举了一些Sqoop的常用命令，对于不同的命令，有不同的参数，让我们来一一列举说明。 首先来我们来介绍一下公用的参数，所谓公用参数，就是大多数命令都支持的参数。 5.2.1 公用参数：数据库连接 5.2.2 **公用参数：**import 5.2.3 **公用参数：**ex...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -15623,9 +15623,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>zookeeper总结</title>
-      <link>https://mrjackc.github.io/posts/BigData/05_Zookeeper%E6%80%BB%E7%BB%93/zookeeper%E6%80%BB%E7%BB%93.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/05_Zookeeper%E6%80%BB%E7%BB%93/zookeeper%E6%80%BB%E7%BB%93.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">zookeeper总结</source>
+      <link>https://springg.us.kg/posts/BigData/05_Zookeeper%E6%80%BB%E7%BB%93/zookeeper%E6%80%BB%E7%BB%93.html</link>
+      <guid>https://springg.us.kg/posts/BigData/05_Zookeeper%E6%80%BB%E7%BB%93/zookeeper%E6%80%BB%E7%BB%93.html</guid>
+      <source url="https://springg.us.kg/rss.xml">zookeeper总结</source>
       <description>zookeeper总结 总结： 时间：2020.05.02 一、zookeeper入门 1.1 概述 1.2 zookeeper特点 1.3 zookeeper数据结构 1.4 应用场景 1.5 配置参数解读 1.6 zookeeper的四字命令 二、zookeeper内部原理 2.1 节点类型 2.2 Stat结构体 2.3 监听器原理（重点） 2....</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -15685,9 +15685,9 @@ Minio提供了多种语言的SDK，比如java、go、python等。JAVA开发平�
     </item>
     <item>
       <title>Kafka总结</title>
-      <link>https://mrjackc.github.io/posts/BigData/06_Kafka%E6%80%BB%E7%BB%93/Kafka%E6%80%BB%E7%BB%93.html</link>
-      <guid>https://mrjackc.github.io/posts/BigData/06_Kafka%E6%80%BB%E7%BB%93/Kafka%E6%80%BB%E7%BB%93.html</guid>
-      <source url="https://mrjackc.github.io/rss.xml">Kafka总结</source>
+      <link>https://springg.us.kg/posts/BigData/06_Kafka%E6%80%BB%E7%BB%93/Kafka%E6%80%BB%E7%BB%93.html</link>
+      <guid>https://springg.us.kg/posts/BigData/06_Kafka%E6%80%BB%E7%BB%93/Kafka%E6%80%BB%E7%BB%93.html</guid>
+      <source url="https://springg.us.kg/rss.xml">Kafka总结</source>
       <description>Kafka总结 一、kafka概述 1.1 kafka定义 Kafka是一个分布式的基于发布/订阅模式的消息队列，主要应用于大数据实时处理领域。 订阅式模式：一对多的关系，一个生产者，数据存储在消息队列中，多个消费者均可从这个消息对列中获取数据，消费者消费数据之后不会清除消息。 1.2 框架说明 一般都是从命令行和API两个方面进行讲解。 数据处理框架...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
