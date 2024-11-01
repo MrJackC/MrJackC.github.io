@@ -153,7 +153,7 @@ public class HelloworldApplication {
 
 访问 http://localhost:8080/，打印以下结果：
 
-![image-20200321000541904](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232158879.png)
+![image-20200321000541904](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232158879.png)
 
 ## 面试真题
 

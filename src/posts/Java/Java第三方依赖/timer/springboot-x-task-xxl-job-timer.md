@@ -89,7 +89,7 @@ updated: "2024-04-23 22:33"
 
 #### 1.3.3 架构图
 
-![image-20220719034357834](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230040.png)
+![image-20220719034357834](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230040.png)
 
 ## 2. 实现案例
 
@@ -486,19 +486,19 @@ public class BeanMethodDemoJob {
 
 其它配置如下：
 
-![image-20220719035021490](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230084.png)
+![image-20220719035021490](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230084.png)
 
 可以选择操作中执行一次任务，或者启动（按照Cron执行)
 
 
-![imges](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232232883.png)
+![imges](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232232883.png)
 可以查看执行的记录
 
-![image-20220719035327963](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230116.png)
+![image-20220719035327963](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230116.png)
 
 进一步可以看每个执行记录的执行日志
 
-![image-20220719035357955](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230140.png)
+![image-20220719035357955](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230140.png)
 
 ### 2.2 Bean模式(基于类)
 
@@ -584,17 +584,17 @@ XxlJobExecutor.registJobHandler("beanClassDemoJobHandler", new BeanClassDemoJob(
 
 创建GLUE类型的Job（这里以Java为例）
 
-![image-20220719035814051](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230168.png)
+![image-20220719035814051](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230168.png)
 
 选中指定任务，点击该任务右侧“GLUE”按钮，将会前往GLUE任务的Web IDE界面，在该界面支持对任务代码进行开发（也可以在IDE中开发完成后，复制粘贴到编辑中）。
 
 版本回溯功能（支持30个版本的版本回溯）：在GLUE任务的Web IDE界面，选择右上角下拉框“版本回溯”，会列出该GLUE的更新历史，选择相应版本即可显示该版本代码，保存后GLUE代码即回退到对应的历史版本；
 
-![image-20220719035848175](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230212.png)
+![image-20220719035848175](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230212.png)
 
 执行后的记录如下
 
-![image-20220719035905209](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232230243.png)
+![image-20220719035905209](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232230243.png)
 
 #### 2.3.2 GLUE模式还有哪些
 

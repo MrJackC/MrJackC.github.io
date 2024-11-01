@@ -12,7 +12,7 @@ Springboot源码编译时报错
 Kotlin: Language version 1.1 is no longer supported； please, use version 1.2
 ```
 
-![image-20220511195643200](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232210713.png)
+![image-20220511195643200](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232210713.png)
 
 报错原因：就是kotlin版本太低，但是百度的答案问题，都不能解决这个报错
 
@@ -25,11 +25,11 @@ Kotlin: Language version 1.1 is no longer supported； please, use version 1.2
 2.设置 language version、API version 为1.2，点击确定即可
 ```
 
-![image-20220511200249271](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232210750.png)
+![image-20220511200249271](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232210750.png)
 
 ### 2.2 更新渠道
 
-![image-20220511200347450](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232210782.png)
+![image-20220511200347450](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232210782.png)
 
 ## 3. 最终解决
 
@@ -41,4 +41,4 @@ Project Structure -》modules
 
 **改成具体的版本或使用项目的配置**
 
-![image-20220511200623611](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232210806.png)
+![image-20220511200623611](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232210806.png)

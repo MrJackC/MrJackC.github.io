@@ -59,7 +59,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 使用 `wget` 安装：
 
 ```shell
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+sh -c "$(wget https://raw.gitmirror.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ```
 :::
 

@@ -17,7 +17,7 @@ updated: 2024-10-11 16:46
 - UP 为正常
 - OFFLINE 为异常
 
-![image-20230427151804833](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232204184.png)
+![image-20230427151804833](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232204184.png)
 
 ### 1.1 STATUS_CHANGED (UP) 事件
 
@@ -29,23 +29,23 @@ updated: 2024-10-11 16:46
 - db 数据库
 - redis 
 
-![image-20230427155956721](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232204230.png)
+![image-20230427155956721](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232204230.png)
 
 ### 1.2 STATUS_CHANGED (OFFLINE) 事件
 
 应用停止等异常事件
 
-![image-20230427160331926](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232204268.png)
+![image-20230427160331926](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232204268.png)
 
 ### 1.3 ENDPOINTS_DETECTED 端点检测
 
-![image-20230427160716440](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232204290.png)
+![image-20230427160716440](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232204290.png)
 
 ### 1.4 REGISTERED/DEREGISTERED 注册到AdminServer事项
 
 注册到AdminServer事项
 
-![image-20230427161102703](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232204328.png)
+![image-20230427161102703](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232204328.png)
 
 ## 参考文章
 

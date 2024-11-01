@@ -56,7 +56,7 @@ updated: 2024-10-11 16:46
 
 从如下POM的依赖关系可以看出Spring Boot Admin本质上集成了actuartor，将实时警报，此外添加一些实时警报功能等。
 
-![image-20220720204640820](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201636.png)
+![image-20220720204640820](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201636.png)
 
 ### 1.2 SpringBoot Admin的Client和Server？
 
@@ -120,7 +120,7 @@ public class SpringBootHelloWorldApplication {
 
 这样你便可以打开如下网址查看Server UI，很显然目前没有客户端注册上来。
 
-![image-20220720205007867](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201679.png)
+![image-20220720205007867](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201679.png)
 
 ### 2.2 注册Client
 
@@ -158,33 +158,33 @@ management:
 
 打开 http://localhost:8080/wallboard
 
-![image-20220720205101689](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201711.png)
+![image-20220720205101689](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201711.png)
 
 左侧是主要功能：
 
 Insight - Details
 
-![image-20220720205624005](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201735.png)
+![image-20220720205624005](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201735.png)
 
 Insight - Metrics
 
-![image-20220720205743086](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201774.png)
+![image-20220720205743086](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201774.png)
 
 Insight - Configurations
 
-![image-20220720205832953](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201801.png)
+![image-20220720205832953](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201801.png)
 
 Loggers
 
-![image-20220720205910150](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201845.png)
+![image-20220720205910150](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201845.png)
 
 JVM
 
-![image-20220720210025579](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201884.png)
+![image-20220720210025579](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201884.png)
 
 Mappings
 
-![image-20220720210045166](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201907.png)
+![image-20220720210045166](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201907.png)
 
 ## 3. 进一步理解
 
@@ -213,7 +213,7 @@ spring:
 
 刷新SBA UI就可以看到增加了JMX相关的连接
 
-![image-20220720210348392](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201940.png)
+![image-20220720210348392](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201940.png)
 
 ### 3.2 如何显示日志内容？
 
@@ -229,7 +229,7 @@ logging:
 
 刷新SBA UI就可以看到增加了日志文件相关的连接
 
-![image-20220720210606935](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201965.png)
+![image-20220720210606935](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201965.png)
 
 ### 3.3 如何继承Spring Security？
 
@@ -281,7 +281,7 @@ spring.boot.admin.notify.mail.to=admin@example.com
 
 除了邮件通知这种，内置还支持很多其他方式以及支持自定义notification，比如钉钉，微信通知等
 
-![image-20220720210755484](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232201990.png)
+![image-20220720210755484](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232201990.png)
 
 ## 参考文章
 

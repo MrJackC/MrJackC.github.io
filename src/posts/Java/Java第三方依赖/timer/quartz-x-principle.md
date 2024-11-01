@@ -52,7 +52,7 @@ trigger用来定义调度时间的概念，即按什么样时间规则去触发�
 
 ### 1.4 核心元素关系
 
-![image](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232216123.png)
+![image](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232216123.png)
 
 ## 2. Scheduler 调度线程
 
@@ -67,11 +67,11 @@ Scheduler 调度线程主要有两个：
   Misfire 线程是扫描所有的 trigger，查看是否有 misfired trigger，如果有的话根据 misfire 的策略分别处理。
 
 ![image-20220719212131722.png](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202410181518737.png)
-![image](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232216123.png)
+![image](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232216123.png)
 ### 2.1 Quartz 调度线程流程图
 
 
-![image](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232216362.png)
+![image](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232216362.png)
 ## 3. 未正常触发的任务：misfire job
 
 没有在正常触发时间点触发的任务。主要由以下几种情况导致：
@@ -101,14 +101,14 @@ scheduler由工厂类SchedulerFactory创建，主要负责job和trigger的持久
 4. 当JobDetail和Trigger在scheduler容器上注册后，形成了装配好的作业（JobDetail和Trigger所组成的一对儿），就可以伴随容器启动而调度执行了。
 5. scheduler是个容器，容器中有一个线程池，用来并行调度执行每个作业，这样可以提高容器效率。
 
-![image](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232215552.png)
+![image](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232215552.png)
 ## 5. 集群模式
 
 Quartz的集群模式指的是**一个集群下多个节点管理同一批任务的调度**，**通过共享数据库的方式实现**，保证同一个任务到达触发时间的时候，**只有一台机器去执行该任务**。**每个节点部署一个单独的quartz实例，相互之间没有直接数据通信。**
 
 ### 5.1 Quartz集群模式部署图
 
-![image-20220719213026199](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232216443.png)
+![image-20220719213026199](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232216443.png)
 
 ### 5.2 集群模式原理分析
 

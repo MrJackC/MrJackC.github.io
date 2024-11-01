@@ -33,13 +33,13 @@ updated: "2024-04-23 22:22"
 
 **ElasticJob-Lite**: 定位为轻量级无中心化解决方案，使用 jar 的形式提供分布式任务的协调服务。
 
-![image-20220718214257642](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220749.png)
+![image-20220718214257642](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220749.png)
 
 Elasticjob-lite的案例- [SpringBoot集成定时任务 - 分布式Elasticjob-lite方式]()
 
 **ElasticJob-Cloud**： 采用自研 Mesos Framework 的解决方案，额外提供资源治理、应用分发以及进程隔离等功能。
 
-![image-20220718214402293](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220814.png)
+![image-20220718214402293](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220814.png)
 
 **ElasticJob-Lite和ElasticJob-Cloud的区别**
 
@@ -905,7 +905,7 @@ SCRIPT Job: {"jobName":"scriptJob","taskId":"scriptJob@-@0,1,2@-@READY@-@192.168
 
 OneOff的任务，通过controller api访问
 
-![image-20220718215312961](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220837.png)
+![image-20220718215312961](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220837.png)
 
 由于这里没有配置正确的，这里会报异常日志
 
@@ -1145,27 +1145,27 @@ WARNING: All illegal access operations will be denied in a future release
 
 打开http://localhost:8088，输入我们配置的root/root账号
 
-![image-20220718215534000](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220880.png)
+![image-20220718215534000](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220880.png)
 
 ### 3.2 全局配置
 
 配置zk
 
-![image-20220718215556141](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220905.png)
+![image-20220718215556141](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220905.png)
 
 配置数据源
 
-![image-20220718215613302](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220931.png)
+![image-20220718215613302](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220931.png)
 
 ### 3.3 作业操作
 
 作业维度
 
-![image-20220718215634544](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220956.png)
+![image-20220718215634544](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220956.png)
 
 服务器维度
 
-![image-20220718215651441](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220976.png)
+![image-20220718215651441](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220976.png)
 
 ### 3.4 作业历史
 
@@ -1173,11 +1173,11 @@ WARNING: All illegal access operations will be denied in a future release
 
 历史轨迹
 
-![image-20220718215713254](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220003.png)
+![image-20220718215713254](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220003.png)
 
 历史状态
 
-![image-20220718215741737](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232220026.png)
+![image-20220718215741737](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232220026.png)
 
 ## 参考文章
 

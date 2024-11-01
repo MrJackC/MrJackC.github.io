@@ -41,7 +41,7 @@ Quartz提供两种基本作业存储类型:
 
 整体项目结构如下：
 
-![image-20220718212751866](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232225008.png)
+![image-20220718212751866](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232225008.png)
 
 
 
@@ -1134,15 +1134,15 @@ public class HelloJob extends QuartzJobBean {
 
 展示正在运行的Jobs:
 
-![image-20220718213439437](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232225043.png)
+![image-20220718213439437](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232225043.png)
 
 增加新的Job:
 
-![image-20220718213456674](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232225077.png)
+![image-20220718213456674](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232225077.png)
 
 Jobs持久化在数据库:
 
-![image-20220718213527855](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232225100.png)
+![image-20220718213527855](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232225100.png)
 
 ## 参考文章
 

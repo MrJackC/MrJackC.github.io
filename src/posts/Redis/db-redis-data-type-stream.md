@@ -35,7 +35,7 @@ updated: "2024-03-13 10:13"
 
 其它还要考虑啥嗯？
 
-![image-20220623201858393.png](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202405132144209.png)
+![image-20220623201858393.png](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202405132144209.png)
 
 **我们不妨看看Redis考虑了哪些设计**？
 

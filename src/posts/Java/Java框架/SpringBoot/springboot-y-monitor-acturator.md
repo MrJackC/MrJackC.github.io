@@ -130,7 +130,7 @@ management:
 
 上述配置只暴露info,health,env,beans四个endpoints, web通过可以`/manage`访问，
 
-![image-20220720202034772](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232200850.png)
+![image-20220720202034772](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232200850.png)
 
 ## 3. endpoints的进一步拓展配置
 
@@ -226,17 +226,17 @@ management:
 
 你可以看到所有开放的接口中增加了date
 
-![image-20220720203321468](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232200896.png)
+![image-20220720203321468](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232200896.png)
 
 访问效果
 
-![image-20220720203342038](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232200928.png)
+![image-20220720203342038](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232200928.png)
 
 ### 3.4 组件的health状况
 
 SpringBoot默认集成了如下常见中间件的health监控
 
-![image-20220720203409194](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232200969.png)
+![image-20220720203409194](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232200969.png)
 
 当然你也可以自定义HealthIndicator
 
@@ -276,7 +276,7 @@ public class CustomHealthIndicator implements HealthIndicator {
 
 这个也是比较常用的，具体参考
 
-![image-20220720203536413](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232200000.png)
+![image-20220720203536413](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232200000.png)
 
 ### 3.6 Info信息如何获取
 

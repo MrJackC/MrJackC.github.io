@@ -29,7 +29,7 @@ updated: "2024-04-23 22:25"
 
 属于Java并发中JUC，具体可以看[JUC - 类汇总和学习指南](https://pdai.tech/md/java/thread/java-thread-x-juc-overview.html)
 
-![image-20220719041508424](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232222579.png)
+![image-20220719041508424](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232222579.png)
 
 ## 2. ScheduledExecutorService实现案例
 

@@ -58,13 +58,13 @@
 
 - **生命周期**
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146785.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146785.png)
 
 
 
 - **生命周期的八个阶段**
 
-  ![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146804.png)
+  ![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146804.png)
 
 - **代码实现**
 
@@ -170,7 +170,7 @@
 
 - **axios常用方法**
 
-  ![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146831.png)
+  ![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146831.png)
 
 - **代码实现**
 
@@ -281,15 +281,15 @@
 
 - 异步操作：通过 axios 插件来实现。
 
-  ![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146831.png)
+  ![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146831.png)
 
 # 2、综合案例 学生管理系统
 
 ## 2.1、效果环境的介绍
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146892.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146892.png)
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202410131146923.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202410131146923.png)
 
 ## 2.2、登录功能的实现
 

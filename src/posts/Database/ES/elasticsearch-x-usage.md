@@ -40,7 +40,7 @@ PUT /customer/_doc/1
 
 - **下载测试数据**
 
-数据是index为bank，accounts.json [下载地址](https://raw.githubusercontent.com/elastic/elasticsearch/master/docs/src/test/resources/accounts.json)（如果你无法下载，也可以clone ES的[官方仓库](https://github.com/elastic/elasticsearch)，然后进入/docs/src/test/resources/accounts.json目录获取）
+数据是index为bank，accounts.json [下载地址](https://raw.gitmirror.com/elastic/elasticsearch/master/docs/src/test/resources/accounts.json)（如果你无法下载，也可以clone ES的[官方仓库](https://github.com/elastic/elasticsearch)，然后进入/docs/src/test/resources/accounts.json目录获取）
 
 >最新版本已经改了，可以在7.11以前的 版本上下载
 

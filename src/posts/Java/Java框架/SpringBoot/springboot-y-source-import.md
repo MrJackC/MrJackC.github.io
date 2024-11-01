@@ -24,13 +24,13 @@ updated: 2024-10-11 16:46
 
    分支的基础版本为：2.1.0.RELEASE
 
-   ![image-20220308192302601](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206965.png)
+   ![image-20220308192302601](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206965.png)
 
 ## 2. 将SpringBoot源码项目导入到IDEA中
 
 导入后的结果
 
-![image-20220308190307742](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206027.png)
+![image-20220308190307742](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206027.png)
 
 ## 3. 编译构建SpringBoot源码项目
 
@@ -48,11 +48,11 @@ updated: 2024-10-11 16:46
    <disable.checks>true</disable.checks>
    ```
 
-​	![image-20220308190609199](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206050.png)
+​	![image-20220308190609199](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206050.png)
 
 1. 可能有的小伙伴们的pom.xml文件的project标签上显示`java.lang.OutOfMemoryError`错误，这是因为IDEA里的Maven的importer设置的JVM最大堆内存过小而导致的，如下图,此时可参考[Maven依赖包导入错误（IntelliJ IDEA）](https://blog.csdn.net/w605283073/article/details/85107497)解决即可。
 
-​	![image-20220308190638212](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206078.png)
+​	![image-20220308190638212](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206078.png)
 
 ### 3.2 命令编译
 
@@ -62,29 +62,29 @@ updated: 2024-10-11 16:46
 mvn clean install -DskipTests -Pfast
 ```
 
-![image-20220308190825164](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206111.png)
+![image-20220308190825164](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206111.png)
 
 此时又是漫长的等待构建成功了，如下图：
 
-![image-20220308195059235](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206138.png)
+![image-20220308195059235](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206138.png)
 
 ## 4. 运行SpringBoot自带的sample
 
 因为SpringBoot源码中的spring-boot-samples模块自带了很多DEMO样例，我们可以利用其中的一个sample来测试运行刚刚构建的springboot源码项目即可。但此时发现spring-boot-samples模块是灰色的，如下图
 
-![image-20220308195141434](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206166.png)
+![image-20220308195141434](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206166.png)
 
 这是因为spring-boot-samples模块没有被添加到根pom.xml中，此时将其添加到根pom.xml中即可，增加如下配置，如下图：
 
-![image-20220308195320473](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206190.png)
+![image-20220308195320473](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206190.png)
 
 此时我们挑选spring-boot-samples模块下的spring-boot-sample-tomcat样例项目来测试好了，此时启动`SampleTomcatApplication`的`main`函数，启动成功界面如下：
 
-![image-20220308202332052](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206211.png)
+![image-20220308202332052](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206211.png)
 
 然后我们再在浏览器发送一个HTTP请求，此时可以看到服务端成功返回响应，说明此时SpringBoot源码环境就已经构建成功了，接下来我们就可以进行调试了，如下图：
 
-![image-20220308202423116](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232206241.png)
+![image-20220308202423116](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232206241.png)
 
 ## 参考文章
 

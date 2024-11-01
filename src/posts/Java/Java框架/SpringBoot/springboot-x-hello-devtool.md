@@ -32,8 +32,8 @@ updated: 2024-10-11 16:46
 
 LiveLoad是提供浏览器客户端自动加载更新的工具，分为LiveLoad服务器和Liveload浏览器插件两部分； devtools中已经集成了LiveLoad服务器，所以如果我们开发的是web应用，并且期望浏览器自动刷新， 这时候可以考虑LiveLoad.
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232136362.png)
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232136362.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232136362.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232136362.png)
 同一时间只能运行一个LiveReload服务器。 开始应用程序之前，请确保没有其他LiveReload服务器正在运行。如果从IDE启动多个应用程序，则只有第一个应用程序将支持LiveReload。
 
 ## 2. 配置devtools实现热部署
@@ -60,7 +60,7 @@ LiveLoad是提供浏览器客户端自动加载更新的工具，分为LiveLoad�
 
 #### 2.2.1 方式一： **无任何配置时，手动触发重启更新（Ctrl+F9）**
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232139624.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232139624.png)
 
 （也可以用`mvn compile`编译触发重启更新）
 
@@ -73,7 +73,7 @@ File->Setting->Build,Execution,Deployment->Compile
 勾选：Make project automatically
 
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232140289.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232140289.png)
 **设置2**：
 
 快捷键：ctrl+alt+shift+/
@@ -84,7 +84,7 @@ File->Setting->Build,Execution,Deployment->Compile
 
 新版本的IDEA可以在File->setting->Advanced Setttings里面的第一个设置：
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232140097.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232140097.png)
 
 ### 2.3 application.yml配置
 
@@ -105,15 +105,15 @@ spring:
 
 spring-boot-devtools模块包含**嵌入式LiveReload服务器**，可以在资源更改时用于触发浏览器刷新。 LiveReload浏览器扩展程序支持Chrome，Firefox和Safari，你可以从livereload.com免费下载。
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232141792.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232141792.png)
 
 或者从浏览器插件中心下载，比如firefox:
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232141017.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232141017.png)
 
 安装完之后，可以通过如下图标管理
 
-![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232142500.png)
+![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232142500.png)
 
 如果你不想在应用程序运行时启动LiveReload服务器，则可以将spring.devtools.livereload.enabled属性设置为false 。
 
@@ -286,7 +286,7 @@ spring:
   - 自动重启的开销如果和手动重启没有什么太大差别，那么还不如手动重启（按需重启）
   - 多数情况下，如果是**方法内部的修改或者静态资源的修改**，在IDEA中是可以通过Rebuild（Ctrl + Shift + F9）进行热更的
 
-    ![](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232143458.png)
+    ![](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232143458.png)
 
 - 此外还有一个工具spring loaded， 可实现修改类文件的热部署，具体可看其[github地址](https://github.com/spring-projects/spring-loaded)上的说明。
 

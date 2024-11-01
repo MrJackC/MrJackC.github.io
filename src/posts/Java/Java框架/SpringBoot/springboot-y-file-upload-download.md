@@ -66,7 +66,7 @@ public ResponseResult<String> upload(@RequestParam(value = "file", required = tr
 
 通过postman，模拟上传的请求
 
-![image-20220719221741423](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232159470.png)
+![image-20220719221741423](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232159470.png)
 
 ### 2.3 文件下载
 
@@ -104,7 +104,7 @@ public void download(HttpServletResponse response) {
 
 如果使用postman下载文件，默认的response大小是50MB，下载大于50MB的文件需要在这里自行设置。
 
-![image-20220719221858304](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232159512.png)
+![image-20220719221858304](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232159512.png)
 
 ## 3. 进一步理解
 

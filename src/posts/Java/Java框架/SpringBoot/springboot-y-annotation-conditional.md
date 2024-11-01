@@ -109,7 +109,7 @@ public class ConditionalTest {
 
 运行，输出结果：两个Bean实例都被注入进容器。
 
-![image-20220510105819119](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232149510.png)
+![image-20220510105819119](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232149510.png)
 
 现在问题来了，如果我想根据当前操作系统来注入`System`实例，window下注入Windows实例，Linux下注入Linux实例，怎么实现呢？
 
@@ -186,7 +186,7 @@ public class ConditionalTest {
 }
 ```
 
-![image-20220510110444045](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232149560.png)
+![image-20220510110444045](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232149560.png)
 
 **一个方法只能注入一个bean实例，所以@Conditional标注在方法上只能控制一个bean实例是否注入。**
 
@@ -215,7 +215,7 @@ public class BeanConfig {
 
 测试结果：
 
-![image-20220510110852635](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232149591.png)
+![image-20220510110852635](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232149591.png)
 
 结果表明，当condition条件成立，`BeanConfig`类中存在`@Bean`注解的实例都注入到容器。
 
@@ -258,7 +258,7 @@ public class BeanConfig {
 
 #### 2.4.3 结果：
 
-![image-20220510111135640](https://raw.githubusercontent.com/MrJackC/PicGoImages/main/other/202404232149618.png)
+![image-20220510111135640](https://raw.gitmirror.com/MrJackC/PicGoImages/main/other/202404232149618.png)
 
 结论：
 
