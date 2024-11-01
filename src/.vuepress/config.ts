@@ -2,6 +2,8 @@ import { defineUserConfig } from "vuepress";
 import { getDirname, path } from "vuepress/utils";
 import { viteBundler } from '@vuepress/bundler-vite'
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+// 添加水印插件
+import { watermarkPlugin } from '@vuepress/plugin-watermark'
 // import { oml2dPlugin } from "vuepress-plugin-oh-my-live2d";
 import {
   canvasPlugin,
@@ -144,6 +146,28 @@ export default defineUserConfig({
           },
         },
       },
+    }),
+    watermarkPlugin({
+      enabled: (page) => {
+        // 仅在特定页面添加水印，例如路径包含 'protected'
+        return page.path.includes('posts');
+      },
+      watermarkOptions: {
+       // 水印文本
+       content: 'mrjason',
+       // 水印字体
+       fontSize: '20px',
+
+       fontFamily:'Arial',
+       // 水印颜色
+       fontColor: 'rgba(0, 0, 0, 0.1)',
+       // 水印旋转角度
+       rotate: 30,
+       // 水印透明度
+       globalAlpha: 0.5,
+       // 水印位置
+       translatePlacement: 'bottom-start', // 可选值: 'top-left', 'top-right', 'bottom-left', 'bottom-right'
+      }
     }),
     // 看板娘插件
     // oml2dPlugin({
