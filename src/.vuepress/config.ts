@@ -154,9 +154,9 @@ export default defineUserConfig({
       },
       watermarkOptions: {
        // 水印文本
-       content: 'mrjason',
+       content: '春鸽鸽',
        // 水印字体
-       fontSize: '20px',
+       fontSize: '16px',
 
        fontFamily:'Arial',
        // 水印颜色
@@ -164,9 +164,9 @@ export default defineUserConfig({
        // 水印旋转角度
        rotate: 30,
        // 水印透明度
-       globalAlpha: 0.5,
+       globalAlpha: 0.65,
        // 水印位置
-       translatePlacement: 'bottom-start', // 可选值: 'top-left', 'top-right', 'bottom-left', 'bottom-right'
+       translatePlacement: 'bottom-right', // 可选值: 'top-left', 'top-right', 'bottom-left', 'bottom-right'
       }
     }),
     // 看板娘插件

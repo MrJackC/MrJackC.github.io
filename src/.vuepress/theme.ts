@@ -27,7 +27,7 @@ export default MyTheme({
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["Language", "Repo", "Wormhole", "Travelling", "Outlook", "Search"],
+    end: ["Language", "Wormhole", "Travelling", "Outlook", "Search"],
   },
 
   blog: {
@@ -52,13 +52,13 @@ export default MyTheme({
       // Linkedin: "https://example.com",
       // Pinterest: "https://example.com",
       // Pocket: "https://example.com",
-      // QQ: "https://example.com",
+      QQ: "https://user.qzone.qq.com/845886914/main",
       // Qzone: "https://example.com",
       // Reddit: "https://example.com",
       Rss: "./rss.xml",
       // Steam: "https://example.com",
       // Twitter: "https://example.com",
-      // Wechat: "https://example.com",
+      Wechat: "Tz_5252",
       // Weibo: "https://example.com",
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",

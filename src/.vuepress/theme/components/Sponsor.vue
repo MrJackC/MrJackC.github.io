@@ -10,15 +10,9 @@
         </div>
         <div id="drinks-button-box" class="tr3 left-100">
           <div id="drinks-button-bg" class="left-100"></div>
-          <div id="github-box">
-            <a :href="githubLink" target="_blank">Github</a>
-          </div>
           <ul id="donate-buttons" class="list tr3">
-            <li id="paypal_donate">
-              <a :href="paypalLink" target="_blank">Paypal</a>
-            </li>
-            <!-- <li id="btc_donate" class="donate-button">Bitcoin</li> -->
-            <li id="alipay_donate" class="donate-button">AliPay</li>
+            <li id="person_donate" class="donate-button">个人码</li>
+            <li id="alipay_donate" class="donate-button1">AliPay</li>
             <li id="wechat_donate" class="donate-button2">WeChat</li>
           </ul>
         </div>
@@ -33,12 +27,10 @@
 <script setup lang="ts">
 import { ref, reactive, computed, onMounted } from "vue";
 import { useWindowSize } from "@theme-hope/composables/index";
-const githubLink = "https://github.com/OrageKK/sponsor-page";
-const paypalLink = "https://www.paypal.me/oragekk";
 const qrCodes = reactive({
   // btc_donate: "/assets/images/BTCQR.png",
+  person_donate: "/assets/images/Wechat_Person.jpg",
   alipay_donate: "/assets/images/AliPayQR.jpg",
-  alipay_donate_link: "https://qr.alipay.com/fkx10720tbvl7vbt30mmad4",
   wechat_donate: "/assets/images/WeChanSQ.JPG",
 });
 const { isMobile } = useWindowSize();
@@ -47,6 +39,7 @@ onMounted(() => {
   const drink_box_s = document.querySelector("#drinks-box-s");
   const icon_donate = document.querySelector(".icon-donate");
   const donate_button = document.querySelector(".donate-button");
+  const donate_button1 = document.querySelector(".donate-button1");
   const donate_button2 = document.querySelector(".donate-button2");
   const donate_buttons = document.querySelector("#drinks-button-box");
   const donate_button_bg = document.querySelector("#drinks-button-bg");
@@ -98,6 +91,15 @@ onMounted(() => {
 
   donate_button_bg.addEventListener("click", drinks_an[1]);
   donate_button.addEventListener("click", function (event: MouseEvent) {
+    const thisID = (event.target as HTMLElement).getAttribute("id");
+    if (isMobile.value && thisID === "alipay_donate") {
+      window.open(qrCodes["alipay_donate_link"]);
+    } else {
+      drinks_qrcode.style.backgroundImage = `url(${qrCodes[thisID]})`;
+      drinks_an[2]();
+    }
+  });
+  donate_button1.addEventListener("click", function (event: MouseEvent) {
     const thisID = (event.target as HTMLElement).getAttribute("id");
     if (isMobile.value && thisID === "alipay_donate") {
       window.open(qrCodes["alipay_donate_link"]);
@@ -307,6 +309,9 @@ li[id$="_donate"]:hover::after {
 }
 #drinks-qrcodes {
   display: none;
+}
+#person_donate {
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzMxNjQzMzg3OTQyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE0MTI4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiPjxwYXRoIGQ9Ik0gOTQ1LjAwMyA3ODAuMjM1IGMgMCAwIC04Ljg2NSAyLjUxIC0xMy4zNjUgLTguODk0IGwgLTc1LjAyIC0yMDMuODk1IGMgNDIuMzM3IC0zMC4wOTEgNzAuNTY0IC04My45ODkgNzAuNTY0IC0xNDUuNDkxIGMgMCAtOTQuMzY4IC02Ni40MTggLTE3MC44NjYgLTE0OC4zNTYgLTE3MC44NjYgYyAtOTcuMDc0IC0zLjYzMSAtMTU0LjkyMSA4MC40MzggLTE0NC40OTkgMTY4LjkwMiBjIDMuMTQyIDYxLjU4OCAyOS42MzQgMTI0LjQ5IDczLjgzNCAxNTQuODI4IGwgLTYxLjY2NiAxNDMuMTUgYyAtMjEuMjkyIDQwLjc0NSAtNDAuMTAxIDUzLjM3NCAtNDAuMTAxIDUzLjM3NCBjIC00Mi43NzUgMjQuMTIxIC03NS43MzkgLTguODk1IC03NS43MzkgLTguODk1IGwgMTMuMzYzIC0xNy43OTEgbCAxNy44MjQgOC44OTggYyAzOC45NDkgMTMuNTExIDU3LjkyMSAtNDAuMDI4IDU3LjkyMSAtNDAuMDI4IGwgNTguMjcgLTEzMi45NjMgYyAtNDAuMTEyIC0zNy41OTEgLTY0LjAxNCAtOTkuNjAxIC02Ny4xNzggLTE2MC41ODIgYyAtMTIuMDU1IC0xMDAuMTcyIDU0LjgzIC0xOTUuMzY3IDE2Ny4wNzUgLTE5MS4yNDkgYyA5NC43MzUgMCAxNzEuNTMxIDg2LjYyIDE3MS41MzEgMTkzLjQ3MSBjIDAgNjEuMTQzIC0yNS4yMDYgMTE1LjU3MyAtNjQuNDc1IDE1MS4wMjEgbCA2OC45MjkgMTg5LjIyOSBjIC0wLjAwMSAwLjAwMSA3LjgxNyAxNS42MDUgLTguOTA4IDE3Ljc4OCB2IDAgWiBNIDQ4Ni4wOTIgNzc1Ljc5NSBjIC00NS42NzggMjAuNDMgLTcxLjI4NiAtMjYuNjg5IC03MS4yODYgLTI2LjY4OSBsIC03Ny40NyAtMTcyLjkzNCBjIDQyLjk5NiAtMzQuMzM5IDY4LjMzMiAtOTYuNjA3IDczLjAxNCAtMTUxLjc0NiBjIDguMTE4IC04Ny42OTUgLTM2LjQ4MSAtMTczLjQ1NSAtMTUwLjk2MiAtMTczLjQ1NSBjIC04MS40ODYgMCAtMTQzLjA5MyA3Ny42NTggLTE0My4wOTMgMTczLjQ1NSBjIDAgNjIuOTMgMjYuNjIzIDExOC4zNzEgNjcuOTYzIDE1MC4wNDYgbCAtNTkuMDUyIDE5Ni44NzQgYyAtMy40NjMgMTEuNDUgLTEzLjM2NiA4Ljg5NCAtMTMuMzY2IDguODk0IGMgLTEwLjQzIC0wLjA4OSAtOC45MTMgLTEzLjM0MiAtOC45MTMgLTEzLjM0MiBsIDU0LjA4MiAtMTg2Ljg2NCBjIC0zOC4zNTMgLTM3LjA5NSAtNjIuOTkgLTkzLjY2NyAtNjIuOTkgLTE1NS42MDkgYyAwIC0xMDguMDc5IDc0LjgwMiAtMTk1LjY5NiAxNjcuMDc3IC0xOTUuNjk2IGMgMTI5LjYzOCAwIDE4MS4zNSAxMDQuNTQ4IDE3MS41MzQgMTk1LjY5NiBjIC00Ljg4MSA2Mi43ODkgLTMxLjgyOCAxMjEuMzExIC03Mi4xMTMgMTU4LjY2MyBsIDc2LjU3MyAxNTcuMTIzIGMgMTQuNzgxIDIxLjAzNCA0MC4wOTcgMTMuMzQ0IDQwLjA5NyAxMy4zNDQgYyAyNi43NzUgLTYuMjM0IDQwLjA5OSAtMzEuMTMyIDQwLjA5OSAtMzEuMTMyIGMgMjEuNDEzIC0yNy40NzQgMTMuMzY3IC01Ny44MjIgMTMuMzY3IC01Ny44MjIgYyAtMTAuMDA1IC0xMy4yMjggLTE3LjgyMiAwIC0xNy44MjIgMCBjIC0xMy40MDIgMTguMTU3IDAgNDguOTMgMCA0OC45MyBsIC0xMy4zNjYgMTcuNzg4IGMgLTE0LjQyMiAtMjEuNDE0IC0xMy4zNjYgLTQ4LjkyNiAtMTMuMzY2IC00OC45MjYgYyAtMC41NjEgLTU1LjI0NyA0MC4xIC00OC45MjkgNDAuMSAtNDguOTI5IGMgNDkuNTI0IDE5LjE0NiAyMi4yNzUgODQuNTA3IDIyLjI3NSA4NC41MDcgYyAtMjQuNzI3IDQ2Ljc5MyAtNjIuMzggNTcuODI0IC02Mi4zOCA1Ny44MjQgdiAwIFogTSAyMDcuNjMgMzQ0LjM2NiBjIDExLjA3MyAwIDIwLjA1MyA4Ljk2MiAyMC4wNTMgMjAuMDE0IHMgLTguOTc3IDIwLjAxNCAtMjAuMDUzIDIwLjAxNCBjIC0xMS4wNzQgMCAtMjAuMDUxIC04Ljk2MiAtMjAuMDUxIC0yMC4wMTQgYyAwIC0xMS4wNTQgOC45NzYgLTIwLjAxNCAyMC4wNTEgLTIwLjAxNCB2IDAgWiBNIDMyMy40NzQgMzg0LjM5NCBjIC0xMS4wNzQgMCAtMjAuMDUzIC04Ljk2MiAtMjAuMDUzIC0yMC4wMTQgcyA4Ljk3NiAtMjAuMDE0IDIwLjA1MyAtMjAuMDE0IGMgMTEuMDY3IDAgMjAuMDQ0IDguOTYyIDIwLjA0NCAyMC4wMTQgYyAwIDExLjA1NCAtOC45NzYgMjAuMDE0IC0yMC4wNDQgMjAuMDE0IHYgMCBaIE0gMjA5Ljg1OSA0MTEuMDgzIGggMTE1LjgzNiBjIDYuOTc1IDAgMTIuOTQ2IDQuMDMxIDE1Ljg3OCA5Ljg1NyBjIDEuMjM0IDUuNDIgMS45NDUgMTEuMDM3IDEuOTQ1IDE2LjgzMSBjIDAgNDEuNzU4IC0zMy45MDggNzUuNjA3IC03NS43MzggNzUuNjA3IGMgLTQxLjgzMSAwIC03NS43MzkgLTMzLjg0NyAtNzUuNzM5IC03NS42MDcgYyAwIC01Ljc5MyAwLjcxMSAtMTEuNDExIDEuOTQ2IC0xNi44MzEgYyAyLjkzIC01LjgyNCA4LjkwMiAtOS44NTcgMTUuODcyIC05Ljg1NyB2IDAgWiBNIDI2Ny43NzkgNDkxLjE0MSBjIDU0LjQ1IC0xLjQ2MSA1My40NjUgLTU3LjgyMSA1My40NjUgLTU3LjgyMSBoIC0xMDYuOTI4IGMgMC43MTcgNjIuOTE4IDUzLjQ2NSA1Ny44MjEgNTMuNDY1IDU3LjgyMSB2IDAgWiBNIDY5OS45NTQgMzY2LjYwNCBjIDAgLTkuODI2IDcuOTc4IC0xNy43ODkgMTcuODIyIC0xNy43ODkgYyA5Ljg0MSAwIDE3LjgyNCA3Ljk2MyAxNy44MjQgMTcuNzg5IGMgMCA5LjgyNyAtNy45ODEgMTcuNzg5IC0xNy44MjQgMTcuNzg5IGMgLTkuODQyIDAgLTE3LjgyMiAtNy45NjMgLTE3LjgyMiAtMTcuNzg5IHYgMCBaIE0gODMzLjYxNSAzODQuMzk0IGMgLTkuODQxIDAgLTE3LjgyMiAtNy45NjMgLTE3LjgyMiAtMTcuNzg5IHMgNy45OCAtMTcuNzg5IDE3LjgyMiAtMTcuNzg5IGMgOS44NDUgMCAxNy44MjEgNy45NjMgMTcuODIxIDE3Ljc4OSBjIDAgOS44MjYgLTcuOTc0IDE3Ljc4OSAtMTcuODIxIDE3Ljc4OSB2IDAgWiBNIDcwNC40MDkgNDE1LjUzMiBjIDguODIyIC04Ljg1MSAxNy44MjEgMCAxNy44MjEgMCBjIDE5LjAyOSAzNy45ODcgNTcuOTIyIDM1LjU3OSA1Ny45MjIgMzUuNTc5IGMgNDkuMDQ1IC0zLjY1OSA1My40NjUgLTM1LjU3OSA1My40NjUgLTM1LjU3OSBjIDMuNTU1IC0xMS44MDcgMTMuMzY2IC04Ljg5OSAxMy4zNjYgLTguODk5IGMgMTMuNTQgNC4yMDYgOC45MTIgMTcuNzkgOC45MTIgMTcuNzkgYyAtMjEuMTA5IDUxLjk2OCAtNzUuNzQ0IDQ4LjkyNiAtNzUuNzQ0IDQ4LjkyNiBjIC00Ni45NSAxLjI3IC03NS43NDIgLTQwLjAyOSAtNzUuNzQyIC00MC4wMjkgYyAtNy42NjggLTguMzY0IDAgLTE3Ljc4OCAwIC0xNy43ODggdiAwIFoiIGZpbGw9IiNmZmZmZmYiIHAtaWQ9IjE0MTI5Ij48L3BhdGg+PC9zdmc+);
 }
 #drinks-qrcode {
   position: absolute;

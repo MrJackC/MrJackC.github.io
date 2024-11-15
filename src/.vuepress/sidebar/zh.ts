@@ -96,7 +96,7 @@ export const zhSidebar = sidebar({
       text: "Java",
       icon: "java",
       prefix: "posts/",
-      link: "Java/",
+      link: "/posts/Java/",
     },
     {
       text: "博客相关",
