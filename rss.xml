@@ -6,11 +6,26 @@
     <link>https://springg.us.kg/</link>
     <description>春鸽鸽的博客</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 Nov 2024 07:49:07 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2024 07:49:07 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2024 09:11:16 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2024 09:11:16 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>架构</category>
+    <item>
+      <title>相关资料</title>
+      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</link>
+      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</guid>
+      <source url="https://springg.us.kg/rss.xml">相关资料</source>
+      <description>相关资料 在线文档用油猴脚本可以看 Fuck-Yudao SQL脚本 网盘地址1 网盘地址2 离线文档 文档地址</description>
+      <pubDate>Thu, 21 Nov 2024 08:42:43 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>在线文档用油猴脚本可以看 <a href="https://greasyfork.org/zh-CN/scripts/494723-yudao" target="_blank" rel="noopener noreferrer">Fuck-Yudao</a></p>
+<p>SQL脚本</p>
+<p><a href="https://pan.baidu.com/s/1XENZNOhpLD8KmiMc8i8fMA?pwd=eyqa" target="_blank" rel="noopener noreferrer">网盘地址1</a></p>
+<p><a href="https://pan.baidu.com/s/1wr9D0D71ZZt4iNCWUaYCAw?pwd=6666" target="_blank" rel="noopener noreferrer">网盘地址2</a></p>
+<p>离线文档 <a href="https://gitee.com/li_yu_jiang/yudao-docs.git" target="_blank" rel="noopener noreferrer">文档地址</a></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>代码热加载</title>
       <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/10.%E4%BB%A3%E7%A0%81%E7%83%AD%E5%8A%A0%E8%BD%BD.html</link>
@@ -511,13 +526,14 @@
       <enclosure url="https://doc.iocoder.cn/img/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84/01.png" type="image/png"/>
     </item>
     <item>
-      <title></title>
+      <title>开发环境</title>
       <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</link>
       <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</guid>
-      <source url="https://springg.us.kg/rss.xml"></source>
-      <description>在系统开发的经典模型，一般会分成 2 类 5 种环境： 【线下】本地环境(local)、开发环境(dev)、测试环境(test) 【线上】预发布环境(stage)、生产环境(prod) 环境示例环境示例 每个环境、每个项目使用独立的二级域名 线下、线上各一套 MySQL 数据库，多个环境共享使用 每个环境对应一个配置文件，后端使用 applicatio...</description>
+      <source url="https://springg.us.kg/rss.xml">开发环境</source>
+      <description>开发环境 在系统开发的经典模型，一般会分成 2 类 5 种环境： 【线下】本地环境(local)、开发环境(dev)、测试环境(test) 【线上】预发布环境(stage)、生产环境(prod) 环境示例环境示例 每个环境、每个项目使用独立的二级域名 线下、线上各一套 MySQL 数据库，多个环境共享使用 每个环境对应一个配置文件，后端使用 appli...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
-      <content:encoded><![CDATA[<p>在系统开发的经典模型，一般会分成 2 类 5 种环境：</p>
+      <content:encoded><![CDATA[
+<p>在系统开发的经典模型，一般会分成 2 类 5 种环境：</p>
 <ul>
 <li>【线下】本地环境(local)、开发环境(dev)、测试环境(test)</li>
 <li>【线上】预发布环境(stage)、生产环境(prod)</li>
@@ -1779,6 +1795,138 @@
 <p>上次更新: 2023/04/13, 23:26:46</p>
 ]]></content:encoded>
       <enclosure url="https://doc.iocoder.cn/img/Vue3/IDE%E8%B0%83%E8%AF%95/idea-01.png" type="image/png"/>
+    </item>
+    <item>
+      <title>菜单路由</title>
+      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</link>
+      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</guid>
+      <source url="https://springg.us.kg/rss.xml">菜单路由</source>
+      <description>菜单路由 前端项目基于 vue-element-plus-admin 实现，它的 路由和侧边栏 (opens new window)是组织起一个后台应用的关键骨架。 侧边栏和路由是绑定在一起的，所以你只有在 @/router/index.js (opens new window)下面配置对应的路由，侧边栏就能动态的生成了，大大减轻了手动重复编辑侧边栏的...</description>
+      <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>前端项目基于 vue-element-plus-admin 实现，它的 路由和侧边栏 (opens new window)是组织起一个后台应用的关键骨架。</p>
+<p>侧边栏和路由是绑定在一起的，所以你只有在 @/router/index.js (opens new window)下面配置对应的路由，侧边栏就能动态的生成了，大大减轻了手动重复编辑侧边栏的工作量。</p>
+<p>当然，这样就需要在配置路由的时候，遵循一些约定的规则。</p>
+<h2>路由配置</h2>
+<p>首先，我们了解一下本项目配置路由时，提供了哪些配置项：</p>
+<div class="language- line-numbers-mode" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span></span></span>
+<span class="line"><span>/**</span></span>
+<span class="line"><span>* redirect: noredirect        当设置 noredirect 的时候该路由在面包屑导航中不可被点击</span></span>
+<span class="line"><span>* name:'router-name'          设定路由的名字，一定要填写不然使用&lt;keep-alive&gt;时会出现各种问题</span></span>
+<span class="line"><span>* meta : {</span></span>
+<span class="line"><span>    hidden: true              当设置 true 的时候该路由不会再侧边栏出现 如404，login等页面(默认 false)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    alwaysShow: true          当你一个路由下面的 children 声明的路由大于1个时，自动会变成嵌套的模式，</span></span>
+<span class="line"><span>                              只有一个时，会将那个子路由当做根路由显示在侧边栏，</span></span>
+<span class="line"><span>                              若你想不管路由下面的 children 声明的个数都显示你的根路由，</span></span>
+<span class="line"><span>                              你可以设置 alwaysShow: true，这样它就会忽略之前定义的规则，</span></span>
+<span class="line"><span>                              一直显示根路由(默认 false)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    title: 'title'            设置该路由在侧边栏和面包屑中展示的名字</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    icon: 'svg-name'          设置该路由的图标</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    noCache: true             如果设置为true，则不会被 &lt;keep-alive&gt; 缓存(默认 false)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    breadcrumb: false         如果设置为false，则不会在breadcrumb面包屑中显示(默认 true)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    affix: true               如果设置为true，则会一直固定在tag项中(默认 false)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    noTagsView: true          如果设置为true，则不会出现在tag中(默认 false)</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    activeMenu: '/dashboard'  显示高亮的路由路径</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    followAuth: '/dashboard'  跟随哪个路由进行权限过滤</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>    canTo: true               设置为true即使hidden为true，也依然可以进行路由跳转(默认 false)</span></span>
+<span class="line"><span>  }</span></span>
+<span class="line"><span>**/</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>1.1 普通示例</h3>
+<blockquote>
+<p>注意事项：</p>
+<ul>
+<li>整个项目所有路由 name 不能重复</li>
+<li>所有的多级路由最终都会转成二级路由，所以不能内嵌子路由</li>
+<li>除了 <strong>layout</strong> 对应的 <strong>path</strong> 前面需要加 <strong>/</strong>，其余子路由都不要以 <strong>/</strong> 开头</li>
+</ul>
+</blockquote>
+<div class="language- line-numbers-mode" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span></span></span>
+<span class="line"><span>{</span></span>
+<span class="line"><span>  path: '/level',</span></span>
+<span class="line"><span>  component: Layout,</span></span>
+<span class="line"><span>  redirect: '/level/menu1/menu1-1/menu1-1-1',</span></span>
+<span class="line"><span>  name: 'Level',</span></span>
+<span class="line"><span>  meta: {</span></span>
+<span class="line"><span>    title: t('router.level'),</span></span>
+<span class="line"><span>    icon: 'carbon:skill-level-advanced'</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  children: [</span></span>
+<span class="line"><span>    {</span></span>
+<span class="line"><span>      path: 'menu1',</span></span>
+<span class="line"><span>      name: 'Menu1',</span></span>
+<span class="line"><span>      component: getParentLayout(),</span></span>
+<span class="line"><span>      redirect: '/level/menu1/menu1-1/menu1-1-1',</span></span>
+<span class="line"><span>      meta: {</span></span>
+<span class="line"><span>        title: t('router.menu1')</span></span>
+<span class="line"><span>      },</span></span>
+<span class="line"><span>      children: [</span></span>
+<span class="line"><span>        {</span></span>
+<span class="line"><span>          path: 'menu1-1',</span></span>
+<span class="line"><span>          name: 'Menu11',</span></span>
+<span class="line"><span>          component: getParentLayout(),</span></span>
+<span class="line"><span>          redirect: '/level/menu1/menu1-1/menu1-1-1',</span></span>
+<span class="line"><span>          meta: {</span></span>
+<span class="line"><span>            title: t('router.menu11'),</span></span>
+<span class="line"><span>            alwaysShow: true</span></span>
+<span class="line"><span>          },</span></span>
+<span class="line"><span>          children: [</span></span>
+<span class="line"><span>            {</span></span>
+<span class="line"><span>              path: 'menu1-1-1',</span></span>
+<span class="line"><span>              name: 'Menu111',</span></span>
+<span class="line"><span>              component: () =&gt; import('@/views/Level/Menu111.vue'),</span></span>
+<span class="line"><span>              meta: {</span></span>
+<span class="line"><span>                title: t('router.menu111')</span></span>
+<span class="line"><span>              }</span></span>
+<span class="line"><span>            }</span></span>
+<span class="line"><span>          ]</span></span>
+<span class="line"><span>        },</span></span>
+<span class="line"><span>        {</span></span>
+<span class="line"><span>          path: 'menu1-2',</span></span>
+<span class="line"><span>          name: 'Menu12',</span></span>
+<span class="line"><span>          component: () =&gt; import('@/views/Level/Menu12.vue'),</span></span>
+<span class="line"><span>          meta: {</span></span>
+<span class="line"><span>            title: t('router.menu12')</span></span>
+<span class="line"><span>          }</span></span>
+<span class="line"><span>        }</span></span>
+<span class="line"><span>      ]</span></span>
+<span class="line"><span>    },</span></span>
+<span class="line"><span>    {</span></span>
+<span class="line"><span>      path: 'menu2',</span></span>
+<span class="line"><span>      name: 'Menu2Demo',</span></span>
+<span class="line"><span>      component: () =&gt; import('@/views/Level/Menu2.vue'),</span></span>
+<span class="line"><span>      meta: {</span></span>
+<span class="line"><span>        title: t('router.menu2')</span></span>
+<span class="line"><span>      }</span></span>
+<span class="line"><span>    }</span></span>
+<span class="line"><span>  ]</span></span>
+<span class="line"><span>}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>1.2 外链示例</h3>
+<p>只需要将 path 设置为需要跳转的 HTTP 地址即可。</p>
+<div class="language-" data-ext="" data-title=""><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span>{</span></span>
+<span class="line"><span>  path: '/external-link',</span></span>
+<span class="line"><span>  component: Layout,</span></span>
+<span class="line"><span>  meta: {</span></span>
+<span class="line"><span>    name: 'ExternalLink'</span></span>
+<span class="line"><span>  },</span></span>
+<span class="line"><span>  children: [</span></span>
+<span class="line"><span>    {</span></span>
+<span class="line"><span>      path: 'https://www.iocoder.cn',</span></span>
+<span class="line"><span>      meta: { name: 'Link', title: '芋道源码' }</span></span>
+<span class="line"><span>    }</span></span>
+<span class="line"><span>  ]</span></span>
+<span class="line"><span>}</span></span></code></pre>
+</div><p><a href="https://doc.iocoder.cn/vue3/route/" target="_blank" rel="noopener noreferrer">路由模块在线文档</a></p>
+]]></content:encoded>
     </item>
     <item>
       <title>Icon 图标</title>
@@ -6162,13 +6310,14 @@
       <enclosure url="https://doc.iocoder.cn/img/%E9%82%AE%E4%BB%B6%E9%85%8D%E7%BD%AE/%E6%BC%94%E7%A4%BA-%E9%82%AE%E7%AE%B1%E8%B4%A6%E5%8F%B7.png" type="image/png"/>
     </item>
     <item>
-      <title></title>
+      <title>站内信</title>
       <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</link>
       <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml"></source>
-      <description>本章节，介绍项目的站内信功能。它在管理后台有三个菜单，分别是： ① 站内信模版：管理站内信的内容模版 站内信模版站内信模版 ② 站内信管理：查看站内信的发送记录 站内信管理站内信管理 ③ 我的站内信：查看发送给我的站内信 我的站内信我的站内信 #1. 表结构 表结构表结构 #2. 实现代码 前端代码：views/system/notify(opens ...</description>
+      <source url="https://springg.us.kg/rss.xml">站内信</source>
+      <description>站内信 本章节，介绍项目的站内信功能。它在管理后台有三个菜单，分别是： ① 站内信模版：管理站内信的内容模版 站内信模版站内信模版 ② 站内信管理：查看站内信的发送记录 站内信管理站内信管理 ③ 我的站内信：查看发送给我的站内信 我的站内信我的站内信 #1. 表结构 表结构表结构 #2. 实现代码 前端代码：views/system/notify(op...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本章节，介绍项目的站内信功能。它在管理后台有三个菜单，分别是：</p>
+      <content:encoded><![CDATA[
+<p>本章节，介绍项目的站内信功能。它在管理后台有三个菜单，分别是：</p>
 <p><strong>① 站内信模版：管理站内信的内容模版</strong></p>
 <figure><img src="https://doc.iocoder.cn/img/站内信配置/演示-站内信模版.png" alt="站内信模版" tabindex="0" loading="lazy"><figcaption>站内信模版</figcaption></figure>
 <p><strong>② 站内信管理：查看站内信的发送记录</strong></p>
@@ -7530,518 +7679,6 @@
 <p><a href="https://pdai.tech/md/arch/arch-x-view.html" target="_blank" rel="noopener noreferrer">架构 - 理解构架的视角</a></p>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944627.png" type="image/png"/>
-    </item>
-    <item>
-      <title>架构之高可用：容灾备份,故障转移</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-y-backup.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-y-backup.html</guid>
-      <source url="https://springg.us.kg/rss.xml">架构之高可用：容灾备份,故障转移</source>
-      <description>架构之高可用：容灾备份,故障转移 容灾技术是系统的高可用性技术的一个组成部分，容灾系统更加强调处理外界环境对系统的影响，特别是灾难性事件对整个IT节点的影响，提供节点级别的系统恢复功能。故障转移（failover），即当活动的服务或应用意外终止时，快速启用冗余或备用的服务器、系统、硬件或者网络接替它们工作。故障恢复是在计划内或计划外中断解决后切换回主站...</description>
-      <category>架构</category>
-      <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
-      <content:encoded><![CDATA[
-<blockquote>
-<p>容灾技术是系统的高可用性技术的一个组成部分，容灾系统更加强调处理外界环境对系统的影响，特别是灾难性事件对整个IT节点的影响，提供节点级别的系统恢复功能。故障转移（failover），即当活动的服务或应用意外终止时，快速启用<strong>冗余</strong>或备用的服务器、系统、硬件或者网络接替它们工作。故障恢复是在计划内或计划外中断解决后<strong>切换回主站点</strong>的过程。</p>
-</blockquote>
-<h2>1. 什么是容灾和备份？</h2>
-<blockquote>
-<p>容灾技术是系统的高可用性技术的一个组成部分，容灾系统更加强调处理外界环境对系统的影响，特别是灾难性事件对整个IT节点的影响，提供节点级别的系统恢复功能。</p>
-</blockquote>
-<p>容灾备份实际上是两个概念:</p>
-<ul>
-<li><strong>容灾</strong>是为了在遭遇灾害时能保证信息系统能正常运行，帮助企业实现业务连续性的目标；</li>
-<li><strong>备份</strong>是为了应对灾难来临时造成的数据丢失问题。</li>
-</ul>
-<p>在容灾备份一体化产品出现之前，容灾系统与备份系统是独立的。容灾备份产品的最终目标是帮助企业应对人为误操作、软件错误、病毒入侵等“软”性灾害以及硬件故障、自然灾害等“硬”性灾害。</p>
-<h3>1.1 容灾的分类</h3>
-<p>从其对系统的保护程度来分，可以将容灾系统分为:</p>
-<ul>
-<li><strong>数据级容灾</strong>是指通过建立异地容灾中心，做数据的远程备份，在灾难发生之后要确保原有的数据不会丢失或者遭到破坏，但在数据级容灾这个级别，发生灾难时应用是会中断的。在数据级容灾方式下，所建立的异地容灾中心可以简单地把它理解成一个远程的数据备份中心。数据级容灾的恢复时间比较长，但是相比其他容灾级别来讲它的费用比较低，而且构建实施也相对简单。</li>
-<li><strong>应用级容灾</strong>是在数据级容灾的基础之上，在备份站点同样构建一套相同的应用系统，通过同步或异步复制技术，这样可以保证关键应用在允许的时间范围内恢复运行，尽可能减少灾难带来的损失，让用户基本感受不到灾难的发生，这样就使系统所提供的服务是完整的、可靠的和安全的。应用级容灾生产中心和异地灾备中心之间的数据传输是采用异类的广域网传输方式；同时应用级容灾系统需要通过更多的软件来实现，可以使多种应用在灾难发生时可以进行快速切换，确保业务的连续性。</li>
-<li><strong>业务级容灾</strong>是全业务的灾备，除了必要的IT相关技术，还要求具备全部的基础设施。其大部分内容是非IT系统（如电话、办公地点等），当大灾难发生后，原有的办公场所都会受到破坏，除了数据和应用的恢复，更需要一个备份的工作场所能够正常的开展业务。</li>
-</ul>
-<h3>1.2 容灾的技术指标</h3>
-<blockquote>
-<p>主要有RPO（数据恢复点目标）和 RTO（恢复时间目标）, 从客户的角度而言就是RPO需要为0（没有数据丢失），RTO越接近0越好（恢复时间越短越好）。</p>
-</blockquote>
-<p><strong>RPO（Recovery Point Objective）</strong>：即数据恢复点目标，主要指的是业务系统所能容忍的数据丢失量，指灾难发生后，从IT系统宕机导致业务停顿之时开始，到IT系统恢复至可以支持各部门运作、恢复运营之时，此两点之间的时间段称为RTO，广道容灾备份系统RTO达到分钟级。</p>
-<p><strong>RTO（Recovery Time Objective）</strong>：即恢复时间目标，主要指的是所能容忍的业务停止服务的最长时间，也就是从灾难发生到业务系统恢复服务功能所需要的最短时间周期。</p>
-<p>指从系统和应用数据而言，要实现能够恢复至可以支持各部门业务运作，系统及生产数据应恢复到怎样的更新程度，这种更新程度可以是上一周的备份数据，也可以是上一次交易的实时数据。</p>
-<p>RPO针对的是数据丢失，而RTO针对的是服务丢失，二者没有必然的关联性。RTO和RPO的确定必须在进行风险分析和业务影响分析后根据不同的业务需求确定。对于不同企业的同一种业务，RTO和RPO的需求也会有所不同。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944215.png" alt="image-20220702220035271" tabindex="0" loading="lazy"><figcaption>image-20220702220035271</figcaption></figure>
-<h3>1.3 容灾和容错的区别</h3>
-<blockquote>
-<p>例子中的图片来源于<a href="http://www.pbenson.net/2014/02/the-difference-between-fault-tolerance-high-availability-disaster-recovery/" target="_blank" rel="noopener noreferrer">这里</a>，能够非常好的帮助你理解。</p>
-</blockquote>
-<ul>
-<li>
-<p><strong>容灾（Disaster Tolerance）</strong>：就是在上述的灾难发生时，在保证生产系统的数据尽量少丢失的情况下，保持生存系统的业务不间断地运行。容灾通常是通过冗余方式来实现的。</p>
-<p>举例：飞机上有两个发动机，一个是主发动机，另外一个是备用发动机，主发动机坏了以后，立马切换到备用的发动机。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944260.png" alt="image-20220702220141592" tabindex="0" loading="lazy"><figcaption>image-20220702220141592</figcaption></figure>
-</li>
-<li>
-<p><strong>容错（fault tolerance）</strong>: 发生故障时，系统还能继续运行。容错的目的是，发生故障时，系统的运行水平可能有所下降，但是依然可用，不会完全失败。</p>
-<p>举例：飞机有四个引擎，如果一个引擎坏了，剩下三个引擎，还能继续飞，这就是"容错"。同样的，汽车的一个轮子扎破了，剩下三个轮子，也还是勉强能行驶。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944285.png" alt="image-20220702220248718" tabindex="0" loading="lazy"><figcaption>image-20220702220248718</figcaption></figure>
-</li>
-</ul>
-<h3>1.4 容灾备份的等级</h3>
-<blockquote>
-<p>国际标准SHARE 78 对容灾系统的定义有七个层次：从最简单的仅在本地进行磁带备份，到将备份的磁带存储在异地，再到建立应用系统实时切换的异地备份系统，恢复时间也可以从几天到小时级到分钟级、秒级或零数据丢失等。目前针对这七个层次，都有相应的容灾方案，所以，用户在选择容灾方案时应重点区分它们各自的特点和适用范围，结合自己对容灾系统的要求判断选择哪个层次的方案。</p>
-</blockquote>
-<ul>
-<li><strong>0级：无异地备份</strong></li>
-</ul>
-<p>0等级容灾方案数据仅在本地进行备份，没有在异地备份数据，未制定灾难恢复计划。这种方式是成本最低的灾难恢复解决方案，但不具备真正灾难恢复能力。</p>
-<p>在这种容灾方案中，最常用的是备份管理软件加上磁带机，可以是手工加载磁带机或自动加载磁带机。它是所有容灾方案的基础，从个人用户到企业级用户都广泛采用了这种方案。其特点是用户投资较少，技术实现简单。缺点是一旦本地发生毁灭性灾难，将丢失全部的本地备份数据，业务无法恢复。</p>
-<ul>
-<li><strong>1级：实现异地备份</strong></li>
-</ul>
-<p>第1级容灾方案是将关键数据备份到本地磁带介质上，然后送往异地保存，但异地没有可用的备份中心、备份数据处理系统和备份网络通信系统，未制定灾难恢复计划。灾难发生后，使用新的主机，利用异地数据备份介质（磁带）将数据恢复起来。</p>
-<p>这种方案成本较低，运用本地备份管理软件，可以在本地发生毁灭性灾难后，恢复从异地运送过来的备份数据到本地，进行业务恢复。但难以管理，即很难知道什么数据在什么地方，恢复时间长短依赖于何时硬件平台能够被提供和准备好。以前被许多进行关键业务生产的大企业所广泛采用，作为异地容灾的手段。目前，这一等级方案在许多中小网站和中小企业用户中采用较多。对于要求快速进行业务恢复和海量数据恢复的用户，这种方案是不能够被接受的。</p>
-<ul>
-<li><strong>2级：热备份站点备份</strong></li>
-</ul>
-<p>第2级容灾方案是将关键数据进行备份并存放到异地，制定有相应灾难恢复计划，具有热备份能力的站点灾难恢复。一旦发生灾难，利用热备份主机系统将数据恢复。它与第1级容灾方案的区别在于异地有一个热备份站点，该站点有主机系统，平时利用异地的备份管理软件将运送到异地的数据备份介质（磁带）上的数据备份到主机系统。当灾难发生时可以快速接管应用，恢复生产。</p>
-<p>由于有了热备中心，用户投资会增加，相应的管理人员要增加。技术实现简单，利用异地的热备份系统，可以在本地发生毁灭性灾难后，快速进行业务恢复。但这种容灾方案由于备份介质是采用交通运输方式送往异地，异地热备中心保存的数据是上一次备份的数据，可能会有几天甚至几周的数据丢失。这对于关键数据的容灾是不能容忍的。</p>
-<ul>
-<li><strong>3级：在线数据恢复</strong></li>
-</ul>
-<p>第3级容灾方案是通过网络将关键数据进行备份并存放至异地，制定有相应灾难恢复计划，有备份中心，并配备部分数据处理系统及网络通信系统。该等级方案特点是用电子数据传输取代交通工具传输备份数据，从而提高了灾难恢复的速度。利用异地的备份管理软件将通过网络传送到异地的数据备份到主机系统。一旦灾难发生，需要的关键数据通过网络可迅速恢复，通过网络切换，关键应用恢复时间可降低到一天或小时级。这一等级方案由于备份站点要保持持续运行，对网络的要求较高，因此成本相应有所增加。</p>
-<ul>
-<li><strong>4级：定时数据备份</strong></li>
-</ul>
-<p>第4级容灾方案是在第3级容灾方案的基础上，利用备份管理软件自动通过通信网络将部分关键数据定时备份至异地，并制定相应的灾难恢复计划。一旦灾难发生，利用备份中心已有资源及异地备份数据恢复关键业务系统运行。</p>
-<p>这一等级方案特点是备份数据是采用自动化的备份管理软件备份到异地，异地热备中心保存的数据是定时备份的数据，根据备份策略的不同，数据的丢失与恢复时间达到天或小时级。由于对备份管理软件设备和网络设备的要求较高，因此投入成本也会增加。但由于该级别备份的特点，业务恢复时间和数据的丢失量还不能满足关键行业对关键数据容灾的要求。</p>
-<ul>
-<li><strong>5级：实时数据备份</strong></li>
-</ul>
-<p>第5级容灾方案在前面几个级别的基础上使用了硬件的镜像技术和软件的数据复制技术，也就是说，可以实现在应用站点与备份站点的数据都被更新。数据在两个站点之间相互镜像，由远程异步提交来同步，因为关键应用使用了双重在线存储，所以在灾难发生时，仅仅很小部分的数据被丢失，恢复的时间被降低到了分钟级或秒级。由于对存储系统和数据复制软件的要求较高，所需成本也大大增加。</p>
-<p>这一等级的方案由于既能保证不影响当前交易的进行，又能实时复制交易产生的数据到异地，所以这一层次的方案是目前应用最广泛的一类，正因为如此，许多厂商都有基于自己产品的容灾解决方案。如存储厂商EMC等推出的基于智能存储服务器的数据远程拷贝；系统复制软件提供商VERITAS等提供的基于系统软件的数据远程复制；数据库厂商Oracle和Sybase提供的数据库复制方案等。但这些方案有一个不足之处就是异地的备份数据是处于备用（Standby）备份状态而不是实时可用的数据，这样灾难发生后需要一定时间来进行业务恢复。更为理想的应该是备份站点不仅仅是一个分离的备份系统，而且还处于活动状态，能够提供生产应用服务，所以可以提供快速的业务接管，而备份数据则可以双向传输，数据的丢失与恢复时间达到分钟甚至秒级。据了解，目前DSG公司的RealSync全局复制软件能够提供这一功能。</p>
-<ul>
-<li><strong>6级：零数据丢失</strong></li>
-</ul>
-<p>第6级容灾方案是灾难恢复中最昂贵的方式，也是速度最快的恢复方式，它是灾难恢复的最高级别，利用专用的存储网络将关键数据同步镜像至备份中心，数据不仅在本地进行确认，而且需要在异地（备份）进行确认。因为，数据是镜像地写到两个站点，所以灾难发生时异地容灾系统保留了全部的数据，实现零数据丢失。</p>
-<p>这一方案在本地和远程的所有数据被更新的同时，利用了双重在线存储和完全的网络切换能力，不仅保证数据的完全一致性，而且存储和网络等环境具备了应用的自动切换能力。一旦发生灾难，备份站点不仅有全部的数据，而且应用可以自动接管，实现零数据丢失的备份。通常在这两个系统中的光纤设备连接中还提供冗余通道，以备工作通道出现故障时及时接替工作，当然由于对存储系统和存储系统专用网络的要求很高，用户的投资巨大。采取这种容灾方式的用户主要是资金实力较为雄厚的大型企业和电信级企业。但在实际应用过程中，由于完全同步的方式对生产系统的运行效率会产生很大影响，所以适用于生产交易较少或非实时交易的关键数据系统，目前采用该级别容灾方案的用户还很少。</p>
-<h2>2. 容灾备份的解决方案</h2>
-<blockquote>
-<p>阿里云的容灾备份解决方案为例。</p>
-</blockquote>
-<h3>2.1 ECS的容灾备份</h3>
-<blockquote>
-<p>来源于阿里云<a href="https://help.aliyun.com/document_detail/98198.html?spm=5176.22414175.sslink.10.473f5c2de0EUTt" target="_blank" rel="noopener noreferrer">官方文档</a></p>
-</blockquote>
-<ul>
-<li><strong>备份恢复</strong></li>
-</ul>
-<p>阿里云ECS可通过<strong>快照</strong>与<strong>镜像</strong>对系统盘、数据盘进行备份。如果存储在磁盘上的数据本身就是错误的数据，例如由于应用错误导致的数据错误，或者黑客利用应用漏洞进行恶意读写，此时就可以使用快照服务将磁盘上的数据恢复到期望的状态。另外ECS可通过镜像重新初始化磁盘或使用自定义镜像新购ECS实例。</p>
-<ul>
-<li><strong>容灾应用</strong></li>
-</ul>
-<p>ECS可以从架构上实现容灾场景下的应用。例如，在应用前端购买SLB产品，后端相同应用部署至少两台ECS服务器，或者是使用阿里云的弹性伸缩技术，根据自定义ECS自身资源的使用规则进行弹性扩容。这样即便其中一台ECS服务器故障或者资源利用超负荷，也不会使服务对外终止，从而实现容灾场景下的应用。下图以同城两可用区机房部署ECS集群为例，所有通信均在阿里云千兆内网中完成，响应快速并减少了公网流量费用：</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944305.png" alt="image-20220702220929150" tabindex="0" loading="lazy"><figcaption>image-20220702220929150</figcaption></figure>
-<ol>
-<li><strong>负载均衡SLB</strong>：设备侧通过多可用区级别SLB做首层流量接入，用户流量被分发至两个及以上的可用区机房，机房内均部署ECS集群。</li>
-<li><strong>ECS集群</strong>：可用区机房部署的ECS节点是对等的，单节点故障不影响数据层应用和服务器管控功能。发生故障后系统会自动热迁移，另外的ECS节点可以持续提供业务访问，防止可能的单点故障或者热迁移失败导致的业务访问中断。热迁移失败后通过系统事件获知故障信息，您可以及时部署新节点。</li>
-<li><strong>数据层</strong>：在地域级别部署对象存储，不同可用区机房的ECS节点可以直接读取文件信息。若是数据库应用，使用多可用区ApsaraDB for RDS服务做承载，主节点支持多可用区读写，与应用层流量来源无冲突关系。同时，备节点支持多可用区读能力，防止主节点故障时，ECS无法读取数据。</li>
-</ol>
-<h3>2.2 同城容灾</h3>
-<blockquote>
-<p>来源于阿里云<a href="https://help.aliyun.com/document_detail/419804.html?spm=a2c4g.26937906.0.0.763f292cjWILT6" target="_blank" rel="noopener noreferrer">官方文档</a></p>
-</blockquote>
-<p><strong>同城容灾</strong>指应用服务部署是<strong>多机房、单地域</strong>时，当其中一机房出现故障时，系统可实现业务7*24小时稳定运行，即使单机房故障也不影响业务的可持续性，保障用户访问连续不间断。</p>
-<p><strong>同城双活容灾</strong>架构，是指在同城建立两个可独立承担关键系统运行的数据中心，双中心具备基本等同的业务处理能力并通过高速链路实时同步数据，日常情况下可同时分担业务及管理系统的运行，并可切换运行；灾难情况下可在基本不丢失数据的情况下进行灾备应急切换，保持业务连续运行。多数企业为了兼顾成本与高可用性问题，会优先选择同城双活的部署方式。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944332.png" alt="image-20220702221131412.png" tabindex="0" loading="lazy"><figcaption>image-20220702221131412.png</figcaption></figure>
-<h3>2.3 异地容灾(两地三中心)</h3>
-<blockquote>
-<p>来源于阿里云<a href="https://help.aliyun.com/practice_detail/419526?spm=a2c4g.26937898.0.0.75ed6fc5iInM61" target="_blank" rel="noopener noreferrer">官方文档</a></p>
-</blockquote>
-<p><strong>异地容灾</strong>是指应用服务部署在不同地域时，当其中一地出现故障时，系统可以将出现故障地域的用户访问流量，调度至异地灾备中心，保障用户访问连续不间断。</p>
-<p><strong>两地三中心容灾</strong>架构，是指在同城双中心的基础上，在异地的城市建立一个备份的灾备中心，用于双中心的数据备份，当双中心出现自然灾害等原因而发生故障时，异地灾备中心可以用备份数据进行业务的恢复。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944355.png" alt="image-20220702221230747" tabindex="0" loading="lazy"><figcaption>image-20220702221230747</figcaption></figure>
-<h2>3. 故障转移和恢复</h2>
-<h3>3.1 什么是故障转移</h3>
-<blockquote>
-<p>故障转移（failover），即当活动的服务或应用意外终止时，快速启用冗余或备用的服务器、系统、硬件或者网络接替它们工作。 故障转移(failover)与交换转移操作基本相同，只是故障转移通常是<strong>自动完成</strong>的，没有警告提醒手动完成，而交换转移需要手动进行。</p>
-</blockquote>
-<p>要使故障转移正常工作，必须有一个数据备份裸机服务器或虚拟机充当恢复站点系统，以便在发生故障时替换主站点。由于故障转移是灾难恢复中必不可少的步骤，因此数据备份系统本身必须不受故障影响。</p>
-<p>需要持续可用性的系统需要整体故障转移和灾难恢复。在服务器级别，数据备份环境跟踪主服务器的“脉冲”，并在检测到中断时执行自动故障转移。</p>
-<h3>3.2 如何进行故障转移</h3>
-<blockquote>
-<p>有两种方法可以设置故障转移系统：<strong>主动-主动</strong>和<strong>主动-被动</strong>（或主动-备用）配置。两种设置都需要至少两个节点（服务器或虚拟机）才能正常工作。</p>
-</blockquote>
-<p>在<strong>主动-主动</strong>设置中，多个节点同时运行。这允许他们分担工作量并防止任何一个节点过载。如果一个节点停止工作，它的工作负载将被其他活动节点占用，直到它重新激活。</p>
-<p><strong>主动-被动</strong>（主动-备用）设置还包括多个节点，但并非所有节点都同时处于活动状态。一旦主动节点停止工作，被动节点就会被激活并充当故障转移节点。当主节点再次运行时，数据备份节点将操作切换回主节点并再次变为被动状态。</p>
-<p>无论采用哪种故障转移方法，两种配置都要求每个节点具有相同的配置。这确保了在站点之间切换时的一致性和稳定性。</p>
-<h3>3.3 什么是故障恢复</h3>
-<blockquote>
-<p>故障恢复是在计划内或计划外中断解决后<strong>切换回主站点</strong>的过程。故障恢复通常在故障转移之后作为灾难恢复计划的一部分。</p>
-</blockquote>
-<p>故障恢复不是完成故障转移的唯一方法。使用虚拟机时，您可以执行永久故障恢复，使数据备份虚拟机成为新的主站点。</p>
-<h3>3.4 如何进行故障恢复</h3>
-<p>成功执行故障回复需要一些准备。在切换回主站点之前，请考虑以下步骤：</p>
-<ol>
-<li>检查与主站点的连接的质量和网络带宽。</li>
-<li>检查备份站点上的所有数据是否存在潜在错误。这对于关键文件和文档尤其重要。</li>
-<li>在开始故障恢复之前彻底测试所有主系统。</li>
-<li>准备并实施故障恢复计划，以最大限度地减少停机时间和用户不便。</li>
-</ol>
-<h2>参考文章</h2>
-<p><a href="https://pdai.tech/md/arch/arch-y-backup.html" target="_blank" rel="noopener noreferrer"><strong>架构之高可用：容灾备份,故障转移</strong></a></p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300944215.png" type="image/png"/>
-    </item>
-    <item>
-      <title>系统高并发-缓存</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-y-cache.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-y-cache.html</guid>
-      <source url="https://springg.us.kg/rss.xml">系统高并发-缓存</source>
-      <description>系统高并发-缓存 高并发实现的三板斧：缓存，限流和降级。缓存在高并发系统中有者极其广阔的应用，需要重点掌握，本文重点介绍下缓存及其实现。 1. 缓存简介 随着互联网的普及，内容信息越来越复杂，用户数和访问量越来越大，我们的应用需要支撑更多的并发量，同时我们的应用服务器和数据库服务器所做的计算也越来越多。但是往往我们的应用服务器资源是有限的，且技术变革是...</description>
-      <category>架构</category>
-      <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
-      <content:encoded><![CDATA[
-<blockquote>
-<p><strong>高并发实现的三板斧：缓存，限流和降级</strong>。缓存在高并发系统中有者极其广阔的应用，需要重点掌握，本文重点介绍下缓存及其实现。</p>
-</blockquote>
-<h2>1. 缓存简介</h2>
-<p>随着互联网的普及，内容信息越来越复杂，用户数和访问量越来越大，我们的应用需要支撑更多的并发量，同时我们的应用服务器和数据库服务器所做的计算也越来越多。但是往往我们的应用服务器资源是有限的，且技术变革是缓慢的，数据库每秒能接受的请求次数也是有限的（或者文件的读写也是有限的），如何能够有效利用有限的资源来提供尽可能大的吞吐量? 一个有效的办法就是引入缓存，打破标准流程，每个环节中请求可以从缓存中直接获取目标数据并返回，从而减少计算量，有效提升响应速度，让有限的资源服务更多的用户。</p>
-<p>如图1所示，缓存的使用可以出现在1～4的各个环节中，每个环节的缓存方案与使用各有特点。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943838.png" alt="image-20220629215619151.png" loading="lazy"><br>
-图1 互联网应用一般流程</p>
-<h3>1.1 关键词-命中率</h3>
-<ul>
-<li><strong>命中率 = 命中数 / (命中数 + 没有命中数)</strong></li>
-</ul>
-<h4>1.1.1 影响缓存命中率的因素：</h4>
-<ol>
-<li>
-<p>业务场景和业务需求</p>
-<p>缓存通常适合读多写少的业务场景，反之的使用意义并不多，命中率会很低。业务需求也决定了实时性的要求，直接影响到过期时间和更新策略，实时性要求越低越适合缓存。</p>
-</li>
-<li>
-<p>缓存的设计（策略和粒度）</p>
-<p>通常情况下缓存的粒度越小，命中率越高。比如说缓存一个用户信息的对象，只有当这个用户的信息发生变化的时候才更新缓存，而如果是缓存一个集合的话，集合中任何一个对象发生变化都要重新更新缓存。</p>
-<p>当数据发生变化时，直接更新缓存的值比移除缓存或者让缓存过期它的命中率更高，不过这个时候系统的复杂度过高。</p>
-</li>
-<li>
-<p>缓存的容量和基础设施</p>
-<p>缓存的容量有限就会容易引起缓存的失效和被淘汰。目前多数的缓存框架和中间件都采用LRU这个算法。同时采用缓存的技术选型也是至关重要的，比如采用本地内置的应用缓存，就比较容易出现单机瓶颈。而采用分布式缓存就更加容易扩展。所以需要做好系统容量规划，系统是否可扩展。</p>
-</li>
-</ol>
-<h4>1.1.2 <strong>最大空间</strong></h4>
-<p>缓存最大空间一旦缓存中元素数量超过这个值（或者缓存数据所占空间超过其最大支持空间），那么将会触发缓存启动清空策略根据不同的场景合理的设置最大元素值往往可以一定程度上提高缓存的命中率，从而更有效的时候缓存。</p>
-<h3>1.2 缓存介质</h3>
-<p>虽然从硬件介质上来看，无非就是内存和硬盘两种，但从技术上，可以分成内存、硬盘文件、数据库。</p>
-<ul>
-<li>内存：将缓存存储于内存中是最快的选择，无需额外的I/O开销，但是内存的缺点是没有持久化落地物理磁盘，一旦应用异常break down而重新启动，数据很难或者无法复原。</li>
-<li>硬盘：一般来说，很多缓存框架会结合使用内存和硬盘，在内存分配空间满了或是在异常的情况下，可以被动或主动的将内存空间数据持久化到硬盘中，达到释放空间或备份数据的目的。</li>
-<li>数据库：前面有提到，增加缓存的策略的目的之一就是为了减少数据库的I/O压力。现在使用数据库做缓存介质是不是又回到了老问题上了? 其实，数据库也有很多种类型，像那些不支持SQL，只是简单的key-value存储结构的特殊数据库（如BerkeleyDB和Redis），响应速度和吞吐量都远远高于我们常用的关系型数据库等。</li>
-</ul>
-<h3>1.3 缓存淘汰算法</h3>
-<p>FIFO/LFU/LRU/过期时间/随机</p>
-<ul>
-<li>FIFO：最先进入缓存的数据，在缓存空间不足时被清除，为了保证最新数据可用，保证实时性</li>
-<li>LFU(Least Frequently Used)：最近最不常用，<strong>基于访问次数</strong>，<strong>去除命中次数最少的元素</strong>，保证高频数据有效性</li>
-<li>LRU(Least Recently Used)：最近最少使用，<strong>基于访问时间</strong>，在被访问过的元素中<strong>去除最久未使用的元素</strong>，保证热点数据的有效性</li>
-</ul>
-<h3>1.4 哪里用了缓存</h3>
-<p>一切地方。例如：</p>
-<ul>
-<li>我们从硬盘读数据的时候，其实操作系统还额外把附近的数据都读到了内存里</li>
-<li>例如，CPU在从内存里读数据的时候，也额外读了许多数据到各级cache里</li>
-<li>各个输入输出之间用buffer保存一批数据统一发送和接受，而不是一个byte一个byte的处理</li>
-</ul>
-<p>上面这是系统层面，在软件系统设计层面，很多地方也用了缓存：</p>
-<ul>
-<li>浏览器会缓存页面的元素，这样在重复访问网页时，就避开了要从互联网上下载数据（例如大图片）</li>
-<li>web服务会把静态的东西提前部署在CDN上，这也是一种缓存</li>
-<li>数据库会缓存查询，所以同一条查询第二次就是要比第一次快</li>
-<li>内存数据库（如redis）选择把大量数据存在内存而非硬盘里，这可以看作是一个大型缓存，只是把整个数据库缓存了起来</li>
-<li>应用程序把最近几次计算的结果放在本地内存里，如果下次到来的请求还是原请求，就跳过计算直接返回结果 ...</li>
-</ul>
-<h2>2. 缓存应用和实现</h2>
-<p>缓存有各类特征，而且有不同介质的区别，那么实际工程中我们怎么去对缓存分类呢? 在目前的应用服务框架中，比较常见的，是根据缓存与应用的藕合度，分为local cache（本地缓存）和remote cache（分布式缓存）：</p>
-<ul>
-<li><strong>本地缓存</strong>：指的是在应用中的缓存组件，其最大的优点是应用和cache是在同一个进程内部，请求缓存非常快速，没有过多的网络开销等，在单应用不需要集群支持或者集群情况下各节点无需互相通知的场景下使用本地缓存较合适；同时，它的缺点也是应为缓存跟应用程序耦合，多个应用程序无法直接的共享缓存，各应用或集群的各节点都需要维护自己的单独缓存，对内存是一种浪费。</li>
-<li><strong>分布式缓存</strong>：指的是与应用分离的缓存组件或服务，其最大的优点是自身就是一个独立的应用，与本地应用隔离，多个应用可直接的共享缓存。</li>
-</ul>
-<p>目前各种类型的缓存都活跃在成千上万的应用服务中，还没有一种缓存方案可以解决一切的业务场景或数据类型，我们需要根据自身的特殊场景和背景，选择最适合的缓存方案。缓存的使用是程序员、架构师的必备技能，好的程序员能根据数据类型、业务场景来准确判断使用何种类型的缓存，如何使用这种缓存，以最小的成本最快的效率达到最优的目的。</p>
-<h3>2.1 缓存实现-本地缓存</h3>
-<p>编程直接实现缓存 个别场景下，我们只需要简单的缓存数据的功能，而无需关注更多存取、清空策略等深入的特性时，直接编程实现缓存则是最便捷和高效的。</p>
-<h4>2.1.1 成员变量或局部变量实现</h4>
-<p>简单代码示例如下：</p>
-<div class="language-java line-numbers-mode" data-ext="java" data-title="java"><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> void</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> UseLocalCache</span><span style="color:#E06C75;--shiki-dark:#E06C75">(){</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">     //一个本地的缓存变量</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">     Map</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Object</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> localCacheStoreMap </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> HashMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Object</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">    List</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Object</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> infosList </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> this</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getInfoList</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    for</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Object</span><span style="color:#E06C75;--shiki-dark:#E06C75"> item</span><span style="color:#C678DD;--shiki-dark:#C678DD">:</span><span style="color:#E06C75;--shiki-dark:#E06C75">infosList){</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">        if</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">localCacheStoreMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">containsKey</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(item)</span><span style="color:#E06C75;--shiki-dark:#E06C75">){ </span><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//缓存命中 使用缓存数据</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">            // todo</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        } </span><span style="color:#C678DD;--shiki-dark:#C678DD">else</span><span style="color:#E06C75;--shiki-dark:#E06C75"> { </span><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">// 缓存未命中  IO获取数据，结果存入缓存</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            Object</span><span style="color:#E06C75;--shiki-dark:#E06C75"> valueObject </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> this</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getInfoFromDB</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            localCacheStoreMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">put</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">valueObject</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">toString</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(), valueObject);</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">}</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//示例</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">private</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> List</span><span style="color:#56B6C2;--shiki-dark:#56B6C2">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">Object</span><span style="color:#56B6C2;--shiki-dark:#56B6C2">&gt;</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> getInfoList</span><span style="color:#E06C75;--shiki-dark:#E06C75">(){</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    return</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> ArrayList</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Object</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">}</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//示例数据库IO获取</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">private</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Object</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> getInfoFromDB</span><span style="color:#E06C75;--shiki-dark:#E06C75">(){</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    return</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> Object</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>以局部变量map结构缓存部分业务数据，减少频繁的重复数据库I/O操作。缺点仅限于类的自身作用域内，类间无法共享缓存。</p>
-<h4>2.1.2 静态变量实现</h4>
-<p>最常用的单例实现静态资源缓存，代码示例如下：</p>
-<div class="language-java line-numbers-mode" data-ext="java" data-title="java"><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> class</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> CityUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> {</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    private</span><span style="color:#C678DD;--shiki-dark:#C678DD"> static</span><span style="color:#C678DD;--shiki-dark:#C678DD"> final</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> HttpClient</span><span style="color:#E06C75;--shiki-dark:#E06C75"> httpClient </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> ServerHolder</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">createClientWithPool</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span><span style="color:#E06C75;--shiki-dark:#E06C75"> </span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    private</span><span style="color:#C678DD;--shiki-dark:#C678DD"> static</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Map</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Integer</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> cityIdNameMap </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> HashMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Integer</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    private</span><span style="color:#C678DD;--shiki-dark:#C678DD"> static</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Map</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Integer</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> districtIdNameMap </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> HashMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Integer</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    static</span><span style="color:#E06C75;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">        HttpGet</span><span style="color:#E06C75;--shiki-dark:#E06C75"> get </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> HttpGet</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#98C379;--shiki-dark:#98C379">"http://gis-in.sankuai.com/api/location/city/all"</span><span style="color:#E06C75;--shiki-dark:#E06C75">)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">        BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">generateAuthAndDateHeader</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(get,</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">CLIENT_TO_REQUEST_MDC</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">SECRET_TO_REQUEST_MDC</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">        try</span><span style="color:#E06C75;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> resultStr </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> httpClient</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">execute</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(get, </span><span style="color:#C678DD;--shiki-dark:#C678DD">new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> BasicResponseHandler</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75"> resultJo </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75">(resultStr)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            JSONArray</span><span style="color:#E06C75;--shiki-dark:#E06C75"> dataJa </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> resultJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getJSONArray</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"data"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">            for</span><span style="color:#E06C75;--shiki-dark:#E06C75"> (</span><span style="color:#C678DD;--shiki-dark:#C678DD">int</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#D19A66;--shiki-dark:#D19A66"> 0</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> dataJa</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">length</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">++</span><span style="color:#E06C75;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75"> itemJo </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> dataJa</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getJSONObject</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(i);</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                cityIdNameMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">put</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">itemJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getInt</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"id"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">), </span><span style="color:#E5C07B;--shiki-dark:#E5C07B">itemJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getString</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"name"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">));</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">            }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        } </span><span style="color:#C678DD;--shiki-dark:#C678DD">catch</span><span style="color:#E06C75;--shiki-dark:#E06C75"> (</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Exception</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> e</span><span style="color:#E06C75;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">            throw</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> RuntimeException</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#98C379;--shiki-dark:#98C379">"Init City List Error!"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E06C75;--shiki-dark:#E06C75"> e)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    static</span><span style="color:#E06C75;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">        HttpGet</span><span style="color:#E06C75;--shiki-dark:#E06C75"> get </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> HttpGet</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#98C379;--shiki-dark:#98C379">"http://gis-in.sankuai.com/api/location/district/all"</span><span style="color:#E06C75;--shiki-dark:#E06C75">)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">        BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">generateAuthAndDateHeader</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(get,</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">CLIENT_TO_REQUEST_MDC</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                BaseAuthorizationUtils</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">SECRET_TO_REQUEST_MDC</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">        try</span><span style="color:#E06C75;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> resultStr </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> httpClient</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">execute</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(get, </span><span style="color:#C678DD;--shiki-dark:#C678DD">new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> BasicResponseHandler</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">());</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75"> resultJo </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75">(resultStr)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">            JSONArray</span><span style="color:#E06C75;--shiki-dark:#E06C75"> dataJa </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> resultJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getJSONArray</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"data"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">            for</span><span style="color:#E06C75;--shiki-dark:#E06C75"> (</span><span style="color:#C678DD;--shiki-dark:#C678DD">int</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#D19A66;--shiki-dark:#D19A66"> 0</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> dataJa</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">length</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span><span style="color:#E06C75;--shiki-dark:#E06C75"> i</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">++</span><span style="color:#E06C75;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                JSONObject</span><span style="color:#E06C75;--shiki-dark:#E06C75"> itemJo </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> dataJa</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getJSONObject</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(i);</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                districtIdNameMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">put</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">itemJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getInt</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"id"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">), </span><span style="color:#E5C07B;--shiki-dark:#E5C07B">itemJo</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">getString</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"name"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">));</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">            }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        } </span><span style="color:#C678DD;--shiki-dark:#C678DD">catch</span><span style="color:#E06C75;--shiki-dark:#E06C75"> (</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Exception</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> e</span><span style="color:#E06C75;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">            throw</span><span style="color:#C678DD;--shiki-dark:#C678DD"> new</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> RuntimeException</span><span style="color:#E06C75;--shiki-dark:#E06C75">(</span><span style="color:#98C379;--shiki-dark:#98C379">"Init District List Error!"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E06C75;--shiki-dark:#E06C75"> e)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">        }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">    }</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> static</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> getCityName</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#C678DD;--shiki-dark:#C678DD">int</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> cityId</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">      String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> name</span><span style="color:#56B6C2;--shiki-dark:#56B6C2"> =</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> cityIdNameMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">get</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(cityId);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">      if</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> (name </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">==</span><span style="color:#D19A66;--shiki-dark:#D19A66"> null</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">) {</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        name </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#98C379;--shiki-dark:#98C379"> "未知"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">      }</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">       return</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> name;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">     }</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">    public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> static</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> getDistrictName</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#C678DD;--shiki-dark:#C678DD">int</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> districtId</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">)</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">      String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> name</span><span style="color:#56B6C2;--shiki-dark:#56B6C2"> =</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> districtIdNameMap</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">get</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(districtId);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">       if</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> (name </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">==</span><span style="color:#D19A66;--shiki-dark:#D19A66"> null</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">) {</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">         name </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#98C379;--shiki-dark:#98C379"> "未知"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        }</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">       return</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF"> name;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">     }</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">   }</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">}</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>O2O业务中常用的城市基础基本信息判断，通过静态变量一次获取缓存内存中，减少频繁的I/O读取，静态变量实现类间可共享，进程内可共享，缓存的实时性稍差。</p>
-<p>为了解决本地缓存数据的实时性问题，目前大量使用的是结合ZooKeeper的自动发现机制，实时变更本地静态变量缓存：</p>
-<p>美团内部的基础配置组件MtConfig，采用的就是类似原理，使用静态变量缓存，结合ZooKeeper的统一管理，做到自动动态更新缓存，如图2所示。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943884.png" alt="image-20220629221854719" tabindex="0" loading="lazy"><figcaption>image-20220629221854719</figcaption></figure>
-<p>图2 Mtconfig实现图</p>
-<p>这类缓存实现，优点是能直接在heap区内读写，最快也最方便；缺点同样是受heap区域影响，缓存的数据量非常有限，同时缓存时间受GC影响。主要满足单机场景下的小数据量缓存需求，同时对缓存数据的变更无需太敏感感知，如上一般配置管理、基础静态数据等场景。</p>
-<h3>2.2 Ehcache</h3>
-<p>Ehcache是现在最流行的纯Java开源缓存框架，配置简单、结构清晰、功能强大，是一个非常轻量级的缓存实现，我们常用的Hibernate里面就集成了相关缓存功能。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943908.png" alt="image-20220629221951180" tabindex="0" loading="lazy"><figcaption>image-20220629221951180</figcaption></figure>
-<p>图3 Ehcache框架图</p>
-<p>从图3中我们可以了解到，Ehcache的核心定义主要包括：</p>
-<ul>
-<li>cache manager：缓存管理器，以前是只允许单例的，不过现在也可以多实例了。</li>
-<li>cache：缓存管理器内可以放置若干cache，存放数据的实质，所有cache都实现了Ehcache接口，这是一个真正使用的缓存实例；通过缓存管理器的模式，可以在单个应用中轻松隔离多个缓存实例，独立服务于不同业务场景需求，缓存数据物理隔离，同时需要时又可共享使用。</li>
-<li>element：单条缓存数据的组成单位。</li>
-<li>system of record（SOR）：可以取到真实数据的组件，可以是真正的业务逻辑、外部接口调用、存放真实数据的数据库等，缓存就是从SOR中读取或者写入到SOR中去的。</li>
-</ul>
-<p>在上层可以看到，整个Ehcache提供了对JSR、JMX等的标准支持，能够较好的兼容和移植，同时对各类对象有较完善的监控管理机制。它的缓存介质涵盖堆内存（heap）、堆外内存（BigMemory商用版本支持）和磁盘，各介质可独立设置属性和策略。Ehcache最初是独立的本地缓存框架组件，在后期的发展中，结合Terracotta服务阵列模型，可以支持分布式缓存集群，主要有RMI、JGroups、JMS和Cache Server等传播方式进行节点间通信，如图3的左侧部分描述。</p>
-<p>整体数据流转包括这样几类行为:</p>
-<ul>
-<li>Flush：缓存条目向低层次移动。</li>
-<li>Fault：从低层拷贝一个对象到高层。在获取缓存的过程中，某一层发现自己的该缓存条目已经失效，就触发了Fault行为。</li>
-<li>Eviction：把缓存条目除去。</li>
-<li>Expiration：失效状态。</li>
-<li>Pinning：强制缓存条目保持在某一层。</li>
-</ul>
-<p>图4反映了数据在各个层之间的流转，同时也体现了各层数据的一个生命周期。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943933.png" alt="image-20220629222018879.png" tabindex="0" loading="lazy"><figcaption>image-20220629222018879.png</figcaption></figure>
-<p>图4 缓存数据流转图（L1:本地内存层；L2:Terracotta服务节点层)</p>
-<p>Ehcache的配置使用如下：</p>
-<div class="language-xml line-numbers-mode" data-ext="xml" data-title="xml"><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">ehcache</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">&lt;!-- 指定一个文件目录，当Ehcache把数据写到硬盘上时，将把数据写到这个文件目录下 --&gt;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">diskStore</span><span style="color:#D19A66;--shiki-dark:#D19A66"> path</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"java.io.tmpdir"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">/&gt;</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">&lt;!-- 设定缓存的默认数据过期策略 --&gt;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">defaultCache</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        maxElementsInMemory</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"10000"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        eternal</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"false"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        overflowToDisk</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"true"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        timeToIdleSeconds</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"0"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        timeToLiveSeconds</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"0"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        diskPersistent</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"false"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">        diskExpiryThreadIntervalSeconds</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"120"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">/&gt;</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">&lt;!--  </span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    设定具体的命名缓存的数据过期策略</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    cache元素的属性：</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        name：缓存名称</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        maxElementsInMemory：内存中最大缓存对象数</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        maxElementsOnDisk：硬盘中最大缓存对象数，若是0表示无穷大</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        eternal：true表示对象永不过期，此时会忽略timeToIdleSeconds和timeToLiveSeconds属性，默认为false</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        overflowToDisk：true表示当内存缓存的对象数目达到了maxElementsInMemory界限后，会把溢出的对象写到硬盘缓存中。注意：如果缓存的对象要写入到硬盘中的话，则该对象必须实现了Serializable接口才行。</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        diskSpoolBufferSizeMB：磁盘缓存区大小，默认为30MB。每个Cache都应该有自己的一个缓存区。</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        diskPersistent：是否缓存虚拟机重启期数据</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        diskExpiryThreadIntervalSeconds：磁盘失效线程运行时间间隔，默认为120秒</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        timeToIdleSeconds： 设定允许对象处于空闲状态的最长时间，以秒为单位。当对象自从最近一次被访问后，如果处于空闲状态的时间超过了timeToIdleSeconds属性值，这个对象就会过期，EHCache将把它从缓存中清空。只有当eternal属性为false，该属性才有效。如果该属性值为0，则表示对象可以无限期地处于空闲状态</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        timeToLiveSeconds：设定对象允许存在于缓存中的最长时间，以秒为单位。当对象自从被存放到缓存中后，如果处于缓存中的时间超过了 timeToLiveSeconds属性值，这个对象就会过期，Ehcache将把它从缓存中清除。只有当eternal属性为false，该属性才有效。如果该属性值为0，则表示对象可以无限期地存在于缓存中。timeToLiveSeconds必须大于timeToIdleSeconds属性，才有意义</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">        memoryStoreEvictionPolicy：当达到maxElementsInMemory限制时，Ehcache将会根据指定的策略去清理内存。可选策略有：LRU（最近最少使用，默认策略）、FIFO（先进先出）、LFU（最少访问次数）。</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">--&gt;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">cache</span><span style="color:#D19A66;--shiki-dark:#D19A66"> name</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"CACHE1"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">       maxElementsInMemory</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"1000"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">       eternal</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"true"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">       overflowToDisk</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"true"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">/&gt;  </span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E06C75;--shiki-dark:#E06C75">cache</span><span style="color:#D19A66;--shiki-dark:#D19A66"> name</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"CACHE2"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">    maxElementsInMemory</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"1000"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">    eternal</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"false"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">    timeToIdleSeconds</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"200"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">    timeToLiveSeconds</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"4000"</span></span>
-<span class="line"><span style="color:#D19A66;--shiki-dark:#D19A66">    overflowToDisk</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">=</span><span style="color:#98C379;--shiki-dark:#98C379">"true"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">/&gt;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;/</span><span style="color:#E06C75;--shiki-dark:#E06C75">ehcache</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>整体上看，Ehcache的使用还是相对简单便捷的，提供了完整的各类API接口。需要注意的是，虽然Ehcache支持磁盘的持久化，但是由于存在两级缓存介质，在一级内存中的缓存，如果没有主动的刷入磁盘持久化的话，在应用异常down机等情形下，依然会出现缓存数据丢失，为此可以根据需要将缓存刷到磁盘，将缓存条目刷到磁盘的操作可以通过cache.flush()方法来执行，需要注意的是，对于对象的磁盘写入，前提是要将对象进行序列化。</p>
-<p>主要特性：</p>
-<ul>
-<li>快速，针对大型高并发系统场景，Ehcache的多线程机制有相应的优化改善。</li>
-<li>简单，很小的jar包，简单配置就可直接使用，单机场景下无需过多的其他服务依赖。</li>
-<li>支持多种的缓存策略，灵活。</li>
-<li>缓存数据有两级：内存和磁盘，与一般的本地内存缓存相比，有了磁盘的存储空间，将可以支持更大量的数据缓存需求。</li>
-<li>具有缓存和缓存管理器的侦听接口，能更简单方便的进行缓存实例的监控管理。</li>
-<li>支持多缓存管理器实例，以及一个实例的多个缓存区域。</li>
-</ul>
-<p>注意：Ehcache的超时设置主要是针对整个cache实例设置整体的超时策略，而没有较好的处理针对单独的key的个性的超时设置（有策略设置，但是比较复杂，就不描述了），因此，在使用中要注意过期失效的缓存元素无法被GC回收，时间越长缓存越多，内存占用也就越大，内存泄露的概率也越大。</p>
-<h3>2.3 Guava Cache</h3>
-<p>Guava Cache是Google开源的Java重用工具集库Guava里的一款缓存工具，其主要实现的缓存功能有：</p>
-<ul>
-<li>自动将entry节点加载进缓存结构中；</li>
-<li>当缓存的数据超过设置的最大值时，使用LRU算法移除；</li>
-<li>具备根据entry节点上次被访问或者写入时间计算它的过期机制；</li>
-<li>缓存的key被封装在WeakReference引用内；</li>
-<li>缓存的Value被封装在WeakReference或SoftReference引用内；</li>
-<li>统计缓存使用过程中命中率、异常率、未命中率等统计数据。</li>
-</ul>
-<p>Guava Cache的架构设计灵感来源于ConcurrentHashMap，我们前面也提到过，简单场景下可以自行编码通过hashmap来做少量数据的缓存，但是，如果结果可能随时间改变或者是希望存储的数据空间可控的话，自己实现这种数据结构还是有必要的。</p>
-<p>Guava Cache继承了ConcurrentHashMap的思路，使用多个segments方式的细粒度锁，在保证线程安全的同时，支持高并发场景需求。Cache类似于Map，它是存储键值对的集合，不同的是它还需要处理evict、expire、dynamic load等算法逻辑，需要一些额外信息来实现这些操作。对此，根据面向对象思想，需要做方法与数据的关联封装。如图5所示cache的内存数据模型，可以看到，使用ReferenceEntry接口来封装一个键值对，而用ValueReference来封装Value值，之所以用Reference命令，是因为Cache要支持WeakReference Key和SoftReference、WeakReference value。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943958.png" alt="image-20220629222205342" tabindex="0" loading="lazy"><figcaption>image-20220629222205342</figcaption></figure>
-<p>图5 Guava Cache数据结构图</p>
-<p><strong>ReferenceEntry</strong>是对一个键值对节点的抽象，它包含了key和值的ValueReference抽象类，Cache由多个Segment组成，而每个Segment包含一个ReferenceEntry数组，每个ReferenceEntry数组项都是一条ReferenceEntry链，且一个ReferenceEntry包含key、hash、valueReference、next字段。除了在ReferenceEntry数组项中组成的链，在一个Segment中，所有ReferenceEntry还组成access链（accessQueue）和write链（writeQueue）（后面会介绍链的作用）。ReferenceEntry可以是强引用类型的key，也可以WeakReference类型的key，为了减少内存使用量，还可以根据是否配置了expireAfterWrite、expireAfterAccess、maximumSize来决定是否需要write链和access链确定要创建的具体Reference：StrongEntry、StrongWriteEntry、StrongAccessEntry、StrongWriteAccessEntry等。</p>
-<p><strong>对于ValueReference</strong>，因为Cache支持强引用的Value、SoftReference Value以及WeakReference Value，因而它对应三个实现类：StrongValueReference、SoftValueReference、WeakValueReference。为了支持动态加载机制，它还有一个LoadingValueReference，在需要动态加载一个key的值时，先把该值封装在LoadingValueReference中，以表达该key对应的值已经在加载了，如果其他线程也要查询该key对应的值，就能得到该引用，并且等待改值加载完成，从而保证该值只被加载一次，在该值加载完成后，将LoadingValueReference替换成其他ValueReference类型。ValueReference对象中会保留对ReferenceEntry的引用，这是因为在Value因为WeakReference、SoftReference被回收时，需要使用其key将对应的项从Segment的table中移除。</p>
-<p><strong>WriteQueue和AccessQueue</strong> ：为了实现最近最少使用算法，Guava Cache在Segment中添加了两条链：write链（writeQueue）和access链（accessQueue），这两条链都是一个双向链表，通过ReferenceEntry中的previousInWriteQueue、nextInWriteQueue和previousInAccessQueue、nextInAccessQueue链接而成，但是以Queue的形式表达。WriteQueue和AccessQueue都是自定义了offer、add（直接调用offer）、remove、poll等操作的逻辑，对offer（add）操作，如果是新加的节点，则直接加入到该链的结尾，如果是已存在的节点，则将该节点链接的链尾；对remove操作，直接从该链中移除该节点；对poll操作，将头节点的下一个节点移除，并返回。</p>
-<p>了解了cache的整体数据结构后，再来看下针对缓存的相关操作就简单多了：</p>
-<ul>
-<li><strong>Segment中的evict清除策略操作</strong>，是在每一次调用操作的开始和结束时触发清理工作，这样比一般的缓存另起线程监控清理相比，可以减少开销，但如果长时间没有调用方法的话，会导致不能及时的清理释放内存空间的问题。evict主要处理四个Queue：1. keyReferenceQueue；2. valueReferenceQueue；3. writeQueue；4. accessQueue。前两个queue是因为WeakReference、SoftReference被垃圾回收时加入的，清理时只需要遍历整个queue，将对应的项从LocalCache中移除即可，这里keyReferenceQueue存放ReferenceEntry，而valueReferenceQueue存放的是ValueReference，要从Cache中移除需要有key，因而ValueReference需要有对ReferenceEntry的引用，这个前面也提到过了。而对后面两个Queue，只需要检查是否配置了相应的expire时间，然后从头开始查找已经expire的Entry，将它们移除即可。</li>
-<li><strong>Segment中的put操作</strong>：put操作相对比较简单，首先它需要获得锁，然后尝试做一些清理工作，接下来的逻辑类似ConcurrentHashMap中的rehash，查找位置并注入数据。需要说明的是当找到一个已存在的Entry时，需要先判断当前的ValueRefernece中的值事实上已经被回收了，因为它们可以是WeakReference、SoftReference类型，如果已经被回收了，则将新值写入。并且在每次更新时注册当前操作引起的移除事件，指定相应的原因：COLLECTED、REPLACED等，这些注册的事件在退出的时候统一调用Cache注册的RemovalListener，由于事件处理可能会有很长时间，因而这里将事件处理的逻辑在退出锁以后才做。最后，在更新已存在的Entry结束后都尝试着将那些已经expire的Entry移除。另外put操作中还需要更新writeQueue和accessQueue的语义正确性。</li>
-<li><strong>Segment带CacheLoader的get操作</strong>：1. 先查找table中是否已存在没有被回收、也没有expire的entry，如果找到，并在CacheBuilder中配置了refreshAfterWrite，并且当前时间间隔已经操作这个事件，则重新加载值，否则，直接返回原有的值；2. 如果查找到的ValueReference是LoadingValueReference，则等待该LoadingValueReference加载结束，并返回加载的值；3. 如果没有找到entry，或者找到的entry的值为null，则加锁后，继续在table中查找已存在key对应的entry，如果找到并且对应的entry.isLoading()为true，则表示有另一个线程正在加载，因而等待那个线程加载完成，如果找到一个非null值，返回该值，否则创建一个LoadingValueReference，并调用loadSync加载相应的值，在加载完成后，将新加载的值更新到table中，即大部分情况下替换原来的LoadingValueReference。</li>
-</ul>
-<p>Guava Cache提供Builder模式的CacheBuilder生成器来创建缓存的方式，十分方便，并且各个缓存参数的配置设置，类似于函数式编程的写法，可自行设置各类参数选型。它提供三种方式加载到缓存中。分别是：</p>
-<ul>
-<li>在构建缓存的时候，使用build方法内部调用CacheLoader方法加载数据；</li>
-<li>callable 、callback方式加载数据；</li>
-<li>使用粗暴直接的方式，直接Cache.put 加载数据，但自动加载是首选的，因为它可以更容易的推断所有缓存内容的一致性。</li>
-</ul>
-<p>build生成器的两种方式都实现了一种逻辑：从缓存中取key的值，如果该值已经缓存过了则返回缓存中的值，如果没有缓存过可以通过某个方法来获取这个值，不同的地方在于cacheloader的定义比较宽泛，是针对整个cache定义的，可以认为是统一的根据key值load value的方法，而callable的方式较为灵活，允许你在get的时候指定load方法。使用示例如下：</p>
-<div class="language-java line-numbers-mode" data-ext="java" data-title="java"><pre class="shiki shiki-themes one-dark-pro one-dark-pro vp-code" style="background-color:#282c34;--shiki-dark-bg:#282c34;color:#abb2bf;--shiki-dark:#abb2bf" tabindex="0"><code><span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   /**</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    * CacheLoader</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   */</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">   public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> void</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> loadingCache</span><span style="color:#E06C75;--shiki-dark:#E06C75">()</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">   {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">     LoadingCache</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> graphs </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">CacheBuilder</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">newBuilder</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">()</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        .</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">maximumSize</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#D19A66;--shiki-dark:#D19A66">1000</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">).</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">build</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#C678DD;--shiki-dark:#C678DD">new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> CacheLoader</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">, </span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;()</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        {</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">            @</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">Override</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">            public</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> load</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> key</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">)</span><span style="color:#C678DD;--shiki-dark:#C678DD"> throws</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Exception</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">            {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">                System</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">out</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">println</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"key:"</span><span style="color:#56B6C2;--shiki-dark:#56B6C2">+</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">key);</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">                if</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"key"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">equals</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(key)){</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">                    return</span><span style="color:#98C379;--shiki-dark:#98C379"> "key return result"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">                }</span><span style="color:#C678DD;--shiki-dark:#C678DD">else</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">{</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">                    return</span><span style="color:#98C379;--shiki-dark:#98C379"> "get-if-absent-compute"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">                }                   </span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">            }</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        });</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">   String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> resultVal </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#D19A66;--shiki-dark:#D19A66"> null</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">   try</span><span style="color:#E06C75;--shiki-dark:#E06C75"> {</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">       resultVal </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> graphs</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">get</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"key"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">       } </span><span style="color:#C678DD;--shiki-dark:#C678DD">catch</span><span style="color:#E06C75;--shiki-dark:#E06C75"> (</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">ExecutionException</span><span style="color:#E06C75;font-style:italic;--shiki-dark:#E06C75;--shiki-dark-font-style:italic"> e</span><span style="color:#E06C75;--shiki-dark:#E06C75">) {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">         e</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">printStackTrace</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">      }</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">    System</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">out</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">println</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(resultVal);</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">   }</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   /**</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    *</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    * Callable</span></span>
-<span class="line"><span style="color:#7F848E;font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">   */</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">   public</span><span style="color:#C678DD;--shiki-dark:#C678DD"> void</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> callablex</span><span style="color:#E06C75;--shiki-dark:#E06C75">() throws </span><span style="color:#E5C07B;--shiki-dark:#E5C07B">ExecutionException</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">    {</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">      Cache</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">,</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;</span><span style="color:#E06C75;--shiki-dark:#E06C75"> cache </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> CacheBuilder</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">newBuilder</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">()</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">        .</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">maximumSize</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#D19A66;--shiki-dark:#D19A66">1000</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">).</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">build</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">();</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">      String</span><span style="color:#E06C75;--shiki-dark:#E06C75"> result </span><span style="color:#56B6C2;--shiki-dark:#56B6C2">=</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> cache</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">get</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(</span><span style="color:#98C379;--shiki-dark:#98C379">"key"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">, </span><span style="color:#C678DD;--shiki-dark:#C678DD">new</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> Callable</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&lt;</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">String</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">&gt;()</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">       {</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">         public</span><span style="color:#E5C07B;--shiki-dark:#E5C07B"> String</span><span style="color:#61AFEF;--shiki-dark:#61AFEF"> call</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">()</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">         {</span></span>
-<span class="line"><span style="color:#C678DD;--shiki-dark:#C678DD">          return</span><span style="color:#98C379;--shiki-dark:#98C379"> "result"</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">         }</span></span>
-<span class="line"><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">       });</span></span>
-<span class="line"><span style="color:#E5C07B;--shiki-dark:#E5C07B">     System</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#E5C07B;--shiki-dark:#E5C07B">out</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">.</span><span style="color:#61AFEF;--shiki-dark:#61AFEF">println</span><span style="color:#ABB2BF;--shiki-dark:#ABB2BF">(result);</span></span>
-<span class="line"><span style="color:#E06C75;--shiki-dark:#E06C75">    }</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>总体来看，Guava Cache基于ConcurrentHashMap的优秀设计借鉴，在高并发场景支持和线程安全上都有相应的改进策略，使用Reference引用命令，提升高并发下的数据……访问速度并保持了GC的可回收，有效节省空间；同时，write链和access链的设计，能更灵活、高效的实现多种类型的缓存清理策略，包括基于容量的清理、基于时间的清理、基于引用的清理等；编程式的build生成器管理，让使用者有更多的自由度，能够根据不同场景设置合适的模式。</p>
-<h3>2.4 缓存实现 - 分布式缓存</h3>
-<p>请参考：<a href="http://java.xiaoyanxiaoyu.com/microservice/distributed/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98%E5%8F%8A%E6%96%B9%E6%A1%88%E5%AE%9E%E7%8E%B0.html" target="_blank" rel="noopener noreferrer">分布式系统 - 分布式缓存及实现方案</a></p>
-<h3>2.5 缓存实现方式 - 注解方式</h3>
-<h4>2.5.1 Spring注解缓存</h4>
-<p>Spring 3.1之后，引入了注解缓存技术，其本质上不是一个具体的缓存实现方案，而是一个对缓存使用的抽象，通过在既有代码中添加少量自定义的各种annotation，即能够达到使用缓存对象和缓存方法的返回对象的效果。Spring的缓存技术具备相当的灵活性，不仅能够使用SpEL（Spring Expression Language）来定义缓存的key和各种condition，还提供开箱即用的缓存临时存储方案，也支持和主流的专业缓存集成。其特点总结如下：</p>
-<ul>
-<li>少量的配置annotation注释即可使得既有代码支持缓存；</li>
-<li>支持开箱即用，不用安装和部署额外的第三方组件即可使用缓存；</li>
-<li>支持Spring Express Language（SpEL），能使用对象的任何属性或者方法来定义缓存的key和使用规则条件；</li>
-<li>支持自定义key和自定义缓存管理者，具有相当的灵活性和可扩展性。</li>
-</ul>
-<p>和Spring的事务管理类似，Spring Cache的关键原理就是Spring AOP，通过Spring AOP实现了在方法调用前、调用后获取方法的入参和返回值，进而实现了缓存的逻辑。而Spring Cache利用了Spring AOP的动态代理技术，即当客户端尝试调用pojo的foo()方法的时候，给它的不是pojo自身的引用，而是一个动态生成的代理类。</p>
-<figure><img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943999.png" alt="image-20220629222645572" tabindex="0" loading="lazy"><figcaption>image-20220629222645572</figcaption></figure>
-<p>图12 Spring动态代理调用图</p>
-<p>如图12所示，实际客户端获取的是一个代理的引用，在调用foo()方法的时候，会首先调用proxy的foo()方法，这个时候proxy可以整体控制实际的pojo.foo()方法的入参和返回值，比如缓存结果，比如直接略过执行实际的foo()方法等，都是可以轻松做到的。Spring Cache主要使用三个注释标签，即@Cacheable、@CachePut和@CacheEvict，主要针对方法上注解使用，部分场景也可以直接类上注解使用，当在类上使用时，该类所有方法都将受影响。我们总结一下其作用和配置方法，如下表所示。</p>
-<p>| 标签类型    | 作用                                                         | 主要配置参数说明                                             |<br>
-|</p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202404300943838.png" type="image/png"/>
     </item>
   </channel>
 </rss>
