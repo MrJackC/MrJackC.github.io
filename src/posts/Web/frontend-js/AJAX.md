@@ -309,7 +309,7 @@ updated: 2024-10-13 12:37
 
 ## 1.7、小结
 
-- **AJAX(Asynchronous JavaScript And XML)：**异步的 JavaScript 和 XML。 
+- **AJAX(Asynchronous JavaScript And XML)：** 异步的 JavaScript 和 XML。 
 - **通过浏览器与服务器进行少量数据交换，就可以使网页实现异步更新。也就是在不重新加载整个页面的情况下，对网页的部 分内容进行局部更新。**
 - **同步和异步**
   - 同步：服务器端在处理过程中，无法进行其他操作。
