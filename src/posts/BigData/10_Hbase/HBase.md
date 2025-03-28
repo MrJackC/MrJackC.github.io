@@ -33,13 +33,13 @@
 
 #### 1.2.1 HBase逻辑结构
 
-![image-20200623181231019](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623181231.png)
+![image-20200623181231019](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416207.png)
 
 
 
 #### 1.2.2 HBase的物理结构
 
-![image-20200810140718245](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200810140725.png)
+![image-20200810140718245](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416265.png)
 
 #### 1.2.3 数据模型
 
@@ -71,7 +71,7 @@
    在底层存储时，数据按照rowkey的字典顺序从小到大进行排列。
 ```
 
-![image-20200623184151239](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623184151.png)
+![image-20200623184151239](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416300.png)
 
 ## 二、 HBase的安装
 
@@ -311,7 +311,7 @@ Took 0.4410 seconds
 -- 2. 实例： hbase(main):002:0> describe 'user'
 ```
 
-![image-20200623195415990](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623195416.png)
+![image-20200623195415990](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416361.png)
 
 9. 删除某一行某一列的值
 
@@ -434,11 +434,11 @@ hbase(main):049:0> drop_namespace 'lianzp'
    b、数据在每个StoreFile中都是有序的
 ```
 
-![image-20200623202240623](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623202240.png)
+![image-20200623202240623](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416422.png)
 
 ### 4.2 写流程
 
-![image-20200623204209982](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623204210.png)
+![image-20200623204209982](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416483.png)
 
 ```sql
 --1. 具体流程：
@@ -471,7 +471,7 @@ hbase(main):049:0> drop_namespace 'lianzp'
    g、column=info:state ：该region的状态，value=OPEN 
 ```
 
-![image-20200623205526788](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623205526.png)
+![image-20200623205526788](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416516.png)
 
 ### 4.3 MemStore flush时机
 
@@ -517,9 +517,9 @@ hbase(main):049:0> drop_namespace 'lianzp'
 4. 客户端每次读取到的数据最后会缓存到block cache中，缓冲内存的大小'默认大小为64kb'
 ```
 
-![image-20200623223543002](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623223543.png)
+![image-20200623223543002](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416567.png)
 
-​                        ![image-20200623223736145](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623223736.png)
+​                        ![image-20200623223736145](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416600.png)
 
 ### 4.5  StoreFile  Compaction
 
@@ -541,7 +541,7 @@ hbase(main):049:0> drop_namespace 'lianzp'
   b、Major Compaction，大合并，将一个Store下的所有的HFile合并成一个大HFile，并且会清理掉所有过期和删除的数据。
 ```
 
-![image-20200623225525470](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200623225525.png)
+![image-20200623225525470](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416634.png)
 
 ### 4.6 多版本
 
@@ -1209,7 +1209,7 @@ hive (default)> select * from relevance_hbase_emp;
 
 ### 8.3 Phoenix架构
 
-![image-20200628213131835](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200628213139.png)
+![image-20200628213131835](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416675.png)
 
 ### 8.4 Phoenix安装
 
@@ -1349,13 +1349,13 @@ drop table student;
       b、'value格式问题'：查询的数据和hbase的数据完全不等，描述见下图：
 ```
 
-![image-20200629000242062](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200629000242.png)
+![image-20200629000242062](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416708.png)
 
 ```sql
 -- 3. 解决方案如下：
 ```
 
-![image-20200629003822649](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200629003822.png)
+![image-20200629003822649](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416737.png)
 
 
 
@@ -1369,7 +1369,7 @@ drop table student;
 -- 3. 官网说明：
 ```
 
-![image-20200628234338247](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200628234338.png)
+![image-20200628234338247](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416780.png)
 
 #### 8.6.2 HBase创建的表
 
@@ -1456,7 +1456,7 @@ CREATE INDEX my_index ON my_table (my_col);
 '如果想查询的字段不是索引字段的话,索引表不会被使用，也就是说不会带来查询速度的提升
 ```
 
-![image-20200629010950631](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200629010950.png)
+![image-20200629010950631](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416815.png)
 
 2. 创建携带其他字段的全局索引
 
@@ -1464,7 +1464,7 @@ CREATE INDEX my_index ON my_table (my_col);
 CREATE INDEX my_index ON my_table (v1) INCLUDE (v2);
 ```
 
-![image-20200629011141184](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200629011141.png)
+![image-20200629011141184](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416855.png)
 
 #### 8.7.3 局部二级索引
 
@@ -1478,7 +1478,7 @@ CREATE INDEX my_index ON my_table (v1) INCLUDE (v2);
 CREATE LOCAL INDEX my_index ON my_table (my_column);
 ```
 
-![image-20200629011154264](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200629011154.png)
+![image-20200629011154264](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281416888.png)
 
 #### 8.7.4 局部和全局的选择
 

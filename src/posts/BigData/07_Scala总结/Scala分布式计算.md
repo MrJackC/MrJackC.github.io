@@ -17,7 +17,7 @@
 -- 当服务器接收到数据以后，计算需要很长一段时间时，如果客户端一直等着服务器返回数据，这是不合理的。
 ```
 
-![image-20200601215250678](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200601215250.png)
+![image-20200601215250678](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281425865.png)
 
 ### 2.2 优化1
 
@@ -25,7 +25,7 @@
  -- 客户端发送数据给服务端以后，断开连接，等服务器计算数据完成以后，服务器去连接客户端，将计算完成以后的结果返回
 ```
 
-![image-20200601215841564](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200601215841.png)
+![image-20200601215841564](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281425917.png)
 
 ### 2.3 优化2
 
@@ -33,7 +33,7 @@
 因为分布式计算的台数是根据实际的数据量来定的，数据量大，那我们就多一些服务器来进行计算，如果数量少一些，那么服务器就少一些，所以创建一个资源管理的中心，客户端需要多少资源就告诉资源管理中心，然后资源管理中心就创建多少个服务器来进行运算。
 ```
 
-![img](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200601220829.png)
+![img](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281425963.png)
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-![image-20200602015033371](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200602015033.png)
+![image-20200602015033371](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281425040.png)
 
 ## 5.代码实现
 

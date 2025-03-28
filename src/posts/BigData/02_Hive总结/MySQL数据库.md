@@ -13,7 +13,7 @@ typora-root-url: MySQL数据库.assets
 - 持久化(persistence)：**把数据保存到可掉电式存储设备中以供之后使用**。大多数情况下，特别是企业级应用，**数据持久化意味着将内存中的数据保存到硬盘上加以”固化”**，而持久化的实现过程大多通过各种关系数据库来完成。
 - 持久化的主要作用是**将内存中的数据存储在关系型数据库中**，当然也可以存储在磁盘文件、XML数据文件中。 
 
-![1554944967857](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141737.png)
+![1554944967857](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301065.png)
 
 ***
 
@@ -35,11 +35,11 @@ typora-root-url: MySQL数据库.assets
 
 目前互联网上常见的数据库管理软件有Sybase、DB2、Oracle、MySQL、Access、MS SQL Server、Informix、PostgreSQL（最符合SQL标准，开放源码，具备商业级DBMS质量）这几种。以下是2020年**DB-Engines Ranking** 对各数据库受欢迎程度进行调查后的统计结果：（查看数据库最新排名:https://db-engines.com/en/ranking）
 
-![image-20200716142533533](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142533.png)
+![image-20200716142533533](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301106.png)
 
 对应的走势图：（https://db-engines.com/en/ranking_trend）
 
-![image-20200716142707204](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142707.png)
+![image-20200716142707204](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301156.png)
 
 ### 2.3 关系型数据库和非关系型数据库区别
 
@@ -74,9 +74,10 @@ typora-root-url: MySQL数据库.assets
 ### 2.4 关系型数据库设计规则
 
 - **遵循ER模型和三范式**
+  
   - E    entity   代表实体的意思      对应到数据库当中的一张表          
   - R    relationship 代表关系的意思  
-
+  
 - **三范式：1、列不能拆分     2、唯一标识    3、关系引用主键**
 
 - **具体体现**
@@ -92,17 +93,17 @@ typora-root-url: MySQL数据库.assets
 
     每一行类似于java或python中的“对象”。
 
-  ![1554904472176](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141832.png)
+  ![1554904472176](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301215.png)
 
   类似于生活的存储柜：
 
-  ![image-20200716143510533](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143510.png)
+  ![image-20200716143510533](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301276.png)
 
 ### 2.5 MySQL数据库介绍
 
 **MySQL**是一种开放源代码的关系型数据库管理系统，开发者为瑞典MySQL AB公司。在2008年1月16号被Sun公司收购。而2009年,SUN又被Oracle收购。目前 MySQL被广泛地应用在Internet上的中小型网站中，分为社区版和商业版。由于其**体积小、速度快、总体拥有成本低，尤其是开放源码这一特点，使得很多互联网公司选择了MySQL作为网站数据库**（Facebook, Twitter, YouTube，阿里的蚂蚁金服，去哪儿，魅族，百度外卖，腾讯）。
 
-![1554945212252](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141837.png)
+![1554945212252](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301376.png)
 
 - 阿里巴巴/蚂蚁金服主要使用两种关系数据库：OceanBase和MySQL。数据规模：MySQL单台机器TB级，OceanBase单个集群从几个TB到几百个TB皆有。
 
@@ -130,15 +131,15 @@ typora-root-url: MySQL数据库.assets
 
 **方式一：通过控制面板卸载**
 
-![1554904624331](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141842.png)
+![1554904624331](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301452.png)
 
 **方式二：通过360或电脑管家等软件卸载**
 
-![1554904663651](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141842.png)
+![1554904663651](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301452.png)
 
  **方式三：通过安装包提供的卸载功能卸载**
 
-![1554904693231](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141844.png)
+![1554904693231](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301510.png)
 
 #### 步骤二：清理残余文件
 
@@ -146,11 +147,11 @@ typora-root-url: MySQL数据库.assets
 
 **操作一：清除安装残余文件**
 
-![1554904949245](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141849.png)
+![1554904949245](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301553.png)
 
 **操作二：清除数据残余文件**
 
-![image-20200716143653770](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143740.png)
+![image-20200716143653770](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301594.png)
 
 > 注意：请在卸载前做好数据备份
 >
@@ -175,19 +176,19 @@ typora-root-url: MySQL数据库.assets
 
 准备安装
 
-![1554907061234](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143749.png)
+![1554907061234](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301630.png)
 
 欢迎安装
 
-![1554907068327](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143757.png)
+![1554907068327](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301693.png)
 
 准许协议
 
-![1554907082719](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143827.png)
+![1554907082719](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301749.png)
 
 选择安装模式
 
-![1554907096758](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143923.png)
+![1554907096758](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301803.png)
 
 > Typical：表示一般常用的组件都会被安装，默认情况下安装到”C:\Program Files\MySQL\MySQL Server 5.5\”下。
 >
@@ -197,7 +198,7 @@ typora-root-url: MySQL数据库.assets
 
 选择安装组件及安装路径
 
-![1554907133201](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141904.png)
+![1554907133201](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301853.png)
 
 > 这里可以选择安装哪些部分，主要是这里可以设置两个路径：
 >
@@ -211,15 +212,15 @@ typora-root-url: MySQL数据库.assets
 
 开始安装
 
-![1554907228157](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141906.png)
+![1554907228157](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301915.png)
 
 安装进度
 
-![image-20200716143957676](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143957.png)
+![image-20200716143957676](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301953.png)
 
 系统会显示MySQL Enterprise版（企业版）的一些功能介绍界面，可以单击“Next”继续。
 
-![1554907261909](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141909.png)
+![1554907261909](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301005.png)
 
 
 
@@ -233,13 +234,13 @@ typora-root-url: MySQL数据库.assets
 
 选择配置类型
 
-![1554908978185](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141918.png)
+![1554908978185](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301067.png)
 
 > 选择配置方式，“Detailed Configuration（手动精确配置）”、“Standard Configuration（标准配置）”，我们选择“Detailed Configuration”，方便熟悉配置过程。
 
 选择MySQL的应用模式
 
-![1554909003949](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144047.png)
+![1554909003949](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301127.png)
 
 > Developer Machine，开发测试类型，mysql 占用很少资源
 > Server Machine，服务器类型，使用中等大小的内存
@@ -247,7 +248,7 @@ typora-root-url: MySQL数据库.assets
 
 选择数据库用途选择界面
 
-![1554909046069](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141923.png)
+![1554909046069](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301191.png)
 
 > 选择mysql数据库的大致用途：
 > **“Multifunctional Database（通用多功能型，好）”**：此选项对事务性存储引擎（InnoDB）和非事务性（MyISAM）存储引擎的存取速度都很快。
@@ -256,19 +257,19 @@ typora-root-url: MySQL数据库.assets
 
 配置InnoDB数据文件目录
 
-![1554909131039](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141925.png)
+![1554909131039](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301245.png)
 
 > InnoDB的数据文件会在数据库第一次启动的时候创建，默认会创建在MySQL的安装目录下。用户可以根据实际的空间状况进行路径的选择。
 
 并发连接设置
 
-![1554909164990](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141927.png)
+![1554909164990](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301308.png)
 
 > 选择您的网站的一般mysql 访问量，同时连接的数目，“Decision Support(DSS)/OLAP（决策支持系统，20个左右）”、“Online Transaction Processing(OLTP)（在线事务系统，500个左右）”、  “Manual Setting（手动设置，自己输一个数）”
 
 网络选项设置
 
-![1554909196996](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141932.png)
+![1554909196996](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301387.png)
 
 > - 是否启用TCP/IP连接，设定端口，如果不启用，就只能在自己的机器上访问mysql 数据库了，我这里启用，把前面的勾打上
 > - Port Number：3306
@@ -278,7 +279,7 @@ typora-root-url: MySQL数据库.assets
 
 选择字符集
 
-![1554909221851](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141932.png)
+![1554909221851](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301387.png)
 
 > 注意：如果要用原来数据库的数据，最好能确定原来数据库用的是什么编码，如果这里设置的编码和原来数据库数据的编码不一致，在使用的时候可能会出现乱码。
 >
@@ -305,13 +306,13 @@ mysql> show variables like 'character_set_%';
 
 安全选择
 
-![1554909644164](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144036.png)
+![1554909644164](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301430.png)
 
 > 选择是否将mysql 安装为windows服务，还可以指定Service Name（服务标识名称，例如我这里取名为“MySQL5.5”），是否将mysql的bin目录加入到Windows PATH环境变量中（加入后，就可以直接使用bin下的命令）”，我这里全部打上了勾。
 
 设置密码
 
-![1554909665730](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144113.png)
+![1554909665730](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301482.png)
 
 > 这一步询问是否要修改默认root 用户（超级管理）的密码（默认为空），“New root password”如果要修改，就在此填入新密码，“Confirm（再输一遍）”内再填一次，防止输错。（如果是重装，并且之前已经设置了密码，在这里更改密码可能会出错，请留空，并将“Modify Security Settings”前面的勾去掉，安装配置完成后另行修改密码）
 >
@@ -324,7 +325,7 @@ mysql> show variables like 'character_set_%';
 
 准备执行界面
 
-![1554909714287](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141938.png)
+![1554909714287](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301532.png)
 
 
 ***
@@ -347,9 +348,9 @@ mysql> show variables like 'character_set_%';
 
 “任务管理器”-->“服务”-->启动和关闭MySQL
 
-![1554910645800](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144226.png)
+![1554910645800](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301575.png)
 
-![1554910661332](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144230.png)
+![1554910661332](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301618.png)
 
 #### 方式二：命令行
 
@@ -364,7 +365,7 @@ net  stop  MySQL服务名
 
 “开始菜单”-->MySQL-->MySQL Server 5.5 --> MySQL 5.5 Command Line Client
 
-![1554910754482](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144234.png)
+![1554910754482](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301673.png)
 
 > 说明：仅限于root用户
 
@@ -400,17 +401,17 @@ mysql -u root -p
 Enter password:****
 ```
 
-![1554910994523](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716144312.png)
+![1554910994523](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301708.png)
 
 连接成功后，有关于MySQL Server服务版本的信息，还有第几次连接的id标识。
 
 也可以在命令行通过以下方式获取MySQL Server服务版本的信息
 
-![1554911047074](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143042.png)
+![1554911047074](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301752.png)
 
 或**登录**后，通过以下方式查看当前版本信息：
 
-![1554911062159](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141956.png)
+![1554911062159](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301783.png)
 
 #### 方式三：可视化工具
 
@@ -420,15 +421,15 @@ Enter password:****
 
 ##### Navicat Preminum
 
-![1554911185763](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716141958.png)
+![1554911185763](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301840.png)
 
-![1554911194849](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143030.png)
+![1554911194849](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301898.png)
 
 ##### SQLyog
 
-![1554912367592](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143020.png)
+![1554912367592](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301945.png)
 
-![1554912376445](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716143007.png)
+![1554912376445](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301988.png)
 
 
 
@@ -569,15 +570,15 @@ ERROR 1366 (HY000): Incorrect string value: '\xD5\xC5\xC8\xFD' for column 'sname
 
 原因：服务器端认为你的客户端的字符集是utf-8，而实际上你的客户端的字符集是GBK。
 
-![1554912924219](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142954.png)
+![1554912924219](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301036.png)
 
 查看所有字符集：**SHOW VARIABLES LIKE 'character_set_%';**
 
-![1554912943186](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142009.png)
+![1554912943186](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301083.png)
 
 解决方案，设置当前连接的客户端字符集 **“SET NAMES GBK;”**
 
-![1554912957353](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142011.png)
+![1554912957353](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301129.png)
 
 
 
@@ -589,7 +590,7 @@ ci（大小写不敏感），cs（大小写敏感），_bin（二元，即比较
 
 **1） 查看所有字符集和校对规则**
 
-![1554913011329](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142014.png)
+![1554913011329](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301189.png)
 
 **2）查看GBK和UTF-8字符集的校对规则**
 
@@ -597,13 +598,13 @@ ci（大小写不敏感），cs（大小写敏感），_bin（二元，即比较
 show collation like 'gbk%';
 ```
 
-![1554913047662](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142023.png)
+![1554913047662](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301242.png)
 
 ```sql
 show collation like 'utf8%';
 ```
 
-![1554913066128](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142023.png)
+![1554913066128](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301242.png)
 
 > utf8_unicode_ci和utf8_general_ci对中、英文来说没有实质的差别。
 >  utf8_general_ci 校对速度快，但准确度稍差。
@@ -613,14 +614,14 @@ show collation like 'utf8%';
 
 **3）查看服务器的字符集和校对规则**
 
-![1554913100475](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142023.png)
+![1554913100475](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301242.png)
 
 **4）查看和修改某个数据库的字符集和校对规则**
 
 
 或
 
-![1554913125783](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142030.png)
+![1554913125783](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301293.png)
 
 修改数据库的字符集和校对规则：
 
@@ -634,7 +635,7 @@ ALTER DATABASE 数据库名称 DEFAULT CHARACTER SET 字符集名称 【COLLATE 
 ALTER DATABASE ceshi_db DEFAULT CHARACTER SET utf8 collate utf8_general_ci;
 ```
 
-![1554913175055](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142030.png)
+![1554913175055](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301293.png)
 
 > 注意：修改了数据库的默认字符集和校对规则后，原来已经创建的表格的字符集和校对规则并不会改变，如果需要，那么需要单独修改。
 
@@ -646,7 +647,7 @@ ALTER DATABASE ceshi_db DEFAULT CHARACTER SET utf8 collate utf8_general_ci;
 show create table users;
 ```
 
-![1554913222667](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142030.png)
+![1554913222667](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301293.png)
 
 如果要查看校对规则：
 
@@ -654,7 +655,7 @@ show create table users;
 show table status from bookstore like '%users%' ;
 ```
 
-![1554913250394](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142032.png)
+![1554913250394](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301335.png)
 
 修改某个表格的字符集和校对规则：
 
@@ -752,7 +753,7 @@ ALTER TABLE 表名称 CONVERT TO CHARACTER SET 字符集名称 【COLLATE 校对
 
 ### 6.4 日期时间类型
 
-![1555605777724](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142852.png)
+![1555605777724](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301416.png)
 
 - 对于year类型，可以输入4位数，例如2018，也可以输入两位数，例如18，如果输入的是两位，“00-68”表示2000-2069年，“70-99”表示1970-1999年。
 - 'YYYY-MM-DD HH:MM:SS'或'YY-MM-DD HH:MM:SS'，'YYYY-MM-DD'或'YY-MM-DD'格式的字符串。允许“不严格”语法：任何标点符都可以用做日期部分或时间部分之间的间割符。例如，'98-12-31 11:30:45'、'98.12.31 11+30+45'、'98/12/31 11*30*45'和'98@12@31 11^30^45'是等价的。
@@ -763,7 +764,7 @@ ALTER TABLE 表名称 CONVERT TO CHARACTER SET 字符集名称 【COLLATE 校对
 
 ### 6.5 字符串型
 
-![1554913890687](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142845.png)
+![1554913890687](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301460.png)
 
 **char,varchar,text区别**
 
@@ -877,7 +878,7 @@ MySQL最重要、最与众不同的特性是它的**存储引擎架构**，这�
 
 MySQL中同一个数据库，不同的表格可以选择不同的存储引擎。
 
-![1554914228173](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142105.png)
+![1554914228173](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301502.png)
 
 - MyISAM不支持事务、也不支持外键，其优势是访问的速度快，对事务完整性没有要求或者以SELECT、INSERT为主的应用。每个MyISAM在磁盘上存储成三个文件。第一个文件的名字以表的名字开始，扩展名指出文件类型。.frm文件存储表定义。数据文件的扩展名为.MYD (MYData)。索引文件的扩展名是.MYI (MYIndex)。
 
@@ -893,7 +894,7 @@ MySQL中同一个数据库，不同的表格可以选择不同的存储引擎。
 SHOW ENGINES; 
 ```
 
-![1554914289243](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142052.png)
+![1554914289243](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301569.png)
 
 查看默认存储引擎和当前选择的存储引擎：
 
@@ -901,7 +902,7 @@ SHOW ENGINES;
 SHOW VARIABLES LIKE '%storage_engine%';
 ```
 
-![1554914334645](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142056.png)
+![1554914334645](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301632.png)
 
 创建新表时如果不指定存储引擎，那么系统就会使用默认存储引擎，MySQL5.5之前的默认存储引擎是MyISAM，5.5之后改为了InnoDB。
 
@@ -911,7 +912,7 @@ SHOW VARIABLES LIKE '%storage_engine%';
 SHOW CREATE TABLE 表名称;
 ```
 
-![1554914377907](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716142056.png)
+![1554914377907](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281301632.png)
 
  
 

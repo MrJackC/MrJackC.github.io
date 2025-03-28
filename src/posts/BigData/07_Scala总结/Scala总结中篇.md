@@ -65,11 +65,11 @@
 
 - 1. for()循环中的i为什么声明为val还能重复改变值
 
-![1590162641661](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590162641661.png)
+![1590162641661](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419321.png)
 
 > 解析：i是val类型，应该是不可变，但是可以循环给i进行赋值，通过反编译发现，i 只是一个普通变量，是可变的
 
-![1590164375052](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590164375052.png)
+![1590164375052](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419383.png)
 
 - 2. 匿名函数后面的代码不执行
 
@@ -154,7 +154,7 @@ class Window1 implements Runnable {
 
 ```
 
-![1590315929318](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590315929318.png)
+![1590315929318](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419422.png)
 
 ### 0.4 双亲委派机制
 
@@ -181,11 +181,11 @@ class Window1 implements Runnable {
 3. 启动类加载器： D:\03_developer_tools\Java\jdk1.8.0_141\jre\lib\ext
 ```
 
-![1590316031887](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590316031887.png)
+![1590316031887](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419466.png)
 
-![1590316832863](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590316832863.png)
+![1590316832863](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419514.png)
 
-![1590316965813](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590316965813.png)
+![1590316965813](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419573.png)
 
 ### 05.下划线的作用
 
@@ -661,7 +661,7 @@ zhangsan
 
 - IDEA中，scala不同类型的文件对应不同的图标
 
-![1590334974280](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590334974280.png)
+![1590334974280](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419616.png)
 
 1. 图标1：表示这个文件中只有伴生对象和伴生类
 2. 图标2：表示这个文件中只有伴生类
@@ -819,9 +819,9 @@ class User05 {
  3. 是java_object类在main方法中调用了user对象的clone()方法  //这是关键
 ```
 
-![img](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/7Q@WCYJLY7423XTC6PM66MB.png)
+![img](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419665.png)
 
-<img src="https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590429473944.png" alt="1590429473944" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419712.png" alt="1590429473944" style="zoom:50%;" />
 
 - scala的权限
 
@@ -1297,7 +1297,7 @@ object  User2{
       2. 详情见下图分析
 ```
 
-![1590504029270](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590504029270.png)
+![1590504029270](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419749.png)
 
 ### 7.11 特质
 
@@ -1419,7 +1419,7 @@ class SubUser35 extends User35 with SubTest35{
 }
 ```
 
-![1590501254061](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590501254061.png)
+![1590501254061](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419790.png)
 
 #### 7.11.5 特质功能执行的顺序
 
@@ -1459,7 +1459,7 @@ class MySQL37 extends DB37 with Log37 {
 }
 ```
 
-<img src="https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590501563287.png" alt="1590501563287" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281419825.png" alt="1590501563287" style="zoom:50%;" />
 
 ### 7.12 拓展
 

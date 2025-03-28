@@ -245,7 +245,7 @@ kafka-topics.sh --bootstrap-server hadoop102:9820 --delete --topic first
 
 ### 3.1 Kafka工作流程及文件存储机制
 
-![图2](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005434.png)
+![图2](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430539.png)
 
 1.  kafka 以topic（话题）为单位，每一个话题分为多个区（创建话题的时候指定分区的个数），每个分区中存储的数据是不一样的，同时每个分区的数据在其他分区也会创建副本。
 2.  不同的分区分布在kafka集群不同的机器（broker，代理人）上面；
@@ -257,7 +257,7 @@ kafka-topics.sh --bootstrap-server hadoop102:9820 --delete --topic first
 8.  Kafka采取了**分片**和**索引**机制。
 9.  topic是逻辑上的概念，而partition是物理上的概念，每个partition对应于一个log文件，该log文件中存储的就是producer生产的数据。Producer生产的数据会被不断追加到该log文件末端，且每条数据都有自己的offset。消费者组中的每个消费者，都会实时记录自己消费到了哪个offset，以便出错恢复时，从上次的位置继续消费
 
-![图1](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200610151457.png)
+![图1](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430589.png)
 
 ```sql
 -- 灵魂拷问1：
@@ -272,9 +272,9 @@ log中的数据会越来越大，查询和读取效率会变慢。
 
 ```
 
-![image-20200714205920775](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200714205928.png)
+![image-20200714205920775](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430668.png)
 
-![image-20200714210619003](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200714210619.png)
+![image-20200714210619003](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430739.png)
 
 > 切分的文件位于同一个文件夹下，该文件夹的命名规则为：==topic名称+分区序号==。
 >
@@ -325,9 +325,9 @@ log：00000000000000000000.log
 
      分区与分区之间采取轮询的方式。
 
-     ![图4](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005453.png)
+     ![图4](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430799.png)
 
-     ![图3](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005450.png)
+     ![图3](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430869.png)
 
 #### 3.2.2 数据可靠性保证
 
@@ -549,7 +549,7 @@ pagecache：将内存当做磁盘使用；
 
 #### 3.4.3 零拷贝技术
 
-![图5](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005509.png)
+![图5](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430916.png)
 
 说明：
 
@@ -578,7 +578,7 @@ pagecache：将内存当做磁盘使用；
 先从现存的follower中重新选举controller，再执行1-5步。
 ```
 
-![图6](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005514.png)
+![图6](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430952.png)
 
 ### 3.6 Kafka事务
 
@@ -659,7 +659,7 @@ linger.ms：如果数据迟迟未达到batch.size，sender等待linger.time之�
 
 ```
 
-![图7](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529005518.png)
+![图7](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281430990.png)
 
 #### 4.1.2 异步发送API
 

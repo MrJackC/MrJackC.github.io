@@ -38,7 +38,8 @@
 
 ### 0.3 Hive架构原理
 
-<img src="https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200720000427.png" alt="image-20200720000427660" style="zoom: 67%;" />
+
+![image-20200720000427660](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281257506.png)
 
 ```sql
 -- 1. 用户接口：Client
@@ -86,7 +87,7 @@
 2. 'Tez引擎'：可以将多个有依赖的作业转换为一个作业，这样只需写一次HDFS，且中间节点较少，从而大大提升作业的计算性能。
 ```
 
-![image-20200720001521940](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200720001522.png)
+![image-20200720001521940](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281257576.png)
 
 ## 一、HiveJDBC客户端基本操作
 
@@ -1103,9 +1104,9 @@ explode(split(category,",")) movie_info_tmp  AS category_name ; -- categor_name 
 
 ```
 
-![image-20200630212310025](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200630212310.png)
+![image-20200630212310025](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281257613.png)
 
-![image-20200630212550900](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200630212551.png)
+![image-20200630212550900](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281257666.png)
 
 ### 6.4 开窗函数
 

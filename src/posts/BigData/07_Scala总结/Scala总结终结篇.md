@@ -241,9 +241,9 @@
 
 > 关注方法的参数的数据类型。
 
-![image-20200531210601255](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200531210601.png)
+![image-20200531210601255](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281417347.png)
 
-![image-20200531211218085](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200531211218.png)
+![image-20200531211218085](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281417563.png)
 
 ### 8.16 折叠 fold
 

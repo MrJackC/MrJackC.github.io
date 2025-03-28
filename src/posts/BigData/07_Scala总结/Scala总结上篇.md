@@ -791,9 +791,9 @@ Scala是一个完全面向对象的语言，所以是没有基本数据类型的
 2.引用任意对象类型 ：AnyRef （reference） -->包含了java的数据类型和scala自身的一些类型
 ```
 
-![1589899457(1)](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/1589899457(1).png)
+![1589899457(1)](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426926.png)
 
-![图片1](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/图片1.png)
+![图片1](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426983.png)
 
 **上面的图是非常关键的，必须记住。**
 
@@ -974,13 +974,13 @@ object Scala_DataType {
 
 假定变量 A 为 10，B 为 20
 
-![1589906335815](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589906335815.png)
+![1589906335815](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426068.png)
 
 ### 4.2 关系运算符
 
 假定变量A为10，B为20
 
-![1589906386220](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589906386220.png)
+![1589906386220](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426121.png)
 
 - scala中的 == 、 equals 、 eq 的区别
 
@@ -1013,7 +1013,7 @@ euqals ： 只适用于引用数据类型，
 
 ### 4.3  赋值运算符
 
-![1589909434130](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589909434130.png)
+![1589909434130](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426182.png)
 
 ```sql
 -- 问题：为什么scala中没有 ++ 和 - - 呢？
@@ -1031,13 +1031,13 @@ euqals ： 只适用于引用数据类型，
 
 假定变量 A 为 1，B 为 0
 
-![1589910728455](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589910728455.png)
+![1589910728455](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426216.png)
 
 ### 4.5 位运算
 
 如果指定 A = 60及 B = 13; 两个变量对应的二进制为：A = 0011 1100，B = 0000 1101
 
-![1589910797835](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589910797835.png)
+![1589910797835](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426264.png)
 
 ```sql
 二进制中，每位上的最大数为1
@@ -1241,7 +1241,7 @@ a = 10      --> 赋值表达式
 
 ### 5.2  循环控制
 
-![1589977773312](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1589977773312.png)
+![1589977773312](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426296.png)
 
 #### 5.2.1 for 循环
 
@@ -1622,7 +1622,7 @@ object Scala_Method {
 
    2）在声明和调用函数时，形参个数超过22是没有问题的，但是将函数作为对象赋值给一个变量时，则会报错：implementation restricts functions to 22 parameters
 
-![1590028365774](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590028365774.png)
+![1590028365774](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281426332.png)
 
 2. 可变形参
 

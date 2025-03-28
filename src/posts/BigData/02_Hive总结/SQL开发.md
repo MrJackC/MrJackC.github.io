@@ -33,7 +33,7 @@ SQL：Structured Query Language结构化查询语言，它是使用关系模型�
 - 保持字段名和类型的一致性,在命名字段并为其指定数据类型的时候一定要保证一致性。假如数据类型在一个表里是整数,那在另一个表里可就别变成字符型了
 - 在命令行中的要求：
 
-![1554944183905](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716145050.png)         
+![1554944183905](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281410254.png)         
 
 > 说明：一个语句可以分开多行编写，以;或\g结束
 
@@ -71,9 +71,9 @@ SELECT *
 FROM   departments;
 ```
 
-![1554950890895](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716145100.png)
+![1554950890895](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281410177.png)
 
-![1554950903518](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150437.png)
+![1554950903518](D:\Program Files\PicGo\uploads\20200716150437.png)
 
 - 选择特定的列：
 
@@ -82,9 +82,9 @@ SELECT department_id, location_id
 FROM   departments;
 ```
 
-![1554950947969](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150441.png)
+![1554950947969](D:\Program Files\PicGo\uploads\20200716150441.png)
 
-![1554950953272](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716145129.png)
+![1554950953272](D:\Program Files\PicGo\uploads\20200716145129.png)
 
 #### 2.1.2 列的别名
 
@@ -101,9 +101,9 @@ SELECT last_name AS name, commission_pct comm
 FROM   employees;
 ```
 
-![1554951616598](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150459.png)
+![1554951616598](D:\Program Files\PicGo\uploads\20200716150459.png)
 
-![1554951622467](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150502.png)
+![1554951622467](D:\Program Files\PicGo\uploads\20200716150502.png)
 
 
 
@@ -112,9 +112,9 @@ SELECT last_name "Name", salary*12 "Annual Salary"
 FROM   employees;
 ```
 
-![1554951648377](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173835.png)
+![1554951648377](D:\Program Files\PicGo\uploads\20200716173835.png)
 
-![1554951655368](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173833.png)
+![1554951655368](D:\Program Files\PicGo\uploads\20200716173833.png)
 
 #### 2.1.3 去除重复行
 
@@ -125,9 +125,9 @@ SELECT department_id
 FROM   employees;
 ```
 
-![1554951711115](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173829.png)
+![1554951711115](D:\Program Files\PicGo\uploads\20200716173829.png)
 
-![1554951715923](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173827.png)
+![1554951715923](D:\Program Files\PicGo\uploads\20200716173827.png)
 
 **在SELECT语句中使用关键字DISTINCT去除重复行。**
 
@@ -136,9 +136,9 @@ SELECT DISTINCT department_id
 FROM   employees;
 ```
 
-![1554951796570](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173824.png)
+![1554951796570](D:\Program Files\PicGo\uploads\20200716173824.png)
 
-![1554951801044](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173822.png)
+![1554951801044](D:\Program Files\PicGo\uploads\20200716173822.png)
 
 #### 2.1.4 空值参与运算
 
@@ -160,7 +160,7 @@ FROM employees;
 DESCRIBE employees;
 ```
 
-![1554951856201](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173818.png)
+![1554951856201](D:\Program Files\PicGo\uploads\20200716173818.png)
 
 ### 2.2 过滤数据
 
@@ -168,7 +168,7 @@ DESCRIBE employees;
 
 背景：
 
-![1554952199742](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173815.png)
+![1554952199742](D:\Program Files\PicGo\uploads\20200716173815.png)
 
 - 使用WHERE 子句，将不满足条件的行过滤掉
 - **WHERE子句紧随 FROM子句**
@@ -181,7 +181,7 @@ FROM   employees
 WHERE  department_id = 90 ;
 ```
 
-![1554952277028](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173812.png)
+![1554952277028](D:\Program Files\PicGo\uploads\20200716173812.png)
 
 #### 2.2.2 比较运算符
 
@@ -207,7 +207,7 @@ FROM   employees
 WHERE  salary <= 3000;
 ```
 
-![1554970744610](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173809.png)
+![1554970744610](D:\Program Files\PicGo\uploads\20200716173809.png)
 
 
 
@@ -230,7 +230,7 @@ FROM   employees
 WHERE  salary BETWEEN 2500 AND 3500;
 ```
 
-![1554970965194](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173806.png)
+![1554970965194](D:\Program Files\PicGo\uploads\20200716173806.png)
 
 **2）IN**
 
@@ -242,9 +242,9 @@ FROM   employees
 WHERE  manager_id IN (100, 101, 201);
 ```
 
-![1554973452273](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173800.png)
+![1554973452273](D:\Program Files\PicGo\uploads\20200716173800.png)
 
-![1554973455598](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173803.png)
+![1554973455598](D:\Program Files\PicGo\uploads\20200716173803.png)
 
 **3）LIKE**
 
@@ -268,7 +268,7 @@ FROM   employees
 WHERE  last_name LIKE '_o%';
 ```
 
-![1554973588723](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173757.png)
+![1554973588723](D:\Program Files\PicGo\uploads\20200716173757.png)
 
 **ESCAPE**
 
@@ -298,7 +298,7 @@ FROM   employees
 WHERE  manager_id IS NULL;
 ```
 
-![1554973812597](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173754.png)
+![1554973812597](D:\Program Files\PicGo\uploads\20200716173754.png)
 
 
 
@@ -322,7 +322,7 @@ WHERE  salary >=10000
 AND    job_id LIKE '%MAN%';
 ```
 
-![1554973941432](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173750.png)
+![1554973941432](D:\Program Files\PicGo\uploads\20200716173750.png)
 
 
 
@@ -337,9 +337,9 @@ WHERE  salary >= 10000
 OR     job_id LIKE '%MAN%';
 ```
 
-![1554973982466](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173746.png)
+![1554973982466](D:\Program Files\PicGo\uploads\20200716173746.png)
 
-![1554974001609](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173744.png)
+![1554974001609](D:\Program Files\PicGo\uploads\20200716173744.png)
 
 **3）NOT**
 
@@ -349,9 +349,9 @@ FROM   employees
 WHERE  job_id NOT IN ('IT_PROG', 'ST_CLERK', 'SA_REP');
 ```
 
-![1554974033680](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173741.png)
+![1554974033680](D:\Program Files\PicGo\uploads\20200716173741.png)
 
-![1554974039660](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173739.png)
+![1554974039660](D:\Program Files\PicGo\uploads\20200716173739.png)
 
 **4）XOR**
 
@@ -395,9 +395,9 @@ FROM     employees
 ORDER BY hire_date ;
 ```
 
-![1554974255957](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173736.png)
+![1554974255957](D:\Program Files\PicGo\uploads\20200716173736.png)
 
-![1554974260133](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173734.png)
+![1554974260133](D:\Program Files\PicGo\uploads\20200716173734.png)
 
 ```sql
 SELECT   last_name, job_id, department_id, hire_date
@@ -405,9 +405,9 @@ FROM     employees
 ORDER BY hire_date DESC ;
 ```
 
-![1554974822229](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173727.png)
+![1554974822229](D:\Program Files\PicGo\uploads\20200716173727.png)
 
-![1554974827522](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173730.png)
+![1554974827522](D:\Program Files\PicGo\uploads\20200716173730.png)
 
 
 
@@ -417,9 +417,9 @@ FROM   employees
 ORDER BY annsal;
 ```
 
-![1554974853194](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173724.png)
+![1554974853194](D:\Program Files\PicGo\uploads\20200716173724.png)
 
-![1554974858252](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173722.png)
+![1554974858252](D:\Program Files\PicGo\uploads\20200716173722.png)
 
 
 
@@ -429,9 +429,9 @@ FROM   employees
 ORDER BY department_id, salary DESC;
 ```
 
-![1554974901572](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173714.png)
+![1554974901572](D:\Program Files\PicGo\uploads\20200716173714.png)
 
-![1554974907498](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173718.png)
+![1554974907498](D:\Program Files\PicGo\uploads\20200716173718.png)
 
 - 可以使用不在SELECT列表中的列排序。
 
@@ -473,18 +473,18 @@ LIMIT(PageNo - 1)*PageSize,PageSize;
 
 举例：
 
-![1554974984600](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173711.png)
+![1554974984600](D:\Program Files\PicGo\uploads\20200716173711.png)
 
 从多个表中获取数据：
 
-![1554975020388](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173708.png)
+![1554975020388](D:\Program Files\PicGo\uploads\20200716173708.png)
 
 ```sql
 select last_name, department_name
 from employees, departments;
 ```
 
-![1554975097631](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173703.png)
+![1554975097631](D:\Program Files\PicGo\uploads\20200716173703.png)
 
 **演示笛卡尔积的错误情况：**
 
@@ -523,7 +523,7 @@ WHERE	table1.column1 = table2.column2;
 
 ##### ① 等值连接
 
-![1554975496900](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173659.png)
+![1554975496900](D:\Program Files\PicGo\uploads\20200716173659.png)
 
 ```sql
 SELECT employees.employee_id, employees.last_name, 
@@ -533,13 +533,13 @@ FROM   employees, departments
 WHERE  employees.department_id = departments.department_id;
 ```
 
-![1554975522600](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173657.png)
+![1554975522600](D:\Program Files\PicGo\uploads\20200716173657.png)
 
-![1554975526339](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173655.png)
+![1554975526339](D:\Program Files\PicGo\uploads\20200716173655.png)
 
 **多个连接条件与 AND 操作符** 
 
-![1554975606231](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173651.png)
+![1554975606231](D:\Program Files\PicGo\uploads\20200716173651.png)
 
 
 
@@ -568,7 +568,7 @@ WHERE  e.department_id = d.department_id;
 
 **连接多个表**
 
-![1554978354431](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173648.png)
+![1554978354431](D:\Program Files\PicGo\uploads\20200716173648.png)
 
 **连接 n个表,至少需要n-1个连接条件。**
 例如：连接三个表，至少需要两个连接条件。
@@ -577,7 +577,7 @@ WHERE  e.department_id = d.department_id;
 
 ##### ② 非等值连接
 
-![1554978442447](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225611.png)
+![1554978442447](D:\Program Files\PicGo\uploads\20200716225611.png)
 
 ```sql
 SELECT e.last_name, e.salary, j.grade_level
@@ -585,13 +585,13 @@ FROM   employees e, job_grades j
 WHERE  e.salary BETWEEN j.lowest_sal AND j.highest_sal;
 ```
 
-![1554978477013](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173622.png)
+![1554978477013](D:\Program Files\PicGo\uploads\20200716173622.png)
 
-![1554978482652](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225607.png)
+![1554978482652](D:\Program Files\PicGo\uploads\20200716225607.png)
 
 #### 2.4.3 分类2：自连接 vs 非自连接
 
-![1554978514321](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716173618.png)
+![1554978514321](D:\Program Files\PicGo\uploads\20200716173618.png)
 
 - 当table1和table2本质上是同一张表，只是用取别名的方式虚拟成两张表以代表不同的意义。然后两个表再进行内连接，外连接等查询
 
@@ -604,15 +604,15 @@ FROM   employees worker, employees manager
 WHERE  worker.manager_id = manager.employee_id ;
 ```
 
-![1554978684947](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225558.png)
+![1554978684947](D:\Program Files\PicGo\uploads\20200716225558.png)
 
-![1554978690764](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225601.png)
+![1554978690764](D:\Program Files\PicGo\uploads\20200716225601.png)
 
 练习：查询出last_name为 ‘Chen’ 的员工的 manager 的信息
 
 #### 2.4.4 分类3：内连接 vs 外连接
 
-![1554978955659](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225552.png)
+![1554978955659](D:\Program Files\PicGo\uploads\20200716225552.png)
 
 - 内连接: 合并具有同一列的两个以上的表的行, **结果集中不包含一个表与另一个表不匹配的行**
 
@@ -637,9 +637,9 @@ FROM   employees e JOIN departments d
 ON     (e.department_id = d.department_id);
 ```
 
-![1554979073996](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225549.png)
+![1554979073996](D:\Program Files\PicGo\uploads\20200716225549.png)
 
-![1554979079395](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225548.png)
+![1554979079395](D:\Program Files\PicGo\uploads\20200716225548.png)
 
 ```sql
 SELECT employee_id, city, department_name
@@ -650,9 +650,9 @@ JOIN   locations l
 ON     d.location_id = l.location_id;
 ```
 
-![1554979110008](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225545.png)
+![1554979110008](D:\Program Files\PicGo\uploads\20200716225545.png)
 
-![1554979115642](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225543.png)
+![1554979115642](D:\Program Files\PicGo\uploads\20200716225543.png)
 
 - **USING的使用** (了解)
 
@@ -675,7 +675,7 @@ LEFT OUTER JOIN departments d
 ON   (e.department_id = d.department_id) ;
 ```
 
-![1554979200961](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225541.png)
+![1554979200961](D:\Program Files\PicGo\uploads\20200716225541.png)
 
 ##### ③ 右外连接
 
@@ -686,25 +686,25 @@ RIGHT OUTER JOIN departments d
 ON    (e.department_id = d.department_id) ;
 ```
 
-![1554979243194](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225539.png)
+![1554979243194](D:\Program Files\PicGo\uploads\20200716225539.png)
 
 
 
 ##### 总结：SQL JOINS
 
-![1554979255233](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225537.png)
+![1554979255233](D:\Program Files\PicGo\uploads\20200716225537.png)
 
 补充：
 
 **UNION操作符**
 
-![1554979317187](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225532.png)
+![1554979317187](D:\Program Files\PicGo\uploads\20200716225532.png)
 
 UNION 操作符返回两个查询的结果集的并集。
 
 **UNION ALL操作符**
 
-![1554979343634](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225530.png)
+![1554979343634](D:\Program Files\PicGo\uploads\20200716225530.png)
 
 UNION ALL操作符返回两个查询的结果集的并集。对于两个结果集的重复部分，不去重。
 
@@ -712,11 +712,11 @@ UNION ALL操作符返回两个查询的结果集的并集。对于两个结果�
 
 #### 2.5.1 介绍
 
-![1554979529525](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225529.png)
+![1554979529525](D:\Program Files\PicGo\uploads\20200716225529.png)
 
 **两种SQL函数**
 
-![image-20200716223019520](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716223055.png)
+![image-20200716223019520](D:\Program Files\PicGo\uploads\20200716223055.png)
 
 **单行函数**
 
@@ -939,7 +939,7 @@ SELECT last_name, job_id, salary,
 FROM   employees;
 ```
 
-![1554980865631](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225520.png)
+![1554980865631](D:\Program Files\PicGo\uploads\20200716225520.png)
 
 **练习：查询部门号为 10,20, 30 的员工信息, 若部门号为 10, 则打印其工资的 1.1 倍, 20 号部门, 则打印其工资的 1.2 倍, 30 号部门打印其工资的 1.3 倍数。**
 
@@ -963,7 +963,7 @@ FROM   employees;
 
 分组函数作用于一组数据，并对一组数据返回一个值。
 
-![1554980924940](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225517.png)
+![1554980924940](D:\Program Files\PicGo\uploads\20200716225517.png)
 
 - **组函数类型**
   - **AVG()** 
@@ -974,7 +974,7 @@ FROM   employees;
 
 - 组函数语法
 
-![1554981029920](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225514.png)
+![1554981029920](D:\Program Files\PicGo\uploads\20200716225514.png)
 
 #### 2.6.2 AVG和SUM函数
 
@@ -986,7 +986,7 @@ FROM   employees
 WHERE  job_id LIKE '%REP%';
 ```
 
-![1554981279723](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225512.png)
+![1554981279723](D:\Program Files\PicGo\uploads\20200716225512.png)
 
 #### 2.6.3 MIN和MAX函数
 
@@ -997,7 +997,7 @@ SELECT MIN(hire_date), MAX(hire_date)
 FROM	  employees;
 ```
 
-![1554981253194](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225510.png)
+![1554981253194](D:\Program Files\PicGo\uploads\20200716225510.png)
 
 #### 2.6.4 COUNT函数
 
@@ -1009,7 +1009,7 @@ FROM	  employees
 WHERE  department_id = 50;
 ```
 
-![1554981241299](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225507.png)
+![1554981241299](D:\Program Files\PicGo\uploads\20200716225507.png)
 
 •COUNT(expr) 返回**expr不为空**的记录总数。
 
@@ -1019,7 +1019,7 @@ FROM   employees
 WHERE  department_id = 50;
 ```
 
-![1554981328678](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225505.png)
+![1554981328678](D:\Program Files\PicGo\uploads\20200716225505.png)
 
 - **问题：用count(*)，count(1)谁好呢?**
 
@@ -1031,7 +1031,7 @@ WHERE  department_id = 50;
 
 #### 2.6.5 GROUP BY
 
-![1554981374920](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225503.png)
+![1554981374920](D:\Program Files\PicGo\uploads\20200716225503.png)
 
 **可以使用GROUP BY子句将表中的数据分成若干组**
 
@@ -1053,9 +1053,9 @@ FROM     employees
 GROUP BY department_id ;
 ```
 
-![1554981539408](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225456.png)
+![1554981539408](D:\Program Files\PicGo\uploads\20200716225456.png)
 
-![1554981544191](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225459.png)
+![1554981544191](D:\Program Files\PicGo\uploads\20200716225459.png)
 
 
 
@@ -1067,13 +1067,13 @@ FROM     employees
 GROUP BY department_id ;
 ```
 
-![1554981574152](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225454.png)
+![1554981574152](D:\Program Files\PicGo\uploads\20200716225454.png)
 
 
 
 **使用多个列分组**
 
-![1554981607442](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225452.png)
+![1554981607442](D:\Program Files\PicGo\uploads\20200716225452.png)
 
 ```sql
 SELECT   department_id dept_id, job_id, SUM(salary)
@@ -1081,13 +1081,13 @@ FROM     employees
 GROUP BY department_id, job_id ;
 ```
 
-![1554981624864](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225450.png)
+![1554981624864](D:\Program Files\PicGo\uploads\20200716225450.png)
 
-![1554981629733](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225448.png)
+![1554981629733](D:\Program Files\PicGo\uploads\20200716225448.png)
 
 #### 2.6.6 HAVING
 
-![1554981656798](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225446.png)
+![1554981656798](D:\Program Files\PicGo\uploads\20200716225446.png)
 
 - **非法使用组函数**
   - **不能在** **WHERE** **子句中使用组函数。**
@@ -1100,7 +1100,7 @@ WHERE    AVG(salary) > 8000
 GROUP BY department_id;
 ```
 
-![1554981724375](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225440.png)
+![1554981724375](D:\Program Files\PicGo\uploads\20200716225440.png)
 
 
 
@@ -1110,7 +1110,7 @@ GROUP BY department_id;
 2. 使用了组函数。
 3. 满足HAVING 子句中条件的分组将被显示。
 
-![1554981808091](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225438.png)
+![1554981808091](D:\Program Files\PicGo\uploads\20200716225438.png)
 
 ```sql
 SELECT   department_id, MAX(salary)
@@ -1119,7 +1119,7 @@ GROUP BY department_id
 HAVING   MAX(salary)>10000 ;
 ```
 
-![1554981824564](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225435.png)
+![1554981824564](D:\Program Files\PicGo\uploads\20200716225435.png)
 
 ### 2.7 小结
 
@@ -1159,7 +1159,7 @@ LIMIT ...,...
 
 实际问题：
 
-![1554991034688](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716225657.png)
+![1554991034688](D:\Program Files\PicGo\uploads\20200716225657.png)
 
 ***
 
@@ -1285,7 +1285,7 @@ WHERE  salary =
                  GROUP BY department_id);
 ```
 
-![1554992135819](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150423.png)
+![1554992135819](D:\Program Files\PicGo\uploads\20200716150423.png)
 
 > **多行子查询使用单行比较符**
 
@@ -1311,27 +1311,27 @@ WHERE  salary =
 
 **题目：返回其它job_id中比job_id为‘IT_PROG’部门任一工资低的员工的员工号、姓名、job_id 以及salary**
 
-![1554992658876](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150419.png)
+![1554992658876](D:\Program Files\PicGo\uploads\20200716150419.png)
 
-![1554992664594](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150413.png)
+![1554992664594](D:\Program Files\PicGo\uploads\20200716150413.png)
 
-![1554992668429](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150416.png)
+![1554992668429](D:\Program Files\PicGo\uploads\20200716150416.png)
 
 **题目：返回其它job_id中比job_id为‘IT_PROG’部门所有工资都低的员工的员工号、姓名、job_id以及salary**
 
-![1554992753654](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150410.png)
+![1554992753654](D:\Program Files\PicGo\uploads\20200716150410.png)
 
-![1554992759467](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150407.png)
+![1554992759467](D:\Program Files\PicGo\uploads\20200716150407.png)
 
 #### 3.2.2 空值问题
 
-![1554992822094](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150403.png)
+![1554992822094](D:\Program Files\PicGo\uploads\20200716150403.png)
 
 ### 3.3  相关子查询
 
 相关子查询按照一行接一行的顺序执行，主查询的每一行都执行一次子查询。
 
-![1554992898234](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716150351.png)
+![1554992898234](D:\Program Files\PicGo\uploads\20200716150351.png)
 
 
 
@@ -1341,7 +1341,7 @@ WHERE  salary =
 
 **方式一：相关子查询**
 
-![image-20200716234305456](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200716234305.png)
+![image-20200716234305456](D:\Program Files\PicGo\uploads\20200716234305.png)
 
 **方式二：在from中使用子查询**
 
@@ -1425,7 +1425,7 @@ WHERE NOT EXISTS (SELECT 'X'
                   WHERE  department_id = d.department_id);
 ```
 
-![image-20200717001944051](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717001944.png)
+![image-20200717001944051](D:\Program Files\PicGo\uploads\20200717001944.png)
 
 ### 3.5 相关更新
 
@@ -1586,7 +1586,7 @@ loc VARCHAR(13));
 DESCRIBE dept;
 ```
 
-![image-20200717002540577](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717002540.png)
+![image-20200717002540577](D:\Program Files\PicGo\uploads\20200717002540.png)
 
 ```sql
 --创建表
@@ -1604,7 +1604,7 @@ CREATE TABLE emp (
 ) ;
 ```
 
-![image-20200717002619386](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717002619.png)
+![image-20200717002619386](D:\Program Files\PicGo\uploads\20200717002619.png)
 
 - 查看表的定义：
 
@@ -1616,7 +1616,7 @@ SHOW CREATE TABLE 表名;
 
 - 使用 AS subquery 选项，**将创建表和插入数据结合起来**
 
-  ![image-20200717002700289](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717002700.png)
+  ![image-20200717002700289](D:\Program Files\PicGo\uploads\20200717002700.png)
 
 - 指定的列和子查询中的列要一一对应
 
@@ -1640,7 +1640,7 @@ WHERE   department_id = 80;
 DESCRIBE dept80;
 ```
 
-![image-20200717002857080](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717002857.png)
+![image-20200717002857080](D:\Program Files\PicGo\uploads\20200717002857.png)
 
 ### 4.5 修改表
 
@@ -1661,7 +1661,7 @@ ALTER TABLE dept80
 ADD job_id varchar(15);
 ```
 
-![image-20200717002921887](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717002922.png)
+![image-20200717002921887](D:\Program Files\PicGo\uploads\20200717002922.png)
 
 #### 4.5.2 修改一个列
 
@@ -1852,7 +1852,7 @@ TRUNCATE TABLE detail_dept;
 
 - **数据库提供的 4 种事务隔离级别：**
 
-![image-20200717003437740](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003437.png)
+![image-20200717003437740](D:\Program Files\PicGo\uploads\20200717003437.png)
 
 - Oracle 支持的 2 种事务隔离级别：**READ COMMITED**, SERIALIZABLE。 Oracle 默认的事务隔离级别为: READ COMMITED 。
 
@@ -1884,11 +1884,11 @@ TRUNCATE TABLE detail_dept;
 
 ### 6.1 插入数据
 
-![image-20200717003501575](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003501.png)
+![image-20200717003501575](D:\Program Files\PicGo\uploads\20200717003501.png)
 
 - 使用 INSERT 语句向表中插入数据。
 
-![image-20200717003520751](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003520.png)
+![image-20200717003520751](D:\Program Files\PicGo\uploads\20200717003520.png)
 
 - 使用这种语法一次只能向表中插入**一条**数据。
 - 为每一列添加一个新值。
@@ -1951,11 +1951,11 @@ WHERE  job_id LIKE '%REP%';
 
 ### 6.2 更新数据
 
-![image-20200717003620920](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003621.png)
+![image-20200717003620920](D:\Program Files\PicGo\uploads\20200717003621.png)
 
 - 使用 UPDATE 语句更新数据。
 
-![image-20200717003638740](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003638.png)
+![image-20200717003638740](D:\Program Files\PicGo\uploads\20200717003638.png)
 
 - 可以一次更新**多条**数据。
 
@@ -1986,17 +1986,17 @@ SET    department_id = 55
 WHERE  department_id = 110;
 ```
 
-![image-20200717003724463](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003724.png)
+![image-20200717003724463](D:\Program Files\PicGo\uploads\20200717003724.png)
 
 > 说明：不存在 55 号部门
 
 ### 6.3 删除数据
 
-![image-20200717003741604](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003741.png)
+![image-20200717003741604](D:\Program Files\PicGo\uploads\20200717003741.png)
 
 - 使用 DELETE 语句从表中删除数据
 
-![image-20200717003756085](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003756.png)
+![image-20200717003756085](D:\Program Files\PicGo\uploads\20200717003756.png)
 
 - 使用 WHERE 子句删除指定的记录。
 
@@ -2018,7 +2018,7 @@ DELETE FROM departments
 WHERE       department_id = 60;
 ```
 
-![image-20200717003824226](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717003824.png)
+![image-20200717003824226](D:\Program Files\PicGo\uploads\20200717003824.png)
 
 > 说明：You cannot delete a row that contains a primary key that is used as a foreign key in another table.
 
@@ -2064,7 +2064,7 @@ WHERE table_name = 'employees';
 
 - not null：**保证列值不能为空**
 
-![image-20200717004006290](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004006.png)
+![image-20200717004006290](D:\Program Files\PicGo\uploads\20200717004006.png)
 
 - 非空约束用于确保当前列的值不为空值，非空约束只能出现在表对象的列上。
 
@@ -2105,7 +2105,7 @@ MODIFY NAME VARCHAR(15) DEFAULT 'abc' NULL;
 
 ### 7.3 UNIQUE约束
 
-![image-20200717004106262](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004106.png)
+![image-20200717004106262](D:\Program Files\PicGo\uploads\20200717004106.png)
 
 - 同一个表可以有多个唯一约束。
 
@@ -2167,11 +2167,11 @@ DROP INDEX uk_name_pwd;
 
 > 注意：如果忘记名称，可以通过“**`show index from 表名称`;**”查看。
 
-![image-20200717004339934](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004340.png)
+![image-20200717004339934](D:\Program Files\PicGo\uploads\20200717004340.png)
 
 ### 7.4 PRIMARY KEY 约束
 
-![image-20200717004401227](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004401.png)
+![image-20200717004401227](D:\Program Files\PicGo\uploads\20200717004401.png)
 
 - 主键约束相当于**唯一约束+非空约束的组合**，主键约束列不允许重复，也不允许出现空值
 
@@ -2247,7 +2247,7 @@ MODIFY id INT PRIMARY KEY;
 
 ### 7.5 FOREIGN KEY 约束
 
-![image-20200717004524480](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004524.png)
+![image-20200717004524480](D:\Program Files\PicGo\uploads\20200717004524.png)
 
 - **基本理解：**
 
@@ -2419,7 +2419,7 @@ salary DOUBLE(10,2) DEFAULT 2000
 
 ### 8.2 视图（VIEW）
 
-![image-20200717004735835](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004736.png)
+![image-20200717004735835](D:\Program Files\PicGo\uploads\20200717004736.png)
 
 - 视图是一种虚表
 
@@ -2446,7 +2446,7 @@ salary DOUBLE(10,2) DEFAULT 2000
 - 创建视图
   - **在** **CREATE VIEW** **语句中嵌入子查询**
 
-  ![image-20200717004818823](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004818.png)
+  ![image-20200717004818823](D:\Program Files\PicGo\uploads\20200717004818.png)
 
   ```sql
   CREATE VIEW 	empvu80
@@ -2493,7 +2493,7 @@ SELECT *
 FROM	salvu80;
 ```
 
-![image-20200717004844490](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717004844.png)
+![image-20200717004844490](D:\Program Files\PicGo\uploads\20200717004844.png)
 
 - **修改视图**
   - 使用CREATE **OR REPLACE** VIEW 子句**修改视图**
@@ -2549,7 +2549,7 @@ GROUP BY  d.department_name;
   删除视图只是删除视图的定义，并不会删除基表的数据。
 
   ```sql
-DROP VIEW empvu80;
+  DROP VIEW empvu80;
   ```
 
 ### 8.3 索引（INDEX）
@@ -2587,7 +2587,7 @@ DROP VIEW empvu80;
 
 - 在一个或多个列上创建索引
 
-![image-20200717005009015](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717005009.png)
+![image-20200717005009015](D:\Program Files\PicGo\uploads\20200717005009.png)
 
 - 在表 EMPLOYEES的列 LAST_NAME 上创建索引
 
@@ -2627,7 +2627,7 @@ ON 		employees(last_name);
 
 - 使用DROP INDEX 命令删除索引
 
-![image-20200717005038415](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic%20GO/20200717005038.png)
+![image-20200717005038415](D:\Program Files\PicGo\uploads\20200717005038.png)
 
 ```sql
 DROP INDEX upper_last_name_idx

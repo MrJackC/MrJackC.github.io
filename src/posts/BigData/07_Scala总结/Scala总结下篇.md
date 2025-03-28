@@ -620,9 +620,9 @@ val Value: Option[String] = map.get(1)
     5."重点：先映射后扁平化，对函数体中返回的集合进行扁平化"
 ```
 
-![1590633762766](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/1590633762766.png)
+![1590633762766](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281429194.png)
 
-![image-20200529095153618](https://lian-zp.oss-cn-shenzhen.aliyuncs.com/pic GO/20200529095153.png)
+![image-20200529095153618](https://cdn.jsdelivr.net/gh/MrJackC/PicGoImages/other/202503281429248.png)
 
 ```scala
  //案例1
