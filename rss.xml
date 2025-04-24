@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://springg.us.kg/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mrjackc.github.io/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://springg.us.kg/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://mrjackc.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <title>mrjason’s Blog</title>
-    <link>https://springg.us.kg/</link>
+    <link>https://mrjackc.github.io/</link>
     <description>春鸽鸽的博客</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Feb 2025 07:30:08 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2025 07:30:08 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Apr 2025 06:31:58 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 06:31:58 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>架构</category>
     <item>
       <title>pyenv-win —— windows 端 python 版本管理工具</title>
-      <link>https://springg.us.kg/posts/Python/python-install.html</link>
-      <guid>https://springg.us.kg/posts/Python/python-install.html</guid>
-      <source url="https://springg.us.kg/rss.xml">pyenv-win —— windows 端 python 版本管理工具</source>
+      <link>https://mrjackc.github.io/posts/Python/python-install.html</link>
+      <guid>https://mrjackc.github.io/posts/Python/python-install.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">pyenv-win —— windows 端 python 版本管理工具</source>
       <description>pyenv-win —— windows 端 python 版本管理工具 pyenv-win —— windows 端 python 版本管理工具 pyenv-win —— windows 端 python 版本管理工具 - pyenv-win —— windows 端 python 版本管理工具 pyenv-win 下载 配置环境变量 使用 pyen...</description>
       <pubDate>Thu, 20 Feb 2025 07:21:44 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -59,9 +59,9 @@
     </item>
     <item>
       <title>Spring Boot2 集成 jasypt 3.0.4 配置文件敏感信息加密</title>
-      <link>https://springg.us.kg/posts/Java/Java%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9D%E8%B5%96/Jasypt/</link>
-      <guid>https://springg.us.kg/posts/Java/Java%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9D%E8%B5%96/Jasypt/</guid>
-      <source url="https://springg.us.kg/rss.xml">Spring Boot2 集成 jasypt 3.0.4 配置文件敏感信息加密</source>
+      <link>https://mrjackc.github.io/posts/Java/Java%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9D%E8%B5%96/Jasypt/</link>
+      <guid>https://mrjackc.github.io/posts/Java/Java%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9D%E8%B5%96/Jasypt/</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Spring Boot2 集成 jasypt 3.0.4 配置文件敏感信息加密</source>
       <description>Spring Boot2 集成 jasypt 3.0.4 配置文件敏感信息加密 文章目录 [1. 导入依赖] [2. yml中添加配置文件] [3. 加解密工具类] [4. 敏感信息替换] [5. 编译打包] [6. 启动项目] 1. 导入依赖 2. yml中添加配置文件 第一种（盐值配置yml中，不推荐）： 第二种（盐值不配置yml中，推荐使用）： ...</description>
       <pubDate>Thu, 20 Feb 2025 07:21:44 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -215,9 +215,9 @@
     </item>
     <item>
       <title>读懂XHR、Ajax，Fetch</title>
-      <link>https://springg.us.kg/posts/Web/frontend-js/XHR.html</link>
-      <guid>https://springg.us.kg/posts/Web/frontend-js/XHR.html</guid>
-      <source url="https://springg.us.kg/rss.xml">读懂XHR、Ajax，Fetch</source>
+      <link>https://mrjackc.github.io/posts/Web/frontend-js/XHR.html</link>
+      <guid>https://mrjackc.github.io/posts/Web/frontend-js/XHR.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">读懂XHR、Ajax，Fetch</source>
       <description>读懂XHR、Ajax，Fetch XHR、Ajax、Fetch到底是个啥 概述 要对XHR、Ajax、fetch有个深刻的掌握，让我们先来了解一下xhr、ajax、fetch 这三者都是个啥？以及他们的区别和联系。 首先，什么是XHR，XHR是XMLHttpRequest的缩写，它是是浏览器内置的一种对HTTP请求和响应的处理方式，能够获取和发送数据，...</description>
       <pubDate>Tue, 26 Nov 2024 09:28:04 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -651,9 +651,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>相关资料</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</guid>
-      <source url="https://springg.us.kg/rss.xml">相关资料</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/1.%E5%85%A8%E7%BD%91%E8%B5%84%E6%96%99.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">相关资料</source>
       <description>相关资料 在线文档用油猴脚本可以看 Fuck-Yudao SQL脚本 网盘地址1 网盘地址2 离线文档 文档地址</description>
       <pubDate>Thu, 21 Nov 2024 08:42:43 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -666,9 +666,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>代码热加载</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/10.%E4%BB%A3%E7%A0%81%E7%83%AD%E5%8A%A0%E8%BD%BD.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/10.%E4%BB%A3%E7%A0%81%E7%83%AD%E5%8A%A0%E8%BD%BD.html</guid>
-      <source url="https://springg.us.kg/rss.xml">代码热加载</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/10.%E4%BB%A3%E7%A0%81%E7%83%AD%E5%8A%A0%E8%BD%BD.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/10.%E4%BB%A3%E7%A0%81%E7%83%AD%E5%8A%A0%E8%BD%BD.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">代码热加载</source>
       <description>代码热加载 在日常开发中，我们需要经常修改 Java 代码，手动重启项目，查看修改后的效果。如果在项目小时，重启速度比较快，等待的时间是较短的。但是随着项目逐渐变大，重启的速度变慢，等待时间 1-2 min 是比较常见的。 这样就导致我们开发效率降低，影响我们的下班时间，哈哈哈~ 那么是否有方式能够实现，在我们修改完 Java 代码之后，能够不重启项目...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -722,9 +722,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>一键改包</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/11.%E4%B8%80%E9%94%AE%E6%94%B9%E5%8C%85.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/11.%E4%B8%80%E9%94%AE%E6%94%B9%E5%8C%85.html</guid>
-      <source url="https://springg.us.kg/rss.xml">一键改包</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/11.%E4%B8%80%E9%94%AE%E6%94%B9%E5%8C%85.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/11.%E4%B8%80%E9%94%AE%E6%94%B9%E5%8C%85.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">一键改包</source>
       <description>一键改包 项目提供了 ProjectReactor (opens new window)程序，支持一键改包，包括 Maven 的 groupId、artifactId、Java 的根 package、前端的 title、数据库的 SQL 配置、应用的 application.yaml 配置文件等等。效果如下图所示： 效果效果 友情提示：修改包名后，未来...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -749,9 +749,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>删除功能</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/12.%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/12.%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.html</guid>
-      <source url="https://springg.us.kg/rss.xml">删除功能</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/12.%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/12.%E5%88%A0%E9%99%A4%E5%8A%9F%E8%83%BD.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">删除功能</source>
       <description>删除功能 项目内置功能较多，会存在一些你可能用不到的功能。一般的情况下，建议通过设置该功能对应的菜单为【禁用】，实现功能的“删除”。如下图所示： 设置菜单为禁用设置菜单为禁用 后续，如果你又需要使用到该功能，只需要设置该功能对应的菜单为【开启】即可。 🙂 当然，如果你希望彻底删除功能，那么就需要采用删除代码的方式。整个过程如下： ① 【菜单】第一步，...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -833,9 +833,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>内网穿透</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/13.%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/13.%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.html</guid>
-      <source url="https://springg.us.kg/rss.xml">内网穿透</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/13.%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/13.%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">内网穿透</source>
       <description>内网穿透 在和外部系统对接时，经常需要将本地的服务，暴露到外网中。这时候，就需要使用内网穿透工具了。例如说：支付宝回调、微信支付回调、微信公众号接入、微信小程序接入等等。 常见的内网穿透工具，例如说，ngrok (opens new window)、frp (opens new window)、natapa (opens new window)等等。 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -853,9 +853,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>功能列表</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/4.%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/4.%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.html</guid>
-      <source url="https://springg.us.kg/rss.xml">功能列表</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/4.%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/4.%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">功能列表</source>
       <description>功能列表 芋道，以开发者为中心，打造中国第一流的快速开发平台，全部开源，个人与企业可 100% 免费使用。 管理后台的电脑端：Vue3 提供 element-plus (opens new window)、vben(ant-design-vue) (opens new window)两个版本，Vue2 提供 element-ui (opens new ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -909,9 +909,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>快速启动（适合“后端”工程师）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/5.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%90%8E%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/5.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%90%8E%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">快速启动（适合“后端”工程师）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/5.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%90%8E%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/5.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%90%8E%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">快速启动（适合“后端”工程师）</source>
       <description>快速启动（适合“后端”工程师） 目标：使用 IDEA 工具，将后端项目 ruoyi-vue-pro (opens new window)运行起来，并按需启动前端项目。 整个过程非常简单，预计 10 分钟就可以完成，取决于大家的网速。 从零开始 02：在 Windows 环境下，如何运行前后端项目？(opens new window) 从零开始 03：在...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -967,9 +967,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>快速启动（适合“前端”工程师）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/6.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%89%8D%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/6.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%89%8D%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">快速启动（适合“前端”工程师）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/6.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%89%8D%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/6.%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%EF%BC%88%E9%80%82%E5%90%88%E2%80%9C%E5%89%8D%E7%AB%AF%E2%80%9D%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">快速启动（适合“前端”工程师）</source>
       <description>快速启动（适合“前端”工程师） 目标：在 本地 将前端项目运行起来，使用 远程 演示环境的后端服务。 整个过程非常简单，预计 5 分钟就可以完成，取决于大家的网速。 接口文档？ 阅读 《开发指南 —— 接口文档》 呀~~ #2. 启动 Vue3 + element-plus 管理后台 yudao-ui-admin-vue3 (opens new win...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1062,9 +1062,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>接口文档</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/7.%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/7.%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.html</guid>
-      <source url="https://springg.us.kg/rss.xml">接口文档</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/7.%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/7.%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">接口文档</source>
       <description>接口文档 项目使用 Swagger 实现 RESTful API 的接口文档，提供两种解决方案： *【推荐】 Apifox (opens new window)：强大的 API 工具，支持 API 文档、API 调试、API Mock、API 自动化测试 Knife4j：简易的 API 工具，仅支持 API 文档、API 调试 为什么选择 Swagge...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1119,9 +1119,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>技术选型</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/8.%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/8.%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.html</guid>
-      <source url="https://springg.us.kg/rss.xml">技术选型</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/8.%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/8.%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">技术选型</source>
       <description>技术选型 #技术架构图 架构图架构图 #👍 相关视频教程 从零开始 01：视频课程导读：项目简介、功能列表、技术选型(opens new window) 从零开始 04：自顶向下，讲解项目的整体结构（上）(opens new window) 从零开始 04：自顶向下，讲解项目的整体结构（下）(opens new window) #👻 后端 #系统环...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1142,9 +1142,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>项目结构</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/9.%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/9.%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.html</guid>
-      <source url="https://springg.us.kg/rss.xml">项目结构</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/9.%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/1.%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/9.%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">项目结构</source>
       <description>项目结构 项目结构项目结构 #👍 相关视频教程 从零开始 01：视频课程导读：项目简介、功能列表、技术选型(opens new window) 从零开始 04：自顶向下，讲解项目的整体结构（上）(opens new window) 从零开始 04：自顶向下，讲解项目的整体结构（下）(opens new window) #👻 后端结构 后端采用模块化...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1165,9 +1165,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>开发环境</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</guid>
-      <source url="https://springg.us.kg/rss.xml">开发环境</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/1.%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">开发环境</source>
       <description>开发环境 在系统开发的经典模型，一般会分成 2 类 5 种环境： 【线下】本地环境(local)、开发环境(dev)、测试环境(test) 【线上】预发布环境(stage)、生产环境(prod) 环境示例环境示例 每个环境、每个项目使用独立的二级域名 线下、线上各一套 MySQL 数据库，多个环境共享使用 每个环境对应一个配置文件，后端使用 appli...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1213,9 +1213,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Linux 部署</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/2.Linux%20%E9%83%A8%E7%BD%B2.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/2.Linux%20%E9%83%A8%E7%BD%B2.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Linux 部署</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/2.Linux%20%E9%83%A8%E7%BD%B2.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/2.Linux%20%E9%83%A8%E7%BD%B2.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Linux 部署</source>
       <description>Linux 部署 本小节，讲解如何将前端 + 后端项目，使用 Shell 脚本，部署到 dev 开发环境下的一台 Linux 服务器上。如下图所示： Linux 部署Linux 部署 #1. 配置 MySQL #1.1 安装 MySQL（可选） 友情提示：安装 MySQL 是可选步骤，也可以购买 MySQL 云服务。 ① 执行如下命令，进行 MySQL...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1384,9 +1384,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Docker 部署</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/3.Docker%20%E9%83%A8%E7%BD%B2.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/3.Docker%20%E9%83%A8%E7%BD%B2.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Docker 部署</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/3.Docker%20%E9%83%A8%E7%BD%B2.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/3.Docker%20%E9%83%A8%E7%BD%B2.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Docker 部署</source>
       <description>Docker 部署 本小节，讲解如何将前端 + 后端项目，使用 Docker 容器，部署到 dev 开发环境下的一台 Linux 服务器上。如下图所示： Docker 部署Docker 部署 注意：服务器的 IP 地址。 外网 IP：139.9.196.247 内网 IP：192.168.0.213 下属所有涉及到 IP 的配置，需要替换成你自己的。 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1509,9 +1509,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Jenkins 部署</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/4.Jenkins%20%E9%83%A8%E7%BD%B2.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/4.Jenkins%20%E9%83%A8%E7%BD%B2.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Jenkins 部署</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/4.Jenkins%20%E9%83%A8%E7%BD%B2.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/4.Jenkins%20%E9%83%A8%E7%BD%B2.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Jenkins 部署</source>
       <description>Jenkins 部署 本小节，讲解如何将前端 + 后端项目，使用 Jenkins 工具，部署到 dev 开发环境下的一台 Linux 服务器上。如下图所示： Jenkins 部署Jenkins 部署 友情提示： 本文是 《开发指南 —— Linux 部署》 的加强版，差别在于使用 Jenkins 部署。 #1. 安装 Jenkins 阅读 《芋道 Je...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1536,9 +1536,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>HTTPS 证书</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/5.HTTPS%20%E8%AF%81%E4%B9%A6.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/5.HTTPS%20%E8%AF%81%E4%B9%A6.html</guid>
-      <source url="https://springg.us.kg/rss.xml">HTTPS 证书</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/5.HTTPS%20%E8%AF%81%E4%B9%A6.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/5.HTTPS%20%E8%AF%81%E4%B9%A6.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">HTTPS 证书</source>
       <description>HTTPS 证书 本小节，讲解如何在 Nginx 配置 SSL 证书，实现前端和后端使用 HTTPS 安全访问的功能。 考虑到各大云服务厂商的文档写的比较齐全，这里更多做汇总与整理。 😜 如果想要免费的 SSL 证书，请申请 DV 单域名证书。如果要配置多个域名，可以申请多个 DV 单域名证书。 友情提示：HTTPS 的学习资料？ 《HTTPS 的工...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1560,9 +1560,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>服务监控</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/6.%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/6.%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.html</guid>
-      <source url="https://springg.us.kg/rss.xml">服务监控</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/6.%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/10.%E8%BF%90%E7%BB%B4%E6%89%8B%E5%86%8C/6.%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">服务监控</source>
       <description>服务监控 系统使用 Spring Boot Admin 和 SkyWalking 实现后端服务的监控。 #1. Spring Boot Admin 阅读 《芋道 Spring Boot 监控工具 Admin 入门》 (opens new window)文章，入门 Spring Boot Admin。 注意，Spring Boot Admin 是内嵌在 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1619,9 +1619,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>开发规范</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</guid>
-      <source url="https://springg.us.kg/rss.xml">开发规范</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">开发规范</source>
       <description>开发规范 #1. view 页面 在 @views (opens new window)目录下，每个模块对应一个目录，它的所有功能的 .vue 都放在该目录里。 目录 目录 一般来说，一个路由对应一个 .vue 文件。 #2. api 请求 在 @/api (opens new window)目录下，每个模块对应一个 .api 文件。 目录 目录 每个...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1713,9 +1713,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>菜单路由</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</guid>
-      <source url="https://springg.us.kg/rss.xml">菜单路由</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">菜单路由</source>
       <description>菜单路由 前端项目基于 element-ui-admin 实现，它的 路由和侧边栏 (opens new window)是组织起一个后台应用的关键骨架。 侧边栏和路由是绑定在一起的，所以你只有在 @/router/index.js (opens new window)下面配置对应的路由，侧边栏就能动态的生成了，大大减轻了手动重复编辑侧边栏的工作量。 当...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1875,9 +1875,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Icon 图标</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/3.Icon%20%E5%9B%BE%E6%A0%87.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/3.Icon%20%E5%9B%BE%E6%A0%87.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Icon 图标</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/3.Icon%20%E5%9B%BE%E6%A0%87.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/3.Icon%20%E5%9B%BE%E6%A0%87.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Icon 图标</source>
       <description>Icon 图标 Element UI 内置多种 Icon 图标，可参考 Element Icon 图标 (opens new window)的文档。 在项目的 /src/assets/icons/svg (opens new window)目录下，自定义了 Icon 图标，默认注册到全局中，可以在项目中任意地方使用。如下图所示： 目录 目录 #1. 使...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1917,9 +1917,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>字典数据</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">字典数据</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">字典数据</source>
       <description>字典数据 本小节，讲解前端如何使用 [系统管理 -&amp;gt; 字典管理] 菜单的字典数据，例如说字典数据的下拉框、单选 / 多选按钮、高亮展示等等。 字典管理字典管理 #1. 全局缓存 用户登录成功后，前端会从后端获取到全量的字典数据，缓存在 store 中。如下图所示： 字典 store字典 store 这样，前端在使用到字典数据时，无需重复请求后端，提升用...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1965,9 +1965,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>系统组件</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</guid>
-      <source url="https://springg.us.kg/rss.xml">系统组件</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">系统组件</source>
       <description>系统组件 #1. 引入三方组件 除了 Element UI 组件以及项目内置的系统组件，有时还需要引入其它三方组件 (opens new window)。 #1.1 如何安装 这里，以引入 vue-count-to (opens new window)为例。在终端输入下面的命令完成安装： #1.2 如何注册 Vue 注册组件有两种方式：全局注册、局部注...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2214,9 +2214,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>通用方法</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">通用方法</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">通用方法</source>
       <description>通用方法 本小节，分享前端项目的常用方法。 #1. $tab 对象 @tab 对象，由 plugins/tab.js (opens new window)实现，用于 Tab 标签相关的操作。它有如下方法： ① 打开页签 ② 修改页签 ③ 关闭页签 ④ 刷新页签 ⑤ 关闭所有页签 ⑥ 关闭左侧页签 ⑦ 关闭右侧页签 ⑧ 关闭其它页签 #2. $modal...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2251,9 +2251,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>配置读取</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</guid>
-      <source url="https://springg.us.kg/rss.xml">配置读取</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/11.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%202/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">配置读取</source>
       <description>配置读取 在 [基础设施 -&amp;gt; 配置管理] 菜单，可以动态修改配置，无需重启服务器即可生效。 配置管理配置管理 提示 对应 《后端手册 —— 配置中心》 文档。 #1. 读取配置 前端调用 /@api/infra/config (opens new window)的 #getConfigKey(configKey) 方法，获取指定 key 对应的配置的...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2278,9 +2278,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>开发规范</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</guid>
-      <source url="https://springg.us.kg/rss.xml">开发规范</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/1.%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">开发规范</source>
       <description>开发规范 #0. 实战案例 本小节，提供大家开发管理后台的功能时，最常用的普通列表、树形列表、新增与修改的表单弹窗、详情表单弹窗的实战案例。 #0.1 普通列表 可参考 [系统管理 -&amp;gt; 岗位管理] 菜单： API 接口：/src/api/system/post/index.ts(opens new window) 列表界面：/src/views/sy...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2404,9 +2404,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>IDE 调试</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/10.IDE%20%E8%B0%83%E8%AF%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/10.IDE%20%E8%B0%83%E8%AF%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">IDE 调试</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/10.IDE%20%E8%B0%83%E8%AF%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/10.IDE%20%E8%B0%83%E8%AF%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">IDE 调试</source>
       <description>IDE 调试 除了使用 Chrome 调试 JS 代码外，我们也可以使用 IDEA / WebStorm 或 VS Code 进行代码的调试。 #1. IDEA 调试 友情提示：WebStorm 也支持。 ① 使用 npm 命令将前端项目运行起来，例如说 npm run dev。耐心等待项目启动成功~ ② 点击链接，Windows 需按住 Ctrl +...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2436,9 +2436,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>菜单路由</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</guid>
-      <source url="https://springg.us.kg/rss.xml">菜单路由</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/2.%E8%8F%9C%E5%8D%95%E8%B7%AF%E7%94%B1.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">菜单路由</source>
       <description>菜单路由 前端项目基于 vue-element-plus-admin 实现，它的 路由和侧边栏 (opens new window)是组织起一个后台应用的关键骨架。 侧边栏和路由是绑定在一起的，所以你只有在 @/router/index.js (opens new window)下面配置对应的路由，侧边栏就能动态的生成了，大大减轻了手动重复编辑侧边栏的...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2568,9 +2568,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Icon 图标</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/3.Icon%20%E5%9B%BE%E6%A0%87.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/3.Icon%20%E5%9B%BE%E6%A0%87.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Icon 图标</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/3.Icon%20%E5%9B%BE%E6%A0%87.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/3.Icon%20%E5%9B%BE%E6%A0%87.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Icon 图标</source>
       <description>Icon 图标 Element Plus 内置多种 Icon 图标，可参考 Element Plus —— Icon 图标 (opens new window)的文档。 在项目的 /src/assets/svgs (opens new window)目录下，自定义了 Icon 图标，默认注册到全局中，可以在项目中任意地方使用。如下图所示： 目录 目录 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2612,9 +2612,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>字典数据</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">字典数据</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/4.%E5%AD%97%E5%85%B8%E6%95%B0%E6%8D%AE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">字典数据</source>
       <description>字典数据 本小节，讲解前端如何使用 [系统管理 -&amp;gt; 字典管理] 菜单的字典数据，例如说字典数据的下拉框、单选 / 多选按钮、高亮展示等等。 字典管理字典管理 #1. 全局缓存 用户登录成功后，前端会从后端获取到全量的字典数据，缓存在 store 中。如下图所示： 字典 store字典 store 这样，前端在使用到字典数据时，无需重复请求后端，提升用...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2685,9 +2685,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>系统组件</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</guid>
-      <source url="https://springg.us.kg/rss.xml">系统组件</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/5.%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">系统组件</source>
       <description>系统组件 #1. 常用组件 #1.1 Editor 富文本组件 基于 wangEditor (opens new window)封装 Editor 组件：位于 src/components/Editor (opens new window)内 详细文档：vue-element-plus-admin-doc/components/editor.html(...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2893,9 +2893,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>通用方法</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">通用方法</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/6.%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">通用方法</source>
       <description>通用方法 本小节，分享前端项目的常用方法。 #1. 缓存配置 友情提示： 该小节，基于 《vue element plus admin —— 项目配置「缓存配置 」》 (opens new window)的内容修改。 #1.1 说明 在项目中，你可以看到很多地方都使用了 wsCache.set 或者 wsCache.get，这是基于 web-stora...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2928,9 +2928,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>配置读取</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</guid>
-      <source url="https://springg.us.kg/rss.xml">配置读取</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/7.%E9%85%8D%E7%BD%AE%E8%AF%BB%E5%8F%96.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">配置读取</source>
       <description>配置读取 在 [基础设施 -&amp;gt; 配置管理] 菜单，可以动态修改配置，无需重启服务器即可生效。 配置管理配置管理 提示 对应 《后端手册 —— 配置中心》 文档。 #1. 读取配置 前端调用 /@api/infra/config/index.ts (opens new window)的 #getConfigKey(configKey) 方法，获取指定 k...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2953,9 +2953,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>CRUD 组件</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/8.CRUD%20%E7%BB%84%E4%BB%B6.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/8.CRUD%20%E7%BB%84%E4%BB%B6.html</guid>
-      <source url="https://springg.us.kg/rss.xml">CRUD 组件</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/8.CRUD%20%E7%BB%84%E4%BB%B6.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/8.CRUD%20%E7%BB%84%E4%BB%B6.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">CRUD 组件</source>
       <description>CRUD 组件 管理后台的功能，一般就是 CRUD 增删改查，可以拆分 3 个部分：“列表”、“新增/修改”、“详情”，如下图所示： #1. 基础组件 涉及到 4 个前端基础组件，如下所示： #2. CRUD 组件 由于以上 4 个组件都需要 Schema 或者 columns 的字段，如果每个组件都写一遍的话，会造成大量重复代码，所以提供 useCr...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -2967,9 +2967,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>国际化</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/9.%E5%9B%BD%E9%99%85%E5%8C%96.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/9.%E5%9B%BD%E9%99%85%E5%8C%96.html</guid>
-      <source url="https://springg.us.kg/rss.xml">国际化</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/9.%E5%9B%BD%E9%99%85%E5%8C%96.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/12.%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C%20Vue%203/9.%E5%9B%BD%E9%99%85%E5%8C%96.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">国际化</source>
       <description>国际化 友情提示： 该章节，基于 《vue element plus admin —— 国际化》 (opens new window)的内容修改。 如果你使用的 vscode 开发工具，则推荐安装 I18n-ally (opens new window)这个插件 #1. I18n-ally 插件 安装了该插件后，你的代码内可以实时看到对应的语言内容 i...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3072,9 +3072,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>新建模块</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/1.%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%97.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/1.%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%97.html</guid>
-      <source url="https://springg.us.kg/rss.xml">新建模块</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/1.%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%97.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/1.%E6%96%B0%E5%BB%BA%E6%A8%A1%E5%9D%97.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">新建模块</source>
       <description>新建模块 本章节，将介绍如何新建名字为 yudao-module-demo 的示例模块，并添加 RESTful API 接口。 虽然内容看起来比较长，是因为艿艿写的比较详细，大量截图，保姆级教程！其实只有五个步骤，保持耐心，跟着艿艿一点点来。🙂 完成之后，你会对整个 项目结构 有更充分的了解。 #👍 相关视频教程 从零开始 06：如何 5 分钟，创...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3302,9 +3302,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>异常处理（错误码）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/10.%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%88%E9%94%99%E8%AF%AF%E7%A0%81%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/10.%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%88%E9%94%99%E8%AF%AF%E7%A0%81%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">异常处理（错误码）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/10.%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%88%E9%94%99%E8%AF%AF%E7%A0%81%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/10.%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%88%E9%94%99%E8%AF%AF%E7%A0%81%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">异常处理（错误码）</source>
       <description>异常处理（错误码） 本章节，将讲解异常相关的统一响应、异常处理、业务异常、错误码这 4 块的内容。 #1. 统一响应 后端提供 RESTful API 给前端时，需要响应前端 API 调用是否成功： 如果成功，成功的数据是什么。后续，前端会将数据渲染到页面上 如果失败，失败的原因是什么。一般，前端会将原因弹出提示给用户 因此，需要有统一响应，而不能是每...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3425,9 +3425,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>参数校验</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/11.%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/11.%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.html</guid>
-      <source url="https://springg.us.kg/rss.xml">参数校验</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/11.%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/11.%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">参数校验</source>
       <description>参数校验 项目使用 Hibernate Validator (opens new window)框架，对 RESTful API 接口进行参数的校验，以保证最终数据入库的正确性。例如说，用户注册时，会校验手机格式的正确性，密码非弱密码。 如果参数校验不通过，会抛出 ConstraintViolationException 异常，被全局的异常处理捕获，返...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3447,9 +3447,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>分页实现</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/12.%E5%88%86%E9%A1%B5%E5%AE%9E%E7%8E%B0.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/12.%E5%88%86%E9%A1%B5%E5%AE%9E%E7%8E%B0.html</guid>
-      <source url="https://springg.us.kg/rss.xml">分页实现</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/12.%E5%88%86%E9%A1%B5%E5%AE%9E%E7%8E%B0.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/12.%E5%88%86%E9%A1%B5%E5%AE%9E%E7%8E%B0.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">分页实现</source>
       <description>分页实现 前端：基于 Element UI 分页组件 Pagination(opens new window) 后端：基于 MyBatis Plus 分页功能，二次封装 以 [系统管理 -&amp;gt; 租户管理 -&amp;gt; 租户列表] 菜单为例子，讲解它的分页 + 搜索的实现。 #1. 前端分页实现 #1.1 Vue 界面 界面 tenant/index.vue (o...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3672,9 +3672,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>文件存储（上传下载）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/13.%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8%EF%BC%88%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/13.%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8%EF%BC%88%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">文件存储（上传下载）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/13.%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8%EF%BC%88%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/13.%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8%EF%BC%88%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">文件存储（上传下载）</source>
       <description>文件存储（上传下载） 项目支持将文件上传到三类存储器： 兼容 S3 协议的对象存储：支持 MinIO、腾讯云 COS、七牛云 Kodo、华为云 OBS、亚马逊 S3 等等。 磁盘存储：本地、FTP 服务器、SFTP 服务器。 数据库存储：MySQL、Oracle、PostgreSQL、SQL Server 等等。 技术选型？ 优先，✔ 推荐方案 1。如...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3835,9 +3835,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Excel 导入导出</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/14.Excel%20%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/14.Excel%20%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Excel 导入导出</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/14.Excel%20%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/14.Excel%20%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Excel 导入导出</source>
       <description>Excel 导入导出 项目的 yudao-spring-boot-starter-excel (opens new window)技术组件，基于 EasyExcel 实现 Excel 的读写操作，可用于实现最常见的 Excel 导入导出等功能。 EasyExcel 的介绍？ EasyExcel 是阿里开源的 Excel 工具库，具有简单易用、低内存、高...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -3926,9 +3926,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>系统日志</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/15.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/15.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.html</guid>
-      <source url="https://springg.us.kg/rss.xml">系统日志</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/15.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/15.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">系统日志</source>
       <description>系统日志 项目提供 2 类 4 种系统日志： 审计日志：用户的操作日志、登录日志 API 日志：RESTful API 的访问日志、错误日志 #1. 操作日志 操作日志，记录「谁」在「什么时间」对「什么对象」做了「什么事情」。 打开 [系统管理 -&amp;gt; 审计日志 -&amp;gt; 操作日志] 菜单，可以看到对应的列表，如下图所示： 系统管理 -&amp;gt; 操作日志系统管理 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4000,9 +4000,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>数据库 MyBatis</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/16.%E6%95%B0%E6%8D%AE%E5%BA%93%20MyBatis.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/16.%E6%95%B0%E6%8D%AE%E5%BA%93%20MyBatis.html</guid>
-      <source url="https://springg.us.kg/rss.xml">数据库 MyBatis</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/16.%E6%95%B0%E6%8D%AE%E5%BA%93%20MyBatis.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/16.%E6%95%B0%E6%8D%AE%E5%BA%93%20MyBatis.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">数据库 MyBatis</source>
       <description>数据库 MyBatis yudao-spring-boot-starter-mybatis (opens new window)技术组件，基于 MyBatis Plus 实现数据库的操作。如果你没有学习过 MyBatis Plus，建议先阅读 《芋道 Spring Boot MyBatis 入门 》 (opens new window)文章。 友情提示...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4098,9 +4098,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>MyBatis 联表&amp;分页查询</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/17.MyBatis%20%E8%81%94%E8%A1%A8_%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/17.MyBatis%20%E8%81%94%E8%A1%A8_%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2.html</guid>
-      <source url="https://springg.us.kg/rss.xml">MyBatis 联表&amp;分页查询</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/17.MyBatis%20%E8%81%94%E8%A1%A8_%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/17.MyBatis%20%E8%81%94%E8%A1%A8_%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">MyBatis 联表&amp;分页查询</source>
       <description>imgMyBatis 联表&amp;分页查询 本文，分享 MyBatis 各种常用操作，不限于链表查询、分页查询等等。 #1. 分页查询 在 《MyBatis 数据库》 的「3.4 selectPage」小节，我们使用 MyBatis Plus 实现了分页查询。除了这种方式，我们也可以使用 XML 实现分页查询。 这里，以查询 system_users 表为例...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4292,9 +4292,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>多数据源（读写分离）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/18.%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%88%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/18.%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%88%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">多数据源（读写分离）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/18.%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%88%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/18.%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%88%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">多数据源（读写分离）</source>
       <description>多数据源（读写分离） yudao-spring-boot-starter-mybatis (opens new window)技术组件，除了提供 MyBatis 数据库操作，还提供了如下 2 种功能： 数据连接池：基于 Alibaba Druid (opens new window)实现，额外提供监控的能力。 多数据源（读写分离）：基于 Dynamic...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4354,9 +4354,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Redis 缓存</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/19.Redis%20%E7%BC%93%E5%AD%98.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/19.Redis%20%E7%BC%93%E5%AD%98.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Redis 缓存</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/19.Redis%20%E7%BC%93%E5%AD%98.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/19.Redis%20%E7%BC%93%E5%AD%98.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Redis 缓存</source>
       <description>Redis 缓存 yudao-spring-boot-starter-redis (opens new window)技术组件，使用 Redis 实现缓存的功能，它有 2 种使用方式： 编程式缓存：基于 Spring Data Redis 框架的 RedisTemplate 操作模板 声明式缓存：基于 Spring Cache 框架的 @Cacheab...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4467,9 +4467,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>代码生成（新增功能）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/2.%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%EF%BC%88%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/2.%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%EF%BC%88%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">代码生成（新增功能）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/2.%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%EF%BC%88%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/2.%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%EF%BC%88%E6%96%B0%E5%A2%9E%E5%8A%9F%E8%83%BD%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">代码生成（新增功能）</source>
       <description>代码生成（新增功能） 大部分项目里，其实有很多代码是重复的，几乎每个模块都有 CRUD 增删改查的功能，而这些功能的实现代码往往是大同小异的。如果这些功能都要自己去手写，非常无聊枯燥，浪费时间且效率很低，还可能会写错。 所以这种重复性的代码，项目提供了 codegen (opens new window)代码生成器，只需要在数据库中设计好表结构，就可以...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4575,9 +4575,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>本地缓存</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/20.%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/20.%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html</guid>
-      <source url="https://springg.us.kg/rss.xml">本地缓存</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/20.%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/20.%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">本地缓存</source>
       <description>本地缓存 重要说明： ① 由于大家普遍反馈，“本地缓存”学习成本太高，一般 Redis 缓存足够满足大多数场景的性能要求，所以基本使用 Spring Cache + Redis 所替代。 也因此，本章节更多的，是讲解如何在项目中使用本地缓存。如果你不需要本地缓存，可以忽略本章节。 ② 项目中还保留了部分地方使用本地缓存，例如说：短信客户端、文件客户端、...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4699,9 +4699,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>异步任务</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/21.%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/21.%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.html</guid>
-      <source url="https://springg.us.kg/rss.xml">异步任务</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/21.%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/21.%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">异步任务</source>
       <description>异步任务 yudao-spring-boot-starter-job (opens new window)技术组件，除了提供定时任务的功能，还提供了 Async 异步任务的能力。系统使用异步任务，提升执行效率。例如说： 操作日志模块 (opens new window)，异步记录【操作日志】 访问日志模块 (opens new window)，异步记录...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4737,9 +4737,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>配置管理</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/22.%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/22.%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.html</guid>
-      <source url="https://springg.us.kg/rss.xml">配置管理</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/22.%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/22.%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">配置管理</source>
       <description>配置管理 在 [基础设施 -&amp;gt; 配置管理] 菜单，可以查看和管理配置，适合业务上需要动态的管理某个配置。 例如说：创建用户时，需要配置用户的默认密码，这个密码是不会变的，但是有时候需要修改这个默认密码，这个时候就可以通过配置管理来修改。 配置中心配置中心 对应的后端代码是 yudao-module-infra 的 config (opens new w...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4779,9 +4779,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>工具类 Util</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/23.%E5%B7%A5%E5%85%B7%E7%B1%BB%20Util.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/23.%E5%B7%A5%E5%85%B7%E7%B1%BB%20Util.html</guid>
-      <source url="https://springg.us.kg/rss.xml">工具类 Util</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/23.%E5%B7%A5%E5%85%B7%E7%B1%BB%20Util.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/23.%E5%B7%A5%E5%85%B7%E7%B1%BB%20Util.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">工具类 Util</source>
       <description>工具类 Util 本小节，介绍项目中使用到的工具类，避免大家重复造轮子。 #1. Hutool 项目使用 Hutool (opens new window)作为主工具库。Hutool 是国产的一个 Java 工具包，它可以帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。 yudao-common (opens new win...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4797,9 +4797,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>单元测试</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/24.%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/24.%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">单元测试</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/24.%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/24.%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">单元测试</source>
       <description>单元测试 项目使用 Junit5 + Mockito 实现单元测试，提升代码质量、重复测试效率、部署可靠性等。 截止目前，项目已经有 500+ 测试用例。 内容推荐 如果你想系统学习单元测试，可以阅读《有效的单元测试》 (opens new window)这本书，非常适合 Java 工程师。 如果只是想学习 Spring Boot Test 的话，可以...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4819,9 +4819,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>分布式锁</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/25.%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/25.%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html</guid>
-      <source url="https://springg.us.kg/rss.xml">分布式锁</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/25.%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/25.%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">分布式锁</source>
       <description>分布式锁 yudao-spring-boot-starter-protection (opens new window)技术组件，使用 Redis 实现分布式锁的功能，它有 2 种使用方式： 编程式锁：基于 Redisson (opens new window)框架提供的各种 (opens new window)分布式锁 声明式锁：基于 Lock4j ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4884,9 +4884,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>幂等性（防重复提交）</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/26.%E5%B9%82%E7%AD%89%E6%80%A7%EF%BC%88%E9%98%B2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%EF%BC%89.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/26.%E5%B9%82%E7%AD%89%E6%80%A7%EF%BC%88%E9%98%B2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%EF%BC%89.html</guid>
-      <source url="https://springg.us.kg/rss.xml">幂等性（防重复提交）</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/26.%E5%B9%82%E7%AD%89%E6%80%A7%EF%BC%88%E9%98%B2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%EF%BC%89.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/26.%E5%B9%82%E7%AD%89%E6%80%A7%EF%BC%88%E9%98%B2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%EF%BC%89.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">幂等性（防重复提交）</source>
       <description>幂等性（防重复提交） yudao-spring-boot-starter-protection (opens new window)技术组件，由它的 idempotent (opens new window)包，提供声明式的幂等特性，可防止重复请求。例如说，用户快速的双击了某个按钮，前端没有禁用该按钮，导致发送了两次重复的请求。 #1. 实现原理 它的...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4947,9 +4947,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>数据库文档</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/27.%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E6%A1%A3.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/27.%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E6%A1%A3.html</guid>
-      <source url="https://springg.us.kg/rss.xml">数据库文档</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/27.%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E6%A1%A3.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/27.%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E6%A1%A3.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">数据库文档</source>
       <description>数据库文档 yudao-module-infra 的 DatabaseDocController (opens new window)类，基于 Screw (opens new window)工具，生成数据库表结构的文档。 访问 [基础设施 -&amp;gt; 数据库文档] 菜单，可以查看项目的数据库文档。如下图所示： 基础设施 -&amp;gt; 数据库文档基础设施 -&amp;gt; 数据...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4963,9 +4963,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>验证码</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/28.%E9%AA%8C%E8%AF%81%E7%A0%81.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/28.%E9%AA%8C%E8%AF%81%E7%A0%81.html</guid>
-      <source url="https://springg.us.kg/rss.xml">验证码</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/28.%E9%AA%8C%E8%AF%81%E7%A0%81.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/28.%E9%AA%8C%E8%AF%81%E7%A0%81.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">验证码</source>
       <description>验证码 项目基于 AJ-Captcha (opens new window)实现行为验证码，包含滑动拼图、文字点选两种方式，UI 支持弹出和嵌入两种方式。如下图所示： 疑问：为什么采用行为验证码？ 相比传统的「传统字符型验证码」的“展示验证码-填写字符-比对答案”的流程来说，「行为验证码」的“展示验证码-操作-比对答案”的流程，用户只需要使用鼠标产生指...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -4977,9 +4977,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>功能权限</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/3.%E5%8A%9F%E8%83%BD%E6%9D%83%E9%99%90.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/3.%E5%8A%9F%E8%83%BD%E6%9D%83%E9%99%90.html</guid>
-      <source url="https://springg.us.kg/rss.xml">功能权限</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/3.%E5%8A%9F%E8%83%BD%E6%9D%83%E9%99%90.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/3.%E5%8A%9F%E8%83%BD%E6%9D%83%E9%99%90.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">功能权限</source>
       <description>功能权限 #👍 相关视频教程 功能权限 01：如何设计一套权限系统？(opens new window) 功能权限 02：如何实现菜单的创建？(opens new window) 功能权限 03：如何实现角色的创建？(opens new window) 功能权限 04：如何给用户分配权限 —— 将菜单赋予角色？(opens new window) 功...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5140,9 +5140,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>数据权限</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html</guid>
-      <source url="https://springg.us.kg/rss.xml">数据权限</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">数据权限</source>
       <description>数据权限 数据权限，实现指定用户可以操作指定范围的数据。例如说，针对员工信息的数据权限： 上述的这个示例，使用硬编码是可以实现的，并且也非常简单。但是，在业务快速迭代的过程中，类似这种数据需求会越来越多，如果全部采用硬编码的方式，无疑会给我们带来非常大的开发与维护成本。 因此，项目提供 yudao-spring-boot-starter-biz-dat...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5154,9 +5154,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>用户体系</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/5.%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/5.%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB.html</guid>
-      <source url="https://springg.us.kg/rss.xml">用户体系</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/5.%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/5.%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">用户体系</source>
       <description>用户体系 系统提供了 2 种类型的用户，分别满足对应的管理后台、用户 App 场景。 用户体系用户体系 AdminUser 管理员用户，前端访问 yudao-ui-admin (opens new window)管理后台，后端访问 /admin-api/** RESTful API 接口。 MemberUser 会员用户，前端访问 yudao-ui-u...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5334,9 +5334,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>三方登录</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/6.%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/6.%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">三方登录</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/6.%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/6.%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">三方登录</source>
       <description>三方登录 系统对接国内多个第三方平台，实现三方登录的功能。例如说： 管理后台：企业微信、阿里钉钉 用户 App：微信公众号、微信小程序 管理后台管理后台 友情提示：为了表述方便，本文主要使用管理后台的三方登录作为示例。 用户 App 也是支持该功能，你可以自己去体验一下。 #1. 表结构 imgimg ① 三方登录完成时，系统会将三方用户存储到 sys...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5388,9 +5388,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>OAuth 2.0（SSO 单点登录)</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/7.OAuth%202.0%EF%BC%88SSO%20%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95).html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/7.OAuth%202.0%EF%BC%88SSO%20%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95).html</guid>
-      <source url="https://springg.us.kg/rss.xml">OAuth 2.0（SSO 单点登录)</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/7.OAuth%202.0%EF%BC%88SSO%20%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95).html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/7.OAuth%202.0%EF%BC%88SSO%20%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95).html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">OAuth 2.0（SSO 单点登录)</source>
       <description>OAuth 2.0（SSO 单点登录) #OAuth 2.0 是什么？ OAuth 2.0 的概念讲解，可以阅读如下三篇文章： 《理解 OAuth 2.0》(opens new window) 《OAuth 2.0 的一个简单解释》(opens new window) 《OAuth 2.0 的四种方式》(opens new window) 重点是理解 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5483,9 +5483,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>SaaS 多租户【字段隔离】</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/8.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E5%AD%97%E6%AE%B5%E9%9A%94%E7%A6%BB%E3%80%91.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/8.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E5%AD%97%E6%AE%B5%E9%9A%94%E7%A6%BB%E3%80%91.html</guid>
-      <source url="https://springg.us.kg/rss.xml">SaaS 多租户【字段隔离】</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/8.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E5%AD%97%E6%AE%B5%E9%9A%94%E7%A6%BB%E3%80%91.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/8.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E5%AD%97%E6%AE%B5%E9%9A%94%E7%A6%BB%E3%80%91.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">SaaS 多租户【字段隔离】</source>
       <description>SaaS 多租户【字段隔离】 本章节，将介绍多租户的基础知识、以及怎样使用多租户的功能。 相关的视频教程： 01、如何实现多租户的 DB 封装？(opens new window) 02、如何实现多租户的 Redis 封装？(opens new window) 03、如何实现多租户的 Web 与 Security 封装？(opens new windo...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5556,9 +5556,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>SaaS 多租户【数据库隔离】</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/9.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9A%94%E7%A6%BB%E3%80%91.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/9.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9A%94%E7%A6%BB%E3%80%91.html</guid>
-      <source url="https://springg.us.kg/rss.xml">SaaS 多租户【数据库隔离】</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/9.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9A%94%E7%A6%BB%E3%80%91.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/2.%E5%90%8E%E7%AB%AF%E6%89%8B%E5%86%8C/9.SaaS%20%E5%A4%9A%E7%A7%9F%E6%88%B7%E3%80%90%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9A%94%E7%A6%BB%E3%80%91.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">SaaS 多租户【数据库隔离】</source>
       <description>SaaS 多租户【数据库隔离】 本章节，讲解 SaaS 租户的 DATASOURCE 模式，实现数据库级别的隔离。 注意，需要前置阅读 《SaaS 多租户【字段隔离】》 文档。 #0. 极速体验 ① 克隆 https://gitee.com/zhijiantianya/ruoyi-vue-pro (opens new window)仓库，并切换到 fe...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5664,9 +5664,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>消息队列</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/1.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/1.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.html</guid>
-      <source url="https://springg.us.kg/rss.xml">消息队列</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/1.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/1.%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">消息队列</source>
       <description>消息队列 yudao-spring-boot-starter-mq (opens new window)技术组件，基于 Redis 实现分布式消息队列： 使用 Stream (opens new window)特性，提供【集群】消费的能力。 使用 Pub/Sub (opens new window)特性，提供【广播】消费的能力。 友情提示： 考虑到有部...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5749,9 +5749,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>定时任务</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/2.%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/2.%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html</guid>
-      <source url="https://springg.us.kg/rss.xml">定时任务</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/2.%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/2.%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">定时任务</source>
       <description>定时任务 定时任务的使用场景主要如下： 时间驱动处理场景：每分钟扫描超时支付的订单，活动状态刷新，整点发送优惠券。 批量处理数据：按月批量统计报表数据，批量更新短信状态，实时性要求不高。 年度最佳定时任务：每个月初的工资单的推送！！！ 如果你对定时任务了解不多，可以后续阅读 《芋道 Spring Boot 定时任务入门》 (opens new wind...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5830,9 +5830,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>限流熔断</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/3.%E9%99%90%E6%B5%81%E7%86%94%E6%96%AD.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/3.%E9%99%90%E6%B5%81%E7%86%94%E6%96%AD.html</guid>
-      <source url="https://springg.us.kg/rss.xml">限流熔断</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/3.%E9%99%90%E6%B5%81%E7%86%94%E6%96%AD.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/3.%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%89%8B%E5%86%8C/3.%E9%99%90%E6%B5%81%E7%86%94%E6%96%AD.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">限流熔断</source>
       <description>限流熔断 yudao-spring-boot-starter-protection (opens new window)技术组件，基于 Resilience4j (opens new window)轻量级的容错组件，实现熔断器、限流器、舱壁隔离、重试、限时器的功能。 使用的示例，参见 《芋道 Spring Boot 服务容错 Resilience4j ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5843,9 +5843,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>工作流（Flowable）会签、或签</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/4.%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%8B%E5%86%8C/%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%88Flowable%EF%BC%89%E4%BC%9A%E7%AD%BE%E3%80%81%E6%88%96%E7%AD%BE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/4.%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%8B%E5%86%8C/%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%88Flowable%EF%BC%89%E4%BC%9A%E7%AD%BE%E3%80%81%E6%88%96%E7%AD%BE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">工作流（Flowable）会签、或签</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/4.%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%8B%E5%86%8C/%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%88Flowable%EF%BC%89%E4%BC%9A%E7%AD%BE%E3%80%81%E6%88%96%E7%AD%BE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/4.%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%89%8B%E5%86%8C/%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%88Flowable%EF%BC%89%E4%BC%9A%E7%AD%BE%E3%80%81%E6%88%96%E7%AD%BE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">工作流（Flowable）会签、或签</source>
       <description>工作流（Flowable）会签、或签 项目基于 Flowable 实现了工作流的功能。本章节，我们将介绍工作流的相关功能。 以请假流程为例，讲解系统支持的两种表单方式的工作流： 流程表单：在线配置动态表单，无需建表与开发 业务表单：业务需建立独立的数据库表，并开发对应的表单、详情界面 整个过程包括： 定义流程：【管理员】新建流程、设计流程模型、并设置用...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5964,9 +5964,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>商城演示</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/1.%E5%95%86%E5%9F%8E%E6%BC%94%E7%A4%BA.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/1.%E5%95%86%E5%9F%8E%E6%BC%94%E7%A4%BA.html</guid>
-      <source url="https://springg.us.kg/rss.xml">商城演示</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/1.%E5%95%86%E5%9F%8E%E6%BC%94%E7%A4%BA.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/1.%E5%95%86%E5%9F%8E%E6%BC%94%E7%A4%BA.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">商城演示</source>
       <description>img商城演示 #1. 演示地址 ① 商城移动端，访问 http://mall.yudao.iocoder.cn/ (opens new window)地址。 可使用账号 15601691300，密码 123456 进行登录 对应 https://github.com/yudaocode/yudao-mall-uniapp (opens new win...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -5992,9 +5992,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>功能开启</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/2.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/2.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
-      <source url="https://springg.us.kg/rss.xml">功能开启</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/2.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/5.%E5%95%86%E5%9F%8E%E6%89%8B%E5%86%8C/2.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">功能开启</source>
       <description>功能开启 商城目前处于【开发】阶段，功能还在不断完善中，敬请期待！ 完成时间不确定，主要前端的工作量比较大。如果你有兴趣一起开发，可以联系微信 wangwenbin-server 商城的功能，由 yudao-module-mall (opens new window)模块实现，对应管理后台的前端代码为 @/views/mall (opens new w...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6039,9 +6039,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>报表设计器</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/1.%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1%E5%99%A8.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/1.%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1%E5%99%A8.html</guid>
-      <source url="https://springg.us.kg/rss.xml">报表设计器</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/1.%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1%E5%99%A8.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/1.%E6%8A%A5%E8%A1%A8%E8%AE%BE%E8%AE%A1%E5%99%A8.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">报表设计器</source>
       <description>报表设计器 数据可视化，一般可以通过报表设计器、或者大屏设计器来实现。本小节，我们来讲解报表设计器的功能开启。 报表设计器，指的是使用 Web 版设计器，通过类似于 Excel 操作风格，通过拖拽完成报表设计。如下图所示： 报表设计器报表设计器 在项目中，通过集成市面上的报表引擎，实现了报表设计器的能力。目前使用如下： 为什么不使用 UReport2 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6056,9 +6056,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>大屏设计器</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/2.%E5%A4%A7%E5%B1%8F%E8%AE%BE%E8%AE%A1%E5%99%A8.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/2.%E5%A4%A7%E5%B1%8F%E8%AE%BE%E8%AE%A1%E5%99%A8.html</guid>
-      <source url="https://springg.us.kg/rss.xml">大屏设计器</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/2.%E5%A4%A7%E5%B1%8F%E8%AE%BE%E8%AE%A1%E5%99%A8.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/6.%E5%A4%A7%E5%B1%8F%E6%89%8B%E5%86%8C/2.%E5%A4%A7%E5%B1%8F%E8%AE%BE%E8%AE%A1%E5%99%A8.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">大屏设计器</source>
       <description>大屏设计器 数据可视化，一般可以通过报表设计器、或者大屏设计器来实现。本小节，我们来讲解大屏设计器的功能开启。 大屏设计器，指的是通过拖拽图表或页面元素，无需编写代码即可制作数据大屏。如下图所示： 大屏设计器大屏设计器 在项目中，通过集成市面上的报表引擎，实现了大屏设计器的能力。目前使用如下： 为什么不使用 JimuReport 报表引擎呢？ 因为 J...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6073,9 +6073,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>功能开启</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
-      <source url="https://springg.us.kg/rss.xml">功能开启</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">功能开启</source>
       <description>功能开启 支付中心最新代码 后端：已经在 master 分支 前端：暂时只能使用 Vue2 版本，也是在 该分支 (opens new window)，预计 8 月份会同步到 Vue3 版本 项目提供统一的支付中心，提供微信、支付宝等支付渠道的支付、退款等能力，方便业务模块进行快速接入，无需关注各种繁琐的支付 API。 统一接入统一接入 #1. 概述 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6185,9 +6185,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>支付宝支付接入</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/2.%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/2.%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
-      <source url="https://springg.us.kg/rss.xml">支付宝支付接入</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/2.%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/2.%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">支付宝支付接入</source>
       <description>支付宝支付接入 #0. 概述 在 yudao-module-pay-biz 模块的 demo (opens new window)模块，我们提供了一个 支付 接入的示例。 它支持如下支付渠道： 支付宝 电脑网站 (opens new window)支付 支付宝 手机网站 (opens new window)支付 支付宝 当面付 (opens new w...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6266,9 +6266,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>微信公众号支付接入</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/3.%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/3.%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
-      <source url="https://springg.us.kg/rss.xml">微信公众号支付接入</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/3.%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/3.%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">微信公众号支付接入</source>
       <description>微信公众号支付接入 微信公众号支付已实现，可见 WxPubPayClient 客户端。 由于 demo 还在编写中，所以《微信公众号支付接入》预计在 8-9 月份编写。 目前可以先参考《支付宝支付接入》进行学习。差别主要是，微信公众号支付需要 JS-SDK 初始化下。</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6279,9 +6279,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>微信小程序支付接入</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/4.%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/4.%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
-      <source url="https://springg.us.kg/rss.xml">微信小程序支付接入</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/4.%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/4.%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">微信小程序支付接入</source>
       <description>微信小程序支付接入 微信小程序支付已实现，可见 WxLitePayClient 客户端。 由于 demo 还在编写中，所以《微信小程序支付接入》预计在 8-9 月份编写。 目前可以先参考《支付宝支付接入》进行学习。差别主要是，微信小程序支付需要在微信开发者工具下测试。 上次更新: 2023/07/17, 18:07:06</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6293,9 +6293,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>支付宝、微信退款接入</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/5.%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81%E5%BE%AE%E4%BF%A1%E9%80%80%E6%AC%BE%E6%8E%A5%E5%85%A5.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/5.%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81%E5%BE%AE%E4%BF%A1%E9%80%80%E6%AC%BE%E6%8E%A5%E5%85%A5.html</guid>
-      <source url="https://springg.us.kg/rss.xml">支付宝、微信退款接入</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/5.%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81%E5%BE%AE%E4%BF%A1%E9%80%80%E6%AC%BE%E6%8E%A5%E5%85%A5.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/7.%E6%94%AF%E4%BB%98%E6%89%8B%E5%86%8C/5.%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81%E5%BE%AE%E4%BF%A1%E9%80%80%E6%AC%BE%E6%8E%A5%E5%85%A5.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">支付宝、微信退款接入</source>
       <description>支付宝、微信退款接入 #0. 概述 在 yudao-module-pay-biz 模块的 demo (opens new window)模块，我们提供了一个 退款 接入的示例，它已支持支付宝、微信的所有退款方式。 下面，我们以 demo 模块为例子，讲解如何接入退款。 #1. 第一步，创建支付订单 ① 如果你是看支付宝退款接入，则需要先看完 《支付宝支...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6340,9 +6340,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>功能开启</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
-      <source url="https://springg.us.kg/rss.xml">功能开启</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/1.%E5%8A%9F%E8%83%BD%E5%BC%80%E5%90%AF.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">功能开启</source>
       <description>功能开启 微信公众号 (opens new window)的功能，由 yudao-module-mp (opens new window)模块实现，对应前端代码为 @/views/mp (opens new window)目录。 主要包括如下 10 个功能（菜单）： 功能列表功能列表 考虑到编译速度，默认 yudao-module-mp 模块是关闭的，...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6356,9 +6356,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号统计</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/10.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%BB%9F%E8%AE%A1.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/10.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%BB%9F%E8%AE%A1.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号统计</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/10.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%BB%9F%E8%AE%A1.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/10.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%BB%9F%E8%AE%A1.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号统计</source>
       <description>公众号统计 本章节，讲解公众号统计的相关内容，包括用户、消息、接口分析。对应 [公众号管理 -&amp;gt; 数据统计] 菜单，如下图所示： 界面界面 #1. 表结构 暂无，全部基于微信公众号提供的 API 接口。 用户增减数据 + 累计用户数据：《微信公众号官方文档 —— 用户分析》(opens new window) 消息概况数据：《微信公众号官方文档 —— ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6382,9 +6382,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号接入</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/2.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%A5%E5%85%A5.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/2.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%A5%E5%85%A5.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号接入</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/2.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%A5%E5%85%A5.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/2.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8E%A5%E5%85%A5.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号接入</source>
       <description>公众号接入 本章节，讲解如果将你的公众号，接入到系统中。步骤如下： 第一步，申请公众号（可选） 第二步，在系统中，添加公众号账号 第三步，在公众号中，配置接入信息 #1. 配置步骤 本小节，手把手教你如何将公众号接入到系统中。 #第一步，申请公众号（可选） 友情提示：如果你已经有公众号，可以忽略这一步。 ① 如果你还没有公众号，可以申请一个测试帐号。 ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6439,9 +6439,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号粉丝</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/3.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B2%89%E4%B8%9D.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/3.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B2%89%E4%B8%9D.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号粉丝</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/3.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B2%89%E4%B8%9D.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/3.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B2%89%E4%B8%9D.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号粉丝</source>
       <description>公众号粉丝 本章节，讲解公众号粉丝的相关内容，包括关注、取消关注等等，对应 《微信公众号官方文档 —— 获取用户列表》 (opens new window)文档。 粉丝管理粉丝管理 #1. 表结构 公众号粉丝对应 mp_user 表，结构如下图所示： 表结构表结构 注意，自 2021-12-27 开始，公众号接口不再返回头像和昵称，只能通过微信公众号的...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6471,9 +6471,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号标签</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/4.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%A0%87%E7%AD%BE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/4.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%A0%87%E7%AD%BE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号标签</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/4.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%A0%87%E7%AD%BE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/4.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%A0%87%E7%AD%BE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号标签</source>
       <description>公众号标签 本章节，讲解公众号标签的相关内容，支持对标签进行创建、查询、修改、删除等操作，也可以对用户进行打标签、取消标签等操作，对应 《微信公众号官方文档 —— 用户标签管理》 (opens new window)文档。 标签管理标签管理 #1. 表结构 公众号粉丝对应 mp_tag 表，结构如下图所示： 表结构表结构 而给用户打上标签后，存储在 m...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6497,9 +6497,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号消息</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/5.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B6%88%E6%81%AF.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/5.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B6%88%E6%81%AF.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号消息</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/5.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B6%88%E6%81%AF.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/5.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B6%88%E6%81%AF.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号消息</source>
       <description>公众号消息 本章节，讲解公众号消息的相关内容，对应 [公众号管理 -&amp;gt; 消息管理] 菜单。如下图所示： 消息管理消息管理 #1. 表结构 公众号消息对应 mp_message 表，结构如下图所示： 表结构表结构 ① type 字段：消息类型，包括文本、图片、语音、视频、小视频、图文、音乐、地理位置、链接、事件等类型，对应 mp_message_type...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6552,9 +6552,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>自动回复</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/6.%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/6.%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D.html</guid>
-      <source url="https://springg.us.kg/rss.xml">自动回复</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/6.%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/6.%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">自动回复</source>
       <description>自动回复 本章节，讲解自动回复的相关内容，对应 [公众号管理 -&amp;gt; 自动回复] 菜单。如下图所示： 自动回复自动回复 在用户关注、发送消息时，公众号可以自动回复消息给用户。 #1. 表结构 自动回复对应 mp_auto_reply 表，结构如下图所示： 自动回复表结构自动回复表结构 type 字段：回复类型， 1 - 关注回复：用户关注公众号时 3 -...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6592,9 +6592,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号菜单</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/7.%E5%85%AC%E4%BC%97%E5%8F%B7%E8%8F%9C%E5%8D%95.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/7.%E5%85%AC%E4%BC%97%E5%8F%B7%E8%8F%9C%E5%8D%95.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号菜单</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/7.%E5%85%AC%E4%BC%97%E5%8F%B7%E8%8F%9C%E5%8D%95.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/7.%E5%85%AC%E4%BC%97%E5%8F%B7%E8%8F%9C%E5%8D%95.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号菜单</source>
       <description>公众号菜单 本章节，讲解公众号菜单的相关内容，对应 [公众号管理 -&amp;gt; 菜单管理] 菜单，对应 《微信公众号官方文档 —— 自定义菜单》 (opens new window)文档。如下图所示： 界面界面 #1. 表结构 公众号菜单对应 mp_menu 表，结构如下图所示： 表结构表结构 type 字段：按钮类型。如果类型为 CLICK 点击回复时，可进...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6618,9 +6618,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号素材</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B4%A0%E6%9D%90.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B4%A0%E6%9D%90.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号素材</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B4%A0%E6%9D%90.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B4%A0%E6%9D%90.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号素材</source>
       <description>公众号素材 本章节，讲解公众号素材的相关内容，包括图片、语音、视频素材，不包括图文素材。对应 [公众号管理 -&amp;gt; 素材管理] 菜单，如下图所示： 界面界面 在配置公众号的自动回复、菜单的自动回复、主动给用户发送消息时，都可以使用素材。 #1. 表结构 公众号素材对应 mp_material 表，结构如下图所示： 表结构表结构 ① type 字段：素材类...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6661,9 +6661,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>公众号图文</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/9.%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E6%96%87.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/9.%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E6%96%87.html</guid>
-      <source url="https://springg.us.kg/rss.xml">公众号图文</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/9.%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E6%96%87.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/8.%E5%85%AC%E4%BC%97%E5%8F%B7%E6%89%8B%E5%86%8C/9.%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E6%96%87.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">公众号图文</source>
       <description>公众号图文 本章节，讲解公众号图文的相关内容，包括两部分： ① 在 [公众号管理 -&amp;gt; 图文草稿箱] 菜单中，创建一个图文草稿。如下图所示： 界面 —— 图文草稿箱界面 —— 图文草稿箱 ② 点击【发布】按钮，将图文草稿发布到公众号，成为一个图文记录，展示在 [公众号管理 -&amp;gt; 图文发表记录] 菜单中。如下图所示： 界面 —— 图文发表记录界面 —— ...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6694,9 +6694,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>短信配置</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/1.%E7%9F%AD%E4%BF%A1%E9%85%8D%E7%BD%AE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/1.%E7%9F%AD%E4%BF%A1%E9%85%8D%E7%BD%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">短信配置</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/1.%E7%9F%AD%E4%BF%A1%E9%85%8D%E7%BD%AE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/1.%E7%9F%AD%E4%BF%A1%E9%85%8D%E7%BD%AE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">短信配置</source>
       <description>短信配置 友情提示： 该功能依赖“消息队列”，需要参考 《消息队列》 文档进行开启消息队列。 本章节，介绍项目的短信功能。该功能提供统一的短信 API 给其它模块，使它们可以快速接入短信功能，无需关心不同短信平台的具体对接。 短信采用异步发送，基于 Redis 消息队列，如下图所示： 整体流程整体流程 yudao-spring-boot-starter...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6827,9 +6827,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>邮件配置</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/2.%E9%82%AE%E4%BB%B6%E9%85%8D%E7%BD%AE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/2.%E9%82%AE%E4%BB%B6%E9%85%8D%E7%BD%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">邮件配置</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/2.%E9%82%AE%E4%BB%B6%E9%85%8D%E7%BD%AE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/2.%E9%82%AE%E4%BB%B6%E9%85%8D%E7%BD%AE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">邮件配置</source>
       <description>邮件配置 友情提示： 该功能依赖“消息队列”，需要参考 《消息队列》 文档进行开启消息队列。 本章节，介绍项目的邮件功能。它在管理后台有三个菜单，分别是： ① 邮箱账号：配置邮件的发送账号 邮箱账号邮箱账号 ② 邮件模版：管理邮件的内容模版 邮件模版邮件模版 ③ 邮件记录：查看邮件的发送记录 邮件记录邮件记录 #1. 表结构 表结构表结构 #2. 实现...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -6949,9 +6949,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>站内信</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</guid>
-      <source url="https://springg.us.kg/rss.xml">站内信</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/3.%E7%AB%99%E5%86%85%E4%BF%A1%E9%85%8D%E7%BD%AE.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">站内信</source>
       <description>站内信 本章节，介绍项目的站内信功能。它在管理后台有三个菜单，分别是： ① 站内信模版：管理站内信的内容模版 站内信模版站内信模版 ② 站内信管理：查看站内信的发送记录 站内信管理站内信管理 ③ 我的站内信：查看发送给我的站内信 我的站内信我的站内信 #1. 表结构 表结构表结构 #2. 实现代码 前端代码：views/system/notify(op...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7035,9 +7035,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>数据脱敏</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F.html</guid>
-      <source url="https://springg.us.kg/rss.xml">数据脱敏</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/4.%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">数据脱敏</source>
       <description>数据脱敏 接口在返回一些敏感或隐私数据时，是需要进行脱敏处理，通常的手段是使用 * 隐藏一部分数据。例如说： #1. 脱敏组件 yudao-spring-boot-starter-desensitize (opens new window)基于 Jackson 拓展，只需要在字段上添加脱敏注解，即可实现对该字段进行脱敏。 使用步骤如下： ① 在 pom...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7048,9 +7048,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>敏感词</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/5.%E6%95%8F%E6%84%9F%E8%AF%8D.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/5.%E6%95%8F%E6%84%9F%E8%AF%8D.html</guid>
-      <source url="https://springg.us.kg/rss.xml">敏感词</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/5.%E6%95%8F%E6%84%9F%E8%AF%8D.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/5.%E6%95%8F%E6%84%9F%E8%AF%8D.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">敏感词</source>
       <description>敏感词 本章节，介绍项目的敏感词功能，可用于文本检测，高效过滤色情、广告、敏感、暴恐等违规内容。例如说，用户昵称、评论、私信等文本内容，都可以使用敏感词功能进行过滤。 #1. 实现原理 敏感词采用 前缀树 (opens new window)算法，，核心代码见 SimpleTrie (opens new window)类。 #2. 使用教程 对应的管理...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7124,9 +7124,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>地区 &amp; IP 库</title>
-      <link>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/6.%E5%9C%B0%E5%8C%BA%20_%20IP%20%E5%BA%93.html</link>
-      <guid>https://springg.us.kg/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/6.%E5%9C%B0%E5%8C%BA%20_%20IP%20%E5%BA%93.html</guid>
-      <source url="https://springg.us.kg/rss.xml">地区 &amp; IP 库</source>
+      <link>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/6.%E5%9C%B0%E5%8C%BA%20_%20IP%20%E5%BA%93.html</link>
+      <guid>https://mrjackc.github.io/posts/Java/Ruoyi-Vue-Pro/9.%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C/6.%E5%9C%B0%E5%8C%BA%20_%20IP%20%E5%BA%93.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">地区 &amp; IP 库</source>
       <description>地区 &amp; IP 库 yudao-spring-boot-starter-biz-ip (opens new window)业务组件，提供地区 &amp; IP 库的封装。 #1. 地区 AreaUtils (opens new window)是地区工具类，可以查询中国的省、市、区县，也可以查询国外的国家。 它的数据来自 Administrative-divis...</description>
       <pubDate>Thu, 21 Nov 2024 07:41:53 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7242,9 +7242,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>Element 实现动态的el-tab</title>
-      <link>https://springg.us.kg/posts/Web/frontend-vue/vue-tabs.html</link>
-      <guid>https://springg.us.kg/posts/Web/frontend-vue/vue-tabs.html</guid>
-      <source url="https://springg.us.kg/rss.xml">Element 实现动态的el-tab</source>
+      <link>https://mrjackc.github.io/posts/Web/frontend-vue/vue-tabs.html</link>
+      <guid>https://mrjackc.github.io/posts/Web/frontend-vue/vue-tabs.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">Element 实现动态的el-tab</source>
       <description>Element 实现动态的el-tab 因业务要求要改造el-tabs组件，根据页面上的交互来动态新增和删除el-tabs组件，现在el-tabs组件下放置着el-table，el-table下涉及到分页、导出、其他交互功能，改造组件如下。页面结构代码如下，activeName是当前面板的索引值，handleClick为切换el-tabs的方法，根据业...</description>
       <pubDate>Fri, 15 Nov 2024 07:03:37 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7490,9 +7490,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>01 大数据生态圈</title>
-      <link>https://springg.us.kg/posts/BigData/</link>
-      <guid>https://springg.us.kg/posts/BigData/</guid>
-      <source url="https://springg.us.kg/rss.xml">01 大数据生态圈</source>
+      <link>https://mrjackc.github.io/posts/BigData/</link>
+      <guid>https://mrjackc.github.io/posts/BigData/</guid>
+      <source url="https://mrjackc.github.io/rss.xml">01 大数据生态圈</source>
       <description>01 大数据生态圈 这是一份有关于大数据生态圈学习过程中各类知识点整理的思维导图集，最近一次更新为 00_装配文件：在此模块中，我对大数据相关软件在 Linux 和 Mac 环境下的安装进行了详细的说明，以确保大数据软件能够尽可能成功的运行在你的电脑上。 0.5_Shell：学习大数据究竟需不需要 Shell 脚本基础，这取决于你自身，若没有 Shel...</description>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -7675,9 +7675,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>架构-架构基础</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-basic.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-basic.html</guid>
-      <source url="https://springg.us.kg/rss.xml">架构-架构基础</source>
+      <link>https://mrjackc.github.io/posts/Architect/base/arch-basic.html</link>
+      <guid>https://mrjackc.github.io/posts/Architect/base/arch-basic.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">架构-架构基础</source>
       <description>架构-架构基础 1. 软件架构简介 所谓架构，见仁见智，很难有一个明确或标准的定义；但架构并非镜花水月或阳春白雪，有系统的地方就需要架构，大到航空飞机，小到一个电商系统里面的一个功能组件，都需要设计和架构。抽象而言，架构就是对系统中的实体以及实体之间的关系所进行的抽象描述，是对物/信息的功能与形式元素之间的对应情况所做的分配，是对元素之间的关系以及元素...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -7725,9 +7725,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>架构-理解架构的核心要素</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-x-core-metrics.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-x-core-metrics.html</guid>
-      <source url="https://springg.us.kg/rss.xml">架构-理解架构的核心要素</source>
+      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-core-metrics.html</link>
+      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-core-metrics.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的核心要素</source>
       <description>架构-理解架构的核心要素 一般来说软件架构需要关注性能、可用性、伸缩性、扩展性和安全性这5个架构要素。 1. 架构的核心要素 所谓架构，一种通俗的说法就是“最高层次的规划，难以改变的决定”，这些规划和决定奠定了事物未来发展的方向和最终的蓝图。 而软件架构即“有关软件整体结构与组件的抽象描述，用于指导大型软件系统各方面的设计”。一般来说软件架构需要关注性...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -7768,9 +7768,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>架构-理解架构的演进</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-x-evolution.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-x-evolution.html</guid>
-      <source url="https://springg.us.kg/rss.xml">架构-理解架构的演进</source>
+      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-evolution.html</link>
+      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-evolution.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的演进</source>
       <description>架构-理解架构的演进 在学习架构时，第一步不要去学习框架，而是要学习架构的演进。强烈推荐李智慧老师的《大型网站技术架构》，这本书翻起来很快，对构筑你自己的体系很有帮助，本文的内容来源于它，在此基础上拓展了下 1. 架构演进 大型网站的技术挑战主要来自于庞大的用户，高并发的访问和海量的数据，任何简单的业务一旦需要处理数以P计的数据和面对数以亿计的用户，问...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
@@ -7857,9 +7857,9 @@ ajax最吸引人的<strong>特性</strong>就是它的**“异步”**特性，�
     </item>
     <item>
       <title>架构-理解架构的模式2</title>
-      <link>https://springg.us.kg/posts/Architect/base/arch-x-pattern-2.html</link>
-      <guid>https://springg.us.kg/posts/Architect/base/arch-x-pattern-2.html</guid>
-      <source url="https://springg.us.kg/rss.xml">架构-理解架构的模式2</source>
+      <link>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern-2.html</link>
+      <guid>https://mrjackc.github.io/posts/Architect/base/arch-x-pattern-2.html</guid>
+      <source url="https://mrjackc.github.io/rss.xml">架构-理解架构的模式2</source>
       <description>架构-理解架构的模式2 革命尚未成功，同志们还需努力。需要多揣摩揣摩 TIP 本文整理自朱晔的互联网架构实践心得, 他是结合了 微软给出的云架构的一些模式的基础上加入他自己的理解来总结互联网架构中具体的一些模式。 朱晔：设计模式是前人通过大量的实践总结出来的一些经验总结和最佳实践。在经过多年的软件开发实践之后，回过头来去看23种设计模式你会发现很多平时...</description>
       <category>架构</category>
       <pubDate>Mon, 28 Oct 2024 01:58:08 GMT</pubDate>
