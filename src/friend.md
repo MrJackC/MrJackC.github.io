@@ -23,8 +23,8 @@ import MyCoverLink from "@MyCoverLink";
 ```yml
 昵称: "春鸽鸽",
 简介: "到最后，竟庆幸于夕阳仍留在身上",
-头像: "https://springg.us.kg/logo.svg",
-连接: "https://springg.us.kg/"
+头像: "https://mrjackc.github.io/logo.svg",
+连接: "https://mrjackc.github.io/"
 ```
 
 @tab json
@@ -33,8 +33,8 @@ import MyCoverLink from "@MyCoverLink";
 {
   "name": "春鸽鸽",
   "desc": "到最后，竟庆幸于夕阳仍留在身上",
-  "ico": "https://springg.us.kg/logo.svg",
-  "link": "https://springg.us.kg/"
+  "ico": "https://mrjackc.github.io/logo.svg",
+  "link": "https://mrjackc.github.io/"
 }
 ```
 @tab yml
@@ -42,8 +42,8 @@ import MyCoverLink from "@MyCoverLink";
 ```yml
 - name: "春鸽鸽",
 - desc: "到最后，竟庆幸于夕阳仍留在身上",
-- ico: "https://springg.us.kg/logo.svg",
-- link: "https://springg.us.kg/"
+- ico: "https://mrjackc.github.io/logo.svg",
+- link: "https://mrjackc.github.io/"
 ```
 
 :::

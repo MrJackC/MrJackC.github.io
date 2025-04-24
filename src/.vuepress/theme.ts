@@ -3,12 +3,12 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 export default MyTheme({
   hotReload: true,
-  hostname: "https://springg.us.kg",
+  hostname: "https://mrjackc.github.io",
   themeColor: true,
   fullscreen: true,
   author: {
     name: "MrJason",
-    url: "https://springg.us.kg",
+    url: "https://mrjackc.github.io",
   },
 
   iconAssets: [
